@@ -1,1 +1,3802 @@
-[]
+[
+  {
+    "id": "r00000141-20260606175040",
+    "schedule_id": "l00000140-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000143-20260606175040",
+    "schedule_id": "l00000142-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000145-20260606175040",
+    "schedule_id": "l00000144-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "ffa48f21-2842-4d93-b132-2bbe842df749",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "58b51561-211b-4c0e-8ebf-fd67fd7607bc",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000147-20260606175040",
+    "schedule_id": "l00000146-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "ffa48f21-2842-4d93-b132-2bbe842df749",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "58b51561-211b-4c0e-8ebf-fd67fd7607bc",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000149-20260606175040",
+    "schedule_id": "l00000148-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "ffa48f21-2842-4d93-b132-2bbe842df749",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000014b-20260606175040",
+    "schedule_id": "l0000014a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "ffa48f21-2842-4d93-b132-2bbe842df749",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000014d-20260606175040",
+    "schedule_id": "l0000014c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "ffa48f21-2842-4d93-b132-2bbe842df749",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000014f-20260606175040",
+    "schedule_id": "l0000014e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "ffa48f21-2842-4d93-b132-2bbe842df749",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000152-20260606175040",
+    "schedule_id": "l00000151-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000154-20260606175040",
+    "schedule_id": "l00000153-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000156-20260606175040",
+    "schedule_id": "l00000155-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000158-20260606175040",
+    "schedule_id": "l00000157-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000160-20260606175040",
+    "schedule_id": "l0000015f-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000016e-20260606175040",
+    "schedule_id": "l0000016d-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000179-20260606175040",
+    "schedule_id": "l00000178-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000017b-20260606175040",
+    "schedule_id": "l0000017a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000017d-20260606175040",
+    "schedule_id": "l0000017c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000017f-20260606175040",
+    "schedule_id": "l0000017e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000187-20260606175040",
+    "schedule_id": "l00000186-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000018f-20260606175040",
+    "schedule_id": "l0000018e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000197-20260606175040",
+    "schedule_id": "l00000196-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001a2-20260606175040",
+    "schedule_id": "l000001a1-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001aa-20260606175040",
+    "schedule_id": "l000001a9-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001b2-20260606175040",
+    "schedule_id": "l000001b1-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001ba-20260606175040",
+    "schedule_id": "l000001b9-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001c5-20260606175040",
+    "schedule_id": "l000001c4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001c7-20260606175040",
+    "schedule_id": "l000001c6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001c9-20260606175040",
+    "schedule_id": "l000001c8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001cb-20260606175040",
+    "schedule_id": "l000001ca-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001cd-20260606175040",
+    "schedule_id": "l000001cc-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001cf-20260606175040",
+    "schedule_id": "l000001ce-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001d1-20260606175040",
+    "schedule_id": "l000001d0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001d3-20260606175040",
+    "schedule_id": "l000001d2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001d5-20260606175040",
+    "schedule_id": "l000001d4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001d7-20260606175040",
+    "schedule_id": "l000001d6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001f1-20260606175040",
+    "schedule_id": "l000001f0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001f3-20260606175040",
+    "schedule_id": "l000001f2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001f5-20260606175040",
+    "schedule_id": "l000001f4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001f7-20260606175040",
+    "schedule_id": "l000001f6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001f9-20260606175040",
+    "schedule_id": "l000001f8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001fb-20260606175040",
+    "schedule_id": "l000001fa-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001fd-20260606175040",
+    "schedule_id": "l000001fc-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000001ff-20260606175040",
+    "schedule_id": "l000001fe-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000201-20260606175040",
+    "schedule_id": "l00000200-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000203-20260606175040",
+    "schedule_id": "l00000202-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000205-20260606175040",
+    "schedule_id": "l00000204-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000207-20260606175040",
+    "schedule_id": "l00000206-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000209-20260606175040",
+    "schedule_id": "l00000208-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000211-20260606175040",
+    "schedule_id": "l00000210-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000219-20260606175040",
+    "schedule_id": "l00000218-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000221-20260606175040",
+    "schedule_id": "l00000220-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "58b51561-211b-4c0e-8ebf-fd67fd7607bc",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000223-20260606175040",
+    "schedule_id": "l00000222-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "58b51561-211b-4c0e-8ebf-fd67fd7607bc",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000225-20260606175040",
+    "schedule_id": "l00000224-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "58b51561-211b-4c0e-8ebf-fd67fd7607bc",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000227-20260606175040",
+    "schedule_id": "l00000226-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000241-20260606175040",
+    "schedule_id": "l00000240-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000243-20260606175040",
+    "schedule_id": "l00000242-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000245-20260606175040",
+    "schedule_id": "l00000244-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000253-20260606175040",
+    "schedule_id": "l00000252-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000025b-20260606175040",
+    "schedule_id": "l0000025a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000025d-20260606175040",
+    "schedule_id": "l0000025c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000025f-20260606175040",
+    "schedule_id": "l0000025e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000261-20260606175040",
+    "schedule_id": "l00000260-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000263-20260606175040",
+    "schedule_id": "l00000262-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000265-20260606175040",
+    "schedule_id": "l00000264-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000267-20260606175040",
+    "schedule_id": "l00000266-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000269-20260606175040",
+    "schedule_id": "l00000268-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000026b-20260606175040",
+    "schedule_id": "l0000026a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000026d-20260606175040",
+    "schedule_id": "l0000026c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000026f-20260606175040",
+    "schedule_id": "l0000026e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000271-20260606175040",
+    "schedule_id": "l00000270-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000273-20260606175040",
+    "schedule_id": "l00000272-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000275-20260606175040",
+    "schedule_id": "l00000274-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000277-20260606175040",
+    "schedule_id": "l00000276-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000279-20260606175040",
+    "schedule_id": "l00000278-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "c1f7c5b0-7fb1-46e6-be77-cabf85b56021",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000027b-20260606175040",
+    "schedule_id": "l0000027a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "c1f7c5b0-7fb1-46e6-be77-cabf85b56021",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000027d-20260606175040",
+    "schedule_id": "l0000027c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "c1f7c5b0-7fb1-46e6-be77-cabf85b56021",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000027f-20260606175040",
+    "schedule_id": "l0000027e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000281-20260606175040",
+    "schedule_id": "l00000280-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000283-20260606175040",
+    "schedule_id": "l00000282-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000285-20260606175040",
+    "schedule_id": "l00000284-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000287-20260606175040",
+    "schedule_id": "l00000286-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000289-20260606175040",
+    "schedule_id": "l00000288-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000291-20260606175040",
+    "schedule_id": "l00000290-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000029a-20260606175040",
+    "schedule_id": "l00000299-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002a1-20260606175040",
+    "schedule_id": "l000002a0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002a3-20260606175040",
+    "schedule_id": "l000002a2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002a5-20260606175040",
+    "schedule_id": "l000002a4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002a7-20260606175040",
+    "schedule_id": "l000002a6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002a9-20260606175040",
+    "schedule_id": "l000002a8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002b1-20260606175040",
+    "schedule_id": "l000002b0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002b9-20260606175040",
+    "schedule_id": "l000002b8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002c1-20260606175040",
+    "schedule_id": "l000002c0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002cc-20260606175040",
+    "schedule_id": "l000002cb-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002e6-20260606175040",
+    "schedule_id": "l000002e5-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002e8-20260606175040",
+    "schedule_id": "l000002e7-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002ea-20260606175040",
+    "schedule_id": "l000002e9-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002ec-20260606175040",
+    "schedule_id": "l000002eb-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000002ee-20260606175040",
+    "schedule_id": "l000002ed-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000306-20260606175040",
+    "schedule_id": "l00000305-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000308-20260606175040",
+    "schedule_id": "l00000307-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000030a-20260606175040",
+    "schedule_id": "l00000309-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000325-20260606175040",
+    "schedule_id": "l00000324-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000327-20260606175040",
+    "schedule_id": "l00000326-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000329-20260606175040",
+    "schedule_id": "l00000328-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000032b-20260606175040",
+    "schedule_id": "l0000032a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000032d-20260606175040",
+    "schedule_id": "l0000032c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000032f-20260606175040",
+    "schedule_id": "l0000032e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000331-20260606175040",
+    "schedule_id": "l00000330-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000333-20260606175040",
+    "schedule_id": "l00000332-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000335-20260606175040",
+    "schedule_id": "l00000334-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000337-20260606175040",
+    "schedule_id": "l00000336-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000339-20260606175040",
+    "schedule_id": "l00000338-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000033b-20260606175040",
+    "schedule_id": "l0000033a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000033d-20260606175040",
+    "schedule_id": "l0000033c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a814b24f-aa57-4f5a-a8da-3881bc0d2391",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000033f-20260606175040",
+    "schedule_id": "l0000033e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a814b24f-aa57-4f5a-a8da-3881bc0d2391",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000341-20260606175040",
+    "schedule_id": "l00000340-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000343-20260606175040",
+    "schedule_id": "l00000342-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000345-20260606175040",
+    "schedule_id": "l00000344-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000347-20260606175040",
+    "schedule_id": "l00000346-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000364-20260606175040",
+    "schedule_id": "l00000363-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000366-20260606175040",
+    "schedule_id": "l00000365-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000368-20260606175040",
+    "schedule_id": "l00000367-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000036a-20260606175040",
+    "schedule_id": "l00000369-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000036c-20260606175040",
+    "schedule_id": "l0000036b-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000036e-20260606175040",
+    "schedule_id": "l0000036d-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000370-20260606175040",
+    "schedule_id": "l0000036f-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000372-20260606175040",
+    "schedule_id": "l00000371-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000374-20260606175040",
+    "schedule_id": "l00000373-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000376-20260606175040",
+    "schedule_id": "l00000375-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000378-20260606175040",
+    "schedule_id": "l00000377-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000037a-20260606175040",
+    "schedule_id": "l00000379-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000394-20260606175040",
+    "schedule_id": "l00000393-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000396-20260606175040",
+    "schedule_id": "l00000395-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000398-20260606175040",
+    "schedule_id": "l00000397-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000039a-20260606175040",
+    "schedule_id": "l00000399-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000039c-20260606175040",
+    "schedule_id": "l0000039b-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000039e-20260606175040",
+    "schedule_id": "l0000039d-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003a0-20260606175040",
+    "schedule_id": "l0000039f-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003a2-20260606175040",
+    "schedule_id": "l000003a1-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003a4-20260606175040",
+    "schedule_id": "l000003a3-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003a6-20260606175040",
+    "schedule_id": "l000003a5-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003a8-20260606175040",
+    "schedule_id": "l000003a7-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003aa-20260606175040",
+    "schedule_id": "l000003a9-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003ac-20260606175040",
+    "schedule_id": "l000003ab-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003ae-20260606175040",
+    "schedule_id": "l000003ad-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003b0-20260606175040",
+    "schedule_id": "l000003af-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003b2-20260606175040",
+    "schedule_id": "l000003b1-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003b4-20260606175040",
+    "schedule_id": "l000003b3-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003b6-20260606175040",
+    "schedule_id": "l000003b5-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003b8-20260606175040",
+    "schedule_id": "l000003b7-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003ba-20260606175040",
+    "schedule_id": "l000003b9-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003bc-20260606175040",
+    "schedule_id": "l000003bb-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003be-20260606175040",
+    "schedule_id": "l000003bd-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003c0-20260606175040",
+    "schedule_id": "l000003bf-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003c2-20260606175040",
+    "schedule_id": "l000003c1-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003c4-20260606175040",
+    "schedule_id": "l000003c3-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003c6-20260606175040",
+    "schedule_id": "l000003c5-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003c8-20260606175040",
+    "schedule_id": "l000003c7-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003ca-20260606175040",
+    "schedule_id": "l000003c9-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003cc-20260606175040",
+    "schedule_id": "l000003cb-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003ce-20260606175040",
+    "schedule_id": "l000003cd-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003d0-20260606175040",
+    "schedule_id": "l000003cf-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "c1f7c5b0-7fb1-46e6-be77-cabf85b56021",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003d2-20260606175040",
+    "schedule_id": "l000003d1-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003d4-20260606175040",
+    "schedule_id": "l000003d3-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003d6-20260606175040",
+    "schedule_id": "l000003d5-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003d8-20260606175040",
+    "schedule_id": "l000003d7-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003da-20260606175040",
+    "schedule_id": "l000003d9-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003dc-20260606175040",
+    "schedule_id": "l000003db-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003de-20260606175040",
+    "schedule_id": "l000003dd-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003e0-20260606175040",
+    "schedule_id": "l000003df-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000003e2-20260606175040",
+    "schedule_id": "l000003e1-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000404-20260606175040",
+    "schedule_id": "l00000403-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "7ab0a5e1-0d0f-4c8f-bf62-032657ce3e4a",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "f2643e71-d400-4768-8c32-05c9f95a7b24",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000406-20260606175040",
+    "schedule_id": "l00000405-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "7ab0a5e1-0d0f-4c8f-bf62-032657ce3e4a",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "f2643e71-d400-4768-8c32-05c9f95a7b24",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000408-20260606175040",
+    "schedule_id": "l00000407-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "7ab0a5e1-0d0f-4c8f-bf62-032657ce3e4a",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000040a-20260606175040",
+    "schedule_id": "l00000409-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "7ab0a5e1-0d0f-4c8f-bf62-032657ce3e4a",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000040c-20260606175040",
+    "schedule_id": "l0000040b-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "7ab0a5e1-0d0f-4c8f-bf62-032657ce3e4a",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000040e-20260606175040",
+    "schedule_id": "l0000040d-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "7ab0a5e1-0d0f-4c8f-bf62-032657ce3e4a",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000410-20260606175040",
+    "schedule_id": "l0000040f-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000433-20260606175040",
+    "schedule_id": "l00000432-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000043e-20260606175040",
+    "schedule_id": "l0000043d-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000446-20260606175040",
+    "schedule_id": "l00000445-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000048d-20260606175040",
+    "schedule_id": "l0000048c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000048f-20260606175040",
+    "schedule_id": "l0000048e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000491-20260606175040",
+    "schedule_id": "l00000490-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000493-20260606175040",
+    "schedule_id": "l00000492-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000495-20260606175040",
+    "schedule_id": "l00000494-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000497-20260606175040",
+    "schedule_id": "l00000496-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000499-20260606175040",
+    "schedule_id": "l00000498-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004a1-20260606175040",
+    "schedule_id": "l000004a0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004e5-20260606175040",
+    "schedule_id": "l000004e4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "c1f7c5b0-7fb1-46e6-be77-cabf85b56021",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004e7-20260606175040",
+    "schedule_id": "l000004e6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "c1f7c5b0-7fb1-46e6-be77-cabf85b56021",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004e9-20260606175040",
+    "schedule_id": "l000004e8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "c1f7c5b0-7fb1-46e6-be77-cabf85b56021",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004eb-20260606175040",
+    "schedule_id": "l000004ea-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004ed-20260606175040",
+    "schedule_id": "l000004ec-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004ef-20260606175040",
+    "schedule_id": "l000004ee-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004f1-20260606175040",
+    "schedule_id": "l000004f0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004f3-20260606175040",
+    "schedule_id": "l000004f2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004f5-20260606175040",
+    "schedule_id": "l000004f4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004f7-20260606175040",
+    "schedule_id": "l000004f6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004f9-20260606175040",
+    "schedule_id": "l000004f8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004fb-20260606175040",
+    "schedule_id": "l000004fa-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004fd-20260606175040",
+    "schedule_id": "l000004fc-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000004ff-20260606175040",
+    "schedule_id": "l000004fe-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000501-20260606175040",
+    "schedule_id": "l00000500-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000503-20260606175040",
+    "schedule_id": "l00000502-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000505-20260606175040",
+    "schedule_id": "l00000504-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000507-20260606175040",
+    "schedule_id": "l00000506-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000050f-20260606175040",
+    "schedule_id": "l0000050e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000051e-20260606175040",
+    "schedule_id": "l0000051d-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000056d-20260606175040",
+    "schedule_id": "l0000056c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000056f-20260606175040",
+    "schedule_id": "l0000056e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000571-20260606175040",
+    "schedule_id": "l00000570-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000573-20260606175040",
+    "schedule_id": "l00000572-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000575-20260606175040",
+    "schedule_id": "l00000574-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000577-20260606175040",
+    "schedule_id": "l00000576-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000579-20260606175040",
+    "schedule_id": "l00000578-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000057b-20260606175040",
+    "schedule_id": "l0000057a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000057d-20260606175040",
+    "schedule_id": "l0000057c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000057f-20260606175040",
+    "schedule_id": "l0000057e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000581-20260606175040",
+    "schedule_id": "l00000580-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000583-20260606175040",
+    "schedule_id": "l00000582-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000585-20260606175040",
+    "schedule_id": "l00000584-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000587-20260606175040",
+    "schedule_id": "l00000586-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000589-20260606175040",
+    "schedule_id": "l00000588-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000058b-20260606175040",
+    "schedule_id": "l0000058a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000593-20260606175040",
+    "schedule_id": "l00000592-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000599-20260606175040",
+    "schedule_id": "l00000598-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000059b-20260606175040",
+    "schedule_id": "l0000059a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000059d-20260606175040",
+    "schedule_id": "l0000059c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000059f-20260606175040",
+    "schedule_id": "l0000059e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005a1-20260606175040",
+    "schedule_id": "l000005a0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005a3-20260606175040",
+    "schedule_id": "l000005a2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005a5-20260606175040",
+    "schedule_id": "l000005a4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005a7-20260606175040",
+    "schedule_id": "l000005a6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005a9-20260606175040",
+    "schedule_id": "l000005a8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005ab-20260606175040",
+    "schedule_id": "l000005aa-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005ad-20260606175040",
+    "schedule_id": "l000005ac-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005af-20260606175040",
+    "schedule_id": "l000005ae-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005b1-20260606175040",
+    "schedule_id": "l000005b0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005b3-20260606175040",
+    "schedule_id": "l000005b2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005b5-20260606175040",
+    "schedule_id": "l000005b4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005b7-20260606175040",
+    "schedule_id": "l000005b6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005b9-20260606175040",
+    "schedule_id": "l000005b8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005bb-20260606175040",
+    "schedule_id": "l000005ba-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005bd-20260606175040",
+    "schedule_id": "l000005bc-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005bf-20260606175040",
+    "schedule_id": "l000005be-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005c1-20260606175040",
+    "schedule_id": "l000005c0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005c3-20260606175040",
+    "schedule_id": "l000005c2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005c5-20260606175040",
+    "schedule_id": "l000005c4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005c7-20260606175040",
+    "schedule_id": "l000005c6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005c9-20260606175040",
+    "schedule_id": "l000005c8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005cb-20260606175040",
+    "schedule_id": "l000005ca-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005cd-20260606175040",
+    "schedule_id": "l000005cc-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005cf-20260606175040",
+    "schedule_id": "l000005ce-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005d1-20260606175040",
+    "schedule_id": "l000005d0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005d3-20260606175040",
+    "schedule_id": "l000005d2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005d5-20260606175040",
+    "schedule_id": "l000005d4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005d7-20260606175040",
+    "schedule_id": "l000005d6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005d9-20260606175040",
+    "schedule_id": "l000005d8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005db-20260606175040",
+    "schedule_id": "l000005da-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005dd-20260606175040",
+    "schedule_id": "l000005dc-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005df-20260606175040",
+    "schedule_id": "l000005de-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005e1-20260606175040",
+    "schedule_id": "l000005e0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005e3-20260606175040",
+    "schedule_id": "l000005e2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005e5-20260606175040",
+    "schedule_id": "l000005e4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005e7-20260606175040",
+    "schedule_id": "l000005e6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005e9-20260606175040",
+    "schedule_id": "l000005e8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005eb-20260606175040",
+    "schedule_id": "l000005ea-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005ed-20260606175040",
+    "schedule_id": "l000005ec-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005ef-20260606175040",
+    "schedule_id": "l000005ee-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005f1-20260606175040",
+    "schedule_id": "l000005f0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005f3-20260606175040",
+    "schedule_id": "l000005f2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005f5-20260606175040",
+    "schedule_id": "l000005f4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005f7-20260606175040",
+    "schedule_id": "l000005f6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005f9-20260606175040",
+    "schedule_id": "l000005f8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005fb-20260606175040",
+    "schedule_id": "l000005fa-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005fd-20260606175040",
+    "schedule_id": "l000005fc-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000005ff-20260606175040",
+    "schedule_id": "l000005fe-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000601-20260606175040",
+    "schedule_id": "l00000600-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000603-20260606175040",
+    "schedule_id": "l00000602-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000605-20260606175040",
+    "schedule_id": "l00000604-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000607-20260606175040",
+    "schedule_id": "l00000606-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000609-20260606175040",
+    "schedule_id": "l00000608-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000060b-20260606175040",
+    "schedule_id": "l0000060a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000060d-20260606175040",
+    "schedule_id": "l0000060c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000060f-20260606175040",
+    "schedule_id": "l0000060e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000611-20260606175040",
+    "schedule_id": "l00000610-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000613-20260606175040",
+    "schedule_id": "l00000612-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000615-20260606175040",
+    "schedule_id": "l00000614-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000617-20260606175040",
+    "schedule_id": "l00000616-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "a75cfb18-d985-47f9-85c0-7d289393bc2c",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000619-20260606175040",
+    "schedule_id": "l00000618-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000061b-20260606175040",
+    "schedule_id": "l0000061a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000061d-20260606175040",
+    "schedule_id": "l0000061c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000061f-20260606175040",
+    "schedule_id": "l0000061e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "7ab0a5e1-0d0f-4c8f-bf62-032657ce3e4a",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000626-20260606175040",
+    "schedule_id": "l00000625-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000062e-20260606175040",
+    "schedule_id": "l0000062d-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000063d-20260606175040",
+    "schedule_id": "l0000063c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000063f-20260606175040",
+    "schedule_id": "l0000063e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000641-20260606175040",
+    "schedule_id": "l00000640-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000643-20260606175040",
+    "schedule_id": "l00000642-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000645-20260606175040",
+    "schedule_id": "l00000644-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000647-20260606175040",
+    "schedule_id": "l00000646-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000649-20260606175040",
+    "schedule_id": "l00000648-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000064b-20260606175040",
+    "schedule_id": "l0000064a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000064d-20260606175040",
+    "schedule_id": "l0000064c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000064f-20260606175040",
+    "schedule_id": "l0000064e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000651-20260606175040",
+    "schedule_id": "l00000650-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000653-20260606175040",
+    "schedule_id": "l00000652-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000655-20260606175040",
+    "schedule_id": "l00000654-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000657-20260606175040",
+    "schedule_id": "l00000656-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000659-20260606175040",
+    "schedule_id": "l00000658-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000065b-20260606175040",
+    "schedule_id": "l0000065a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000065d-20260606175040",
+    "schedule_id": "l0000065c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000065f-20260606175040",
+    "schedule_id": "l0000065e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000661-20260606175040",
+    "schedule_id": "l00000660-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "c1f7c5b0-7fb1-46e6-be77-cabf85b56021",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000663-20260606175040",
+    "schedule_id": "l00000662-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000665-20260606175040",
+    "schedule_id": "l00000664-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000667-20260606175040",
+    "schedule_id": "l00000666-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000669-20260606175040",
+    "schedule_id": "l00000668-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000066b-20260606175040",
+    "schedule_id": "l0000066a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000066d-20260606175040",
+    "schedule_id": "l0000066c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000066f-20260606175040",
+    "schedule_id": "l0000066e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000671-20260606175040",
+    "schedule_id": "l00000670-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000673-20260606175040",
+    "schedule_id": "l00000672-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000675-20260606175040",
+    "schedule_id": "l00000674-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000677-20260606175040",
+    "schedule_id": "l00000676-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000679-20260606175040",
+    "schedule_id": "l00000678-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000067b-20260606175040",
+    "schedule_id": "l0000067a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000067d-20260606175040",
+    "schedule_id": "l0000067c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000067f-20260606175040",
+    "schedule_id": "l0000067e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000681-20260606175040",
+    "schedule_id": "l00000680-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000683-20260606175040",
+    "schedule_id": "l00000682-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000685-20260606175040",
+    "schedule_id": "l00000684-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000687-20260606175040",
+    "schedule_id": "l00000686-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000689-20260606175040",
+    "schedule_id": "l00000688-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000068b-20260606175040",
+    "schedule_id": "l0000068a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000068d-20260606175040",
+    "schedule_id": "l0000068c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000068f-20260606175040",
+    "schedule_id": "l0000068e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000697-20260606175040",
+    "schedule_id": "l00000696-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000699-20260606175040",
+    "schedule_id": "l00000698-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006a1-20260606175040",
+    "schedule_id": "l000006a0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
+    "present": true,
+    "justification": "recupero",
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006e7-20260606175040",
+    "schedule_id": "l000006e6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006e9-20260606175040",
+    "schedule_id": "l000006e8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006eb-20260606175040",
+    "schedule_id": "l000006ea-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006ed-20260606175040",
+    "schedule_id": "l000006ec-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006ef-20260606175040",
+    "schedule_id": "l000006ee-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006f1-20260606175040",
+    "schedule_id": "l000006f0-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "1e74b4de-e701-4eda-8b01-9f8cd14b23ef",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006f3-20260606175040",
+    "schedule_id": "l000006f2-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006f5-20260606175040",
+    "schedule_id": "l000006f4-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006f7-20260606175040",
+    "schedule_id": "l000006f6-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006f9-20260606175040",
+    "schedule_id": "l000006f8-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006fb-20260606175040",
+    "schedule_id": "l000006fa-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r000006fd-20260606175040",
+    "schedule_id": "l000006fc-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
+    "present": false,
+    "justification": null,
+    "confirmed_by": null,
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000072f-20260606175040",
+    "schedule_id": "l0000072e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "62baa301-5a24-4544-ab83-77b01784c3ed",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000731-20260606175040",
+    "schedule_id": "l00000730-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "f2643e71-d400-4768-8c32-05c9f95a7b24",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000733-20260606175040",
+    "schedule_id": "l00000732-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "f2643e71-d400-4768-8c32-05c9f95a7b24",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000735-20260606175040",
+    "schedule_id": "l00000734-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "f2643e71-d400-4768-8c32-05c9f95a7b24",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000737-20260606175040",
+    "schedule_id": "l00000736-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000739-20260606175040",
+    "schedule_id": "l00000738-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000073b-20260606175040",
+    "schedule_id": "l0000073a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000073d-20260606175040",
+    "schedule_id": "l0000073c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000073f-20260606175040",
+    "schedule_id": "l0000073e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000741-20260606175040",
+    "schedule_id": "l00000740-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000743-20260606175040",
+    "schedule_id": "l00000742-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "f2643e71-d400-4768-8c32-05c9f95a7b24",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000745-20260606175040",
+    "schedule_id": "l00000744-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "f2643e71-d400-4768-8c32-05c9f95a7b24",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000747-20260606175040",
+    "schedule_id": "l00000746-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000749-20260606175040",
+    "schedule_id": "l00000748-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "82e5a66e-e8fa-4857-9832-325015a49630",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000074b-20260606175040",
+    "schedule_id": "l0000074a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000074d-20260606175040",
+    "schedule_id": "l0000074c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000074f-20260606175040",
+    "schedule_id": "l0000074e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000751-20260606175040",
+    "schedule_id": "l00000750-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000753-20260606175040",
+    "schedule_id": "l00000752-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000755-20260606175040",
+    "schedule_id": "l00000754-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000757-20260606175040",
+    "schedule_id": "l00000756-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000759-20260606175040",
+    "schedule_id": "l00000758-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000075b-20260606175040",
+    "schedule_id": "l0000075a-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000075d-20260606175040",
+    "schedule_id": "l0000075c-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r0000075f-20260606175040",
+    "schedule_id": "l0000075e-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000761-20260606175040",
+    "schedule_id": "l00000760-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  },
+  {
+    "id": "r00000763-20260606175040",
+    "schedule_id": "l00000762-20260606175040",
+    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
+    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
+    "present": false,
+    "justification": null,
+    "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
+    "confirmed_at": "2026-06-06T17:50:40.921418"
+  }
+]
