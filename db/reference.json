@@ -1,0 +1,337 @@
+{
+  "courseTypes": [
+    {
+      "id": "b1mil",
+      "code": "TB1MIL",
+      "name": "TB1 MIL - Estensione B1 Sistemi Militari",
+      "category": "B1",
+      "maxAttendees": 28,
+      "schedule": {
+        "mondayThursday": [
+          {"slot": 1, "start": "08:00", "end": "09:00"},
+          {"slot": 2, "start": "09:10", "end": "10:10"},
+          {"slot": 3, "start": "10:20", "end": "11:20"},
+          {"slot": 4, "start": "11:30", "end": "12:30"},
+          {"slot": 5, "start": "14:00", "end": "14:50"},
+          {"slot": 6, "start": "15:30", "end": "16:30"}
+        ],
+        "friday": [
+          {"slot": 1, "start": "08:00", "end": "09:00"},
+          {"slot": 2, "start": "09:10", "end": "10:10"},
+          {"slot": 3, "start": "10:20", "end": "11:20"}
+        ],
+        "hoursPerWeek": 27
+      },
+      "modules": [
+        {
+          "number": 50,
+          "name": "Principles of Armament",
+          "theoryHours": 15,
+          "practicalHours": 5,
+          "examQuestions": 12,
+          "examMinutes": 15,
+          "submodules": [
+            {
+              "code": "50.1",
+              "name": "Essential principles of Armament",
+              "levelB1": 2,
+              "theoryHours": 15,
+              "practicalHours": 5,
+              "topics": ["Propellants and explosives", "Pyrotechnics including Flares", "Stores loading/unloading", "Ammunitions transportation", "Air-to-ground missile", "Air-to-air missile", "Air-to-sea missile", "Aerial torpedo", "Bomba (freefall and guided)", "Missile guidance methods", "Missile warheads and detonation mechanism", "Guided weapon aerodynamics and flight controls", "Storage, de-stocking and ammunitions assembly"]
+            }
+          ]
+        },
+        {
+          "number": 51,
+          "name": "Weapons Systems",
+          "theoryHours": 20,
+          "practicalHours": 10,
+          "examQuestions": 28,
+          "examMinutes": 35,
+          "submodules": [
+            {
+              "code": "51.1",
+              "name": "Weapons stores system (System 94)",
+              "levelB1": 3,
+              "theoryHours": 20,
+              "practicalHours": 10,
+              "topics": ["Weapon and stores release, fire and jettison stores", "Weapon suspension system", "Interconnecting equipment to transport and release/fire weapons", "Gunner", "Weapon control, designating and acquiring a target"]
+            }
+          ]
+        },
+        {
+          "number": 53,
+          "name": "Surveillance and Electronic Warfare",
+          "theoryHours": 23,
+          "practicalHours": 10,
+          "examQuestions": 32,
+          "examMinutes": 40,
+          "submodules": [
+            {
+              "code": "53.1",
+              "name": "Surveillance (System 93)",
+              "levelB1": 2,
+              "theoryHours": 9,
+              "practicalHours": 4,
+              "topics": ["Data processing", "Data display", "Recording", "Identification", "Infra-red and laser sensors", "Surveillance radar", "Magnetic sensors", "Sonar sensors (active and passive)"]
+            },
+            {
+              "code": "53.2",
+              "name": "Image recording (System 97)",
+              "levelB1": 2,
+              "theoryHours": 5,
+              "practicalHours": 2,
+              "topics": ["Optical systems", "Specificities of aerial photography", "Cameras"]
+            },
+            {
+              "code": "53.3",
+              "name": "Electronic warfare (System 99)",
+              "levelB1": 2,
+              "theoryHours": 9,
+              "practicalHours": 4,
+              "topics": ["Active electromagnetic", "Passive electromagnetic", "ELINT", "Infrared and Laser systems", "Electromagnetic countermeasures"]
+            }
+          ]
+        },
+        {
+          "number": 54,
+          "name": "Crew Safety",
+          "theoryHours": 40,
+          "practicalHours": 15,
+          "examQuestions": 20,
+          "examMinutes": 25,
+          "submodules": [
+            {
+              "code": "54.1",
+              "name": "Crew escape and safety (System 95)",
+              "levelB1": 3,
+              "theoryHours": 40,
+              "practicalHours": 15,
+              "topics": ["Ejection seats", "Escape hatches/canopy, Miniature Detonating Cord (MDC)", "Global survival kits", "Impact protection"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2mil",
+      "code": "TB2MIL",
+      "name": "TB2 MIL - Estensione B2 Sistemi Militari",
+      "category": "B2",
+      "maxAttendees": 28,
+      "schedule": {
+        "mondayThursday": [
+          {"slot": 1, "start": "08:00", "end": "09:00"},
+          {"slot": 2, "start": "09:10", "end": "10:10"},
+          {"slot": 3, "start": "10:20", "end": "11:20"},
+          {"slot": 4, "start": "11:30", "end": "12:30"},
+          {"slot": 5, "start": "14:00", "end": "14:50"},
+          {"slot": 6, "start": "15:30", "end": "16:30"}
+        ],
+        "friday": [
+          {"slot": 1, "start": "08:00", "end": "09:00"},
+          {"slot": 2, "start": "09:10", "end": "10:10"},
+          {"slot": 3, "start": "10:20", "end": "11:20"}
+        ],
+        "hoursPerWeek": 27
+      },
+      "modules": [
+        {
+          "number": 50,
+          "name": "Principles of Armament",
+          "theoryHours": 15,
+          "practicalHours": 5,
+          "examQuestions": 12,
+          "examMinutes": 15,
+          "submodules": [
+            {
+              "code": "50.1",
+              "name": "Essential principles of Armament",
+              "levelB2": 2,
+              "theoryHours": 15,
+              "practicalHours": 5,
+              "topics": ["Propellants and explosives", "Pyrotechnics including Flares", "Stores loading/unloading", "Ammunitions transportation", "Air-to-ground missile", "Air-to-air missile", "Air-to-sea missile", "Aerial torpedo", "Bomba (freefall and guided)", "Missile guidance methods", "Missile warheads and detonation mechanism", "Guided weapon aerodynamics and flight controls", "Storage, de-stocking and ammunitions assembly"]
+            }
+          ]
+        },
+        {
+          "number": 51,
+          "name": "Weapons Systems",
+          "theoryHours": 20,
+          "practicalHours": 10,
+          "examQuestions": 28,
+          "examMinutes": 35,
+          "submodules": [
+            {
+              "code": "51.1",
+              "name": "Weapons stores system (System 94)",
+              "levelB2": 3,
+              "theoryHours": 20,
+              "practicalHours": 10,
+              "topics": ["Weapon and stores release, fire and jettison stores", "Weapon suspension system", "Interconnecting equipment to transport and release/fire weapons", "Gunner", "Weapon control, designating and acquiring a target"]
+            }
+          ]
+        },
+        {
+          "number": 53,
+          "name": "Surveillance and Electronic Warfare",
+          "theoryHours": 25,
+          "practicalHours": 10,
+          "examQuestions": 32,
+          "examMinutes": 40,
+          "submodules": [
+            {
+              "code": "53.1",
+              "name": "Surveillance (System 93)",
+              "levelB2": 2,
+              "theoryHours": 10,
+              "practicalHours": 4,
+              "topics": ["Data processing", "Data display", "Recording", "Identification", "Infra-red and laser sensors", "Surveillance radar", "Magnetic sensors", "Sonar sensors (active and passive)"]
+            },
+            {
+              "code": "53.2",
+              "name": "Image recording (System 97)",
+              "levelB2": 2,
+              "theoryHours": 6,
+              "practicalHours": 2,
+              "topics": ["Optical systems", "Specificities of aerial photography", "Cameras"]
+            },
+            {
+              "code": "53.3",
+              "name": "Electronic warfare (System 99)",
+              "levelB2": 2,
+              "theoryHours": 9,
+              "practicalHours": 4,
+              "topics": ["Active electromagnetic", "Passive electromagnetic", "ELINT", "Infrared and Laser systems", "Electromagnetic countermeasures"]
+            }
+          ]
+        },
+        {
+          "number": 54,
+          "name": "Crew Safety",
+          "theoryHours": 14,
+          "practicalHours": 10,
+          "examQuestions": 20,
+          "examMinutes": 25,
+          "submodules": [
+            {
+              "code": "54.1",
+              "name": "Crew escape and safety (System 95)",
+              "levelB2": 3,
+              "theoryHours": 14,
+              "practicalHours": 10,
+              "topics": ["Ejection seats", "Escape hatches/canopy, Miniature Detonating Cord (MDC)", "Global survival kits", "Impact protection"]
+            }
+          ]
+        },
+        {
+          "number": 55,
+          "name": "Military Communication Systems",
+          "theoryHours": 16,
+          "practicalHours": 5,
+          "examQuestions": 20,
+          "examMinutes": 25,
+          "submodules": [
+            {
+              "code": "55.1",
+              "name": "Military Communication Systems",
+              "levelB2": 2,
+              "theoryHours": 16,
+              "practicalHours": 5,
+              "topics": ["Military VHF/UHF radio", "Secure communications", "IFF systems", "Data link systems", "Communications management"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "code": "TB1",
+      "name": "TB1 - Manutentore Tecnico Meccanico",
+      "category": "B1",
+      "maxAttendees": 28,
+      "schedule": {
+        "mondayThursday": [
+          {"slot": 1, "start": "08:00", "end": "09:00"},
+          {"slot": 2, "start": "09:10", "end": "10:10"},
+          {"slot": 3, "start": "10:20", "end": "11:20"},
+          {"slot": 4, "start": "11:30", "end": "12:30"},
+          {"slot": 5, "start": "14:00", "end": "14:50"},
+          {"slot": 6, "start": "15:30", "end": "16:30"}
+        ],
+        "friday": [
+          {"slot": 1, "start": "08:00", "end": "09:00"},
+          {"slot": 2, "start": "09:10", "end": "10:10"},
+          {"slot": 3, "start": "10:20", "end": "11:20"}
+        ],
+        "hoursPerWeek": 27
+      },
+      "modules": [
+        {"number": 1, "name": "Mathematics", "theoryHours": 70, "practicalHours": 0, "submodules": [{"code": "1.1", "name": "Arithmetic", "theoryHours": 20, "practicalHours": 0}, {"code": "1.2", "name": "Algebra", "theoryHours": 25, "practicalHours": 0}, {"code": "1.3", "name": "Geometry", "theoryHours": 15, "practicalHours": 0}, {"code": "1.4", "name": "Statistics", "theoryHours": 10, "practicalHours": 0}]},
+        {"number": 2, "name": "Physics", "theoryHours": 90, "practicalHours": 0, "submodules": [{"code": "2.1", "name": "Matter", "theoryHours": 10, "practicalHours": 0}, {"code": "2.2", "name": "Mechanics", "theoryHours": 30, "practicalHours": 0}, {"code": "2.3", "name": "Thermodynamics", "theoryHours": 20, "practicalHours": 0}, {"code": "2.4", "name": "Optics", "theoryHours": 10, "practicalHours": 0}, {"code": "2.5", "name": "Wave motion and sound", "theoryHours": 20, "practicalHours": 0}]},
+        {"number": 3, "name": "Electrical Fundamentals", "theoryHours": 90, "practicalHours": 20, "submodules": [{"code": "3.1", "name": "Electron theory", "theoryHours": 5, "practicalHours": 0}, {"code": "3.2", "name": "Static electricity and conduction", "theoryHours": 5, "practicalHours": 0}, {"code": "3.3", "name": "Electrical terminology", "theoryHours": 5, "practicalHours": 0}, {"code": "3.4", "name": "Generation of electricity", "theoryHours": 5, "practicalHours": 0}, {"code": "3.5", "name": "DC sources of electricity", "theoryHours": 10, "practicalHours": 5}, {"code": "3.6", "name": "DC circuits", "theoryHours": 15, "practicalHours": 5}, {"code": "3.7", "name": "Resistance/resistor", "theoryHours": 10, "practicalHours": 5}, {"code": "3.8", "name": "Power", "theoryHours": 5, "practicalHours": 0}, {"code": "3.9", "name": "Capacitance/capacitor", "theoryHours": 10, "practicalHours": 0}, {"code": "3.10", "name": "Magnetism", "theoryHours": 10, "practicalHours": 5}, {"code": "3.11", "name": "Inductance/inductor", "theoryHours": 5, "practicalHours": 0}, {"code": "3.12", "name": "DC motor/generator theory", "theoryHours": 5, "practicalHours": 0}]},
+        {"number": 4, "name": "Electronic Fundamentals", "theoryHours": 50, "practicalHours": 0, "submodules": [{"code": "4.1", "name": "Semiconductors", "theoryHours": 20, "practicalHours": 0}, {"code": "4.2", "name": "Printed circuit board", "theoryHours": 5, "practicalHours": 0}, {"code": "4.3", "name": "Servomechanisms", "theoryHours": 25, "practicalHours": 0}]},
+        {"number": 5, "name": "Digital Technique/Electronic Instrument System", "theoryHours": 80, "practicalHours": 0, "submodules": [{"code": "5.1", "name": "Electronic instrument systems", "theoryHours": 20, "practicalHours": 0}, {"code": "5.2", "name": "Numbering systems", "theoryHours": 10, "practicalHours": 0}, {"code": "5.3", "name": "Data conversion", "theoryHours": 10, "practicalHours": 0}, {"code": "5.4", "name": "Data buses", "theoryHours": 15, "practicalHours": 0}, {"code": "5.5", "name": "Logic circuits", "theoryHours": 15, "practicalHours": 0}, {"code": "5.6", "name": "Basic computer structure", "theoryHours": 10, "practicalHours": 0}]},
+        {"number": 6, "name": "Materials And Hardware", "theoryHours": 160, "practicalHours": 0, "submodules": [{"code": "6.1", "name": "Aircraft materials - ferrous", "theoryHours": 20, "practicalHours": 0}, {"code": "6.2", "name": "Aircraft materials - non-ferrous", "theoryHours": 20, "practicalHours": 0}, {"code": "6.3", "name": "Aircraft materials - composite and non-metallic", "theoryHours": 20, "practicalHours": 0}, {"code": "6.4", "name": "Corrosion", "theoryHours": 20, "practicalHours": 0}, {"code": "6.5", "name": "Fasteners", "theoryHours": 20, "practicalHours": 0}, {"code": "6.6", "name": "Pipes and unions", "theoryHours": 20, "practicalHours": 0}, {"code": "6.7", "name": "Springs", "theoryHours": 20, "practicalHours": 0}, {"code": "6.8", "name": "Bearings", "theoryHours": 20, "practicalHours": 0}]},
+        {"number": 7, "name": "Maintenance Practices", "theoryHours": 260, "practicalHours": 147, "submodules": [{"code": "7.1", "name": "Safety precautions - aircraft and shop", "theoryHours": 20, "practicalHours": 10}, {"code": "7.2", "name": "Workshop practices", "theoryHours": 30, "practicalHours": 20}, {"code": "7.3", "name": "Tools", "theoryHours": 20, "practicalHours": 15}, {"code": "7.4", "name": "Aviation fasteners", "theoryHours": 20, "practicalHours": 15}, {"code": "7.5", "name": "Electrical wiring interconnect system", "theoryHours": 30, "practicalHours": 20}, {"code": "7.6", "name": "Riveting", "theoryHours": 20, "practicalHours": 15}, {"code": "7.7", "name": "Pipes and hoses", "theoryHours": 20, "practicalHours": 12}, {"code": "7.8", "name": "Springs", "theoryHours": 10, "practicalHours": 5}, {"code": "7.9", "name": "Bearings", "theoryHours": 10, "practicalHours": 5}, {"code": "7.10", "name": "Transmissions", "theoryHours": 15, "practicalHours": 10}, {"code": "7.11", "name": "Control cables", "theoryHours": 15, "practicalHours": 10}, {"code": "7.12", "name": "Maintenance documentation", "theoryHours": 30, "practicalHours": 10}]},
+        {"number": 8, "name": "Basic Aerodynamics", "theoryHours": 50, "practicalHours": 0, "submodules": [{"code": "8.1", "name": "Atmosphere", "theoryHours": 10, "practicalHours": 0}, {"code": "8.2", "name": "Aerodynamics", "theoryHours": 20, "practicalHours": 0}, {"code": "8.3", "name": "Theory of flight - aeroplane", "theoryHours": 10, "practicalHours": 0}, {"code": "8.4", "name": "Theory of flight - helicopter", "theoryHours": 10, "practicalHours": 0}]},
+        {"number": 9, "name": "Human Factor", "theoryHours": 22, "practicalHours": 0, "submodules": [{"code": "9.1", "name": "General", "theoryHours": 5, "practicalHours": 0}, {"code": "9.2", "name": "Human performance and limitations", "theoryHours": 7, "practicalHours": 0}, {"code": "9.3", "name": "Social psychology", "theoryHours": 5, "practicalHours": 0}, {"code": "9.4", "name": "Factors affecting performance", "theoryHours": 5, "practicalHours": 0}]},
+        {"number": 10, "name": "Aviation Legislation", "theoryHours": 28, "practicalHours": 0, "submodules": [{"code": "10.1", "name": "Regulatory framework", "theoryHours": 10, "practicalHours": 0}, {"code": "10.2", "name": "Certifying staff and certification", "theoryHours": 10, "practicalHours": 0}, {"code": "10.3", "name": "Approved maintenance organisations", "theoryHours": 8, "practicalHours": 0}]},
+        {"number": 11, "name": "Aeroplane Aerodynamics, Structures and Systems", "theoryHours": 120, "practicalHours": 35, "submodules": [{"code": "11A.1", "name": "Theory of flight - turbine", "theoryHours": 30, "practicalHours": 10}, {"code": "11A.2", "name": "Airframe structures - turbine", "theoryHours": 40, "practicalHours": 10}, {"code": "11A.3", "name": "Air conditioning, pressurisation, oxygen systems", "theoryHours": 20, "practicalHours": 5}, {"code": "11A.4", "name": "Avionics", "theoryHours": 10, "practicalHours": 5}, {"code": "11B.1", "name": "Theory of flight - piston", "theoryHours": 6, "practicalHours": 5}]},
+        {"number": 12, "name": "Helicopter Aerodynamics, Structure and Systems", "theoryHours": 350, "practicalHours": 112, "submodules": [{"code": "12.1", "name": "Theory of flight - rotary wing", "theoryHours": 40, "practicalHours": 10}, {"code": "12.2", "name": "Flight control systems", "theoryHours": 40, "practicalHours": 15}, {"code": "12.3", "name": "Rotors", "theoryHours": 30, "practicalHours": 10}, {"code": "12.4", "name": "Transmission", "theoryHours": 30, "practicalHours": 10}, {"code": "12.5", "name": "Fuselage and landing gear", "theoryHours": 30, "practicalHours": 10}, {"code": "12.6", "name": "Hydraulic power", "theoryHours": 30, "practicalHours": 10}, {"code": "12.7", "name": "Fuel systems", "theoryHours": 20, "practicalHours": 7}, {"code": "12.8", "name": "Electrical power", "theoryHours": 30, "practicalHours": 10}, {"code": "12.9", "name": "Ice and rain protection", "theoryHours": 20, "practicalHours": 5}, {"code": "12.10", "name": "Fire protection", "theoryHours": 20, "practicalHours": 5}, {"code": "12.11", "name": "Indicating and recording systems", "theoryHours": 30, "practicalHours": 10}, {"code": "12.12", "name": "Navigation systems", "theoryHours": 30, "practicalHours": 10}]},
+        {"number": 13, "name": "Gas Turbine Engine", "theoryHours": 180, "practicalHours": 50, "submodules": [{"code": "13.1", "name": "Fundamentals", "theoryHours": 30, "practicalHours": 5}, {"code": "13.2", "name": "Engine performance", "theoryHours": 20, "practicalHours": 5}, {"code": "13.3", "name": "Inlet, compressors, combustion section, turbine section", "theoryHours": 40, "practicalHours": 10}, {"code": "13.4", "name": "Exhaust, bearings, seals", "theoryHours": 20, "practicalHours": 5}, {"code": "13.5", "name": "Lubrication systems", "theoryHours": 20, "practicalHours": 5}, {"code": "13.6", "name": "Fuel systems", "theoryHours": 20, "practicalHours": 10}, {"code": "13.7", "name": "Air systems", "theoryHours": 15, "practicalHours": 5}, {"code": "13.8", "name": "Starting and ignition systems", "theoryHours": 15, "practicalHours": 5}]},
+        {"number": 15, "name": "Piston Engine", "theoryHours": 80, "practicalHours": 20, "submodules": [{"code": "15.1", "name": "Fundamentals", "theoryHours": 20, "practicalHours": 5}, {"code": "15.2", "name": "Engine performance", "theoryHours": 10, "practicalHours": 5}, {"code": "15.3", "name": "Engine construction", "theoryHours": 20, "practicalHours": 5}, {"code": "15.4", "name": "Engine fuel systems", "theoryHours": 15, "practicalHours": 5}, {"code": "15.5", "name": "Starting and ignition systems", "theoryHours": 15, "practicalHours": 0}]},
+        {"number": 16, "name": "Gas Turbine Engine (Helicopter)", "theoryHours": 80, "practicalHours": 20, "submodules": [{"code": "16.1", "name": "Fundamentals", "theoryHours": 20, "practicalHours": 5}, {"code": "16.2", "name": "Engine performance", "theoryHours": 20, "practicalHours": 5}, {"code": "16.3", "name": "Engine construction", "theoryHours": 20, "practicalHours": 5}, {"code": "16.4", "name": "Engine systems", "theoryHours": 20, "practicalHours": 5}]},
+        {"number": 17, "name": "Propeller", "theoryHours": 40, "practicalHours": 10, "submodules": [{"code": "17.1", "name": "Fundamentals", "theoryHours": 15, "practicalHours": 5}, {"code": "17.2", "name": "Propeller construction", "theoryHours": 15, "practicalHours": 5}, {"code": "17.3", "name": "Propeller pitch control", "theoryHours": 10, "practicalHours": 0}]}
+      ]
+    },
+    {
+      "id": "b2",
+      "code": "TB2",
+      "name": "TB2 - Manutentore Tecnico Avionico",
+      "category": "B2",
+      "maxAttendees": 28,
+      "schedule": {
+        "mondayThursday": [
+          {"slot": 1, "start": "08:00", "end": "09:00"},
+          {"slot": 2, "start": "09:10", "end": "10:10"},
+          {"slot": 3, "start": "10:20", "end": "11:20"},
+          {"slot": 4, "start": "11:30", "end": "12:30"},
+          {"slot": 5, "start": "14:00", "end": "14:50"},
+          {"slot": 6, "start": "15:30", "end": "16:30"}
+        ],
+        "friday": [
+          {"slot": 1, "start": "08:00", "end": "09:00"},
+          {"slot": 2, "start": "09:10", "end": "10:10"},
+          {"slot": 3, "start": "10:20", "end": "11:20"}
+        ],
+        "hoursPerWeek": 27
+      },
+      "modules": [
+        {"number": 1, "name": "Mathematics", "theoryHours": 70, "practicalHours": 0, "submodules": [{"code": "1.1", "name": "Arithmetic", "theoryHours": 20, "practicalHours": 0}, {"code": "1.2", "name": "Algebra", "theoryHours": 25, "practicalHours": 0}, {"code": "1.3", "name": "Geometry", "theoryHours": 15, "practicalHours": 0}, {"code": "1.4", "name": "Statistics", "theoryHours": 10, "practicalHours": 0}]},
+        {"number": 2, "name": "Physics", "theoryHours": 80, "practicalHours": 0, "submodules": [{"code": "2.1", "name": "Matter", "theoryHours": 10, "practicalHours": 0}, {"code": "2.2", "name": "Mechanics", "theoryHours": 20, "practicalHours": 0}, {"code": "2.3", "name": "Thermodynamics", "theoryHours": 15, "practicalHours": 0}, {"code": "2.4", "name": "Optics", "theoryHours": 10, "practicalHours": 0}, {"code": "2.5", "name": "Wave motion and sound", "theoryHours": 25, "practicalHours": 0}]},
+        {"number": 3, "name": "Electrical Fundamentals", "theoryHours": 90, "practicalHours": 20, "submodules": [{"code": "3.1", "name": "Electron theory", "theoryHours": 5, "practicalHours": 0}, {"code": "3.2", "name": "Static electricity and conduction", "theoryHours": 5, "practicalHours": 0}, {"code": "3.3", "name": "Electrical terminology", "theoryHours": 5, "practicalHours": 0}, {"code": "3.4", "name": "Generation of electricity", "theoryHours": 5, "practicalHours": 0}, {"code": "3.5", "name": "DC sources of electricity", "theoryHours": 10, "practicalHours": 5}, {"code": "3.6", "name": "DC circuits", "theoryHours": 15, "practicalHours": 5}, {"code": "3.7", "name": "Resistance/resistor", "theoryHours": 10, "practicalHours": 5}, {"code": "3.8", "name": "Power", "theoryHours": 5, "practicalHours": 0}, {"code": "3.9", "name": "Capacitance/capacitor", "theoryHours": 10, "practicalHours": 0}, {"code": "3.10", "name": "Magnetism", "theoryHours": 10, "practicalHours": 5}, {"code": "3.11", "name": "Inductance/inductor", "theoryHours": 5, "practicalHours": 0}, {"code": "3.12", "name": "DC motor/generator theory", "theoryHours": 5, "practicalHours": 0}]},
+        {"number": 4, "name": "Electronic Fundamentals", "theoryHours": 120, "practicalHours": 12, "submodules": [{"code": "4.1", "name": "Semiconductors", "theoryHours": 40, "practicalHours": 5}, {"code": "4.2", "name": "Printed circuit board", "theoryHours": 20, "practicalHours": 2}, {"code": "4.3", "name": "Servomechanisms", "theoryHours": 30, "practicalHours": 5}, {"code": "4.4", "name": "Filters", "theoryHours": 30, "practicalHours": 0}]},
+        {"number": 5, "name": "Digital Technique/Electronic Instrument System", "theoryHours": 150, "practicalHours": 9, "submodules": [{"code": "5.1", "name": "Electronic instrument systems", "theoryHours": 30, "practicalHours": 0}, {"code": "5.2", "name": "Numbering systems", "theoryHours": 15, "practicalHours": 0}, {"code": "5.3", "name": "Data conversion", "theoryHours": 15, "practicalHours": 0}, {"code": "5.4", "name": "Data buses", "theoryHours": 20, "practicalHours": 3}, {"code": "5.5", "name": "Logic circuits", "theoryHours": 30, "practicalHours": 3}, {"code": "5.6", "name": "Basic computer structure", "theoryHours": 20, "practicalHours": 3}, {"code": "5.7", "name": "Microprocessors", "theoryHours": 20, "practicalHours": 0}]},
+        {"number": 6, "name": "Materials And Hardware", "theoryHours": 120, "practicalHours": 0, "submodules": [{"code": "6.1", "name": "Aircraft materials - ferrous", "theoryHours": 15, "practicalHours": 0}, {"code": "6.2", "name": "Aircraft materials - non-ferrous", "theoryHours": 15, "practicalHours": 0}, {"code": "6.3", "name": "Aircraft materials - composite and non-metallic", "theoryHours": 20, "practicalHours": 0}, {"code": "6.4", "name": "Corrosion", "theoryHours": 20, "practicalHours": 0}, {"code": "6.5", "name": "Fasteners", "theoryHours": 25, "practicalHours": 0}, {"code": "6.6", "name": "Pipes and unions", "theoryHours": 15, "practicalHours": 0}, {"code": "6.7", "name": "Springs", "theoryHours": 5, "practicalHours": 0}, {"code": "6.8", "name": "Bearings", "theoryHours": 5, "practicalHours": 0}]},
+        {"number": 7, "name": "Maintenance Practices", "theoryHours": 170, "practicalHours": 70, "submodules": [{"code": "7.1", "name": "Safety precautions - aircraft and shop", "theoryHours": 15, "practicalHours": 5}, {"code": "7.2", "name": "Workshop practices", "theoryHours": 20, "practicalHours": 15}, {"code": "7.3", "name": "Tools", "theoryHours": 15, "practicalHours": 10}, {"code": "7.4", "name": "Aviation fasteners", "theoryHours": 15, "practicalHours": 10}, {"code": "7.5", "name": "Electrical wiring interconnect system", "theoryHours": 35, "practicalHours": 15}, {"code": "7.6", "name": "Riveting", "theoryHours": 10, "practicalHours": 5}, {"code": "7.7", "name": "Pipes and hoses", "theoryHours": 15, "practicalHours": 5}, {"code": "7.8", "name": "Maintenance documentation", "theoryHours": 20, "practicalHours": 5}, {"code": "7.9", "name": "Ground support equipment", "theoryHours": 15, "practicalHours": 0}, {"code": "7.10", "name": "Electrostatic sensitive devices", "theoryHours": 10, "practicalHours": 0}]},
+        {"number": 8, "name": "Basic Aerodynamics", "theoryHours": 50, "practicalHours": 0, "submodules": [{"code": "8.1", "name": "Atmosphere", "theoryHours": 10, "practicalHours": 0}, {"code": "8.2", "name": "Aerodynamics", "theoryHours": 20, "practicalHours": 0}, {"code": "8.3", "name": "Theory of flight - aeroplane", "theoryHours": 10, "practicalHours": 0}, {"code": "8.4", "name": "Theory of flight - helicopter", "theoryHours": 10, "practicalHours": 0}]},
+        {"number": 9, "name": "Human Factor", "theoryHours": 22, "practicalHours": 0, "submodules": [{"code": "9.1", "name": "General", "theoryHours": 5, "practicalHours": 0}, {"code": "9.2", "name": "Human performance and limitations", "theoryHours": 7, "practicalHours": 0}, {"code": "9.3", "name": "Social psychology", "theoryHours": 5, "practicalHours": 0}, {"code": "9.4", "name": "Factors affecting performance", "theoryHours": 5, "practicalHours": 0}]},
+        {"number": 10, "name": "Aviation Legislation", "theoryHours": 28, "practicalHours": 0, "submodules": [{"code": "10.1", "name": "Regulatory framework", "theoryHours": 10, "practicalHours": 0}, {"code": "10.2", "name": "Certifying staff and certification", "theoryHours": 10, "practicalHours": 0}, {"code": "10.3", "name": "Approved maintenance organisations", "theoryHours": 8, "practicalHours": 0}]},
+        {"number": 13, "name": "Aircraft Aerodynamics, Structures and Systems", "theoryHours": 460, "practicalHours": 179, "submodules": [{"code": "13.1", "name": "Theory of flight", "theoryHours": 40, "practicalHours": 10}, {"code": "13.2", "name": "Airframe structures", "theoryHours": 40, "practicalHours": 15}, {"code": "13.3", "name": "Air conditioning and pressurisation", "theoryHours": 30, "practicalHours": 10}, {"code": "13.4", "name": "Avionics", "theoryHours": 50, "practicalHours": 20}, {"code": "13.5", "name": "Electrical power", "theoryHours": 40, "practicalHours": 15}, {"code": "13.6", "name": "Equipment and furnishings", "theoryHours": 20, "practicalHours": 5}, {"code": "13.7", "name": "Fire protection", "theoryHours": 20, "practicalHours": 5}, {"code": "13.8", "name": "Flight controls", "theoryHours": 30, "practicalHours": 10}, {"code": "13.9", "name": "Fuel systems", "theoryHours": 30, "practicalHours": 10}, {"code": "13.10", "name": "Hydraulic power", "theoryHours": 30, "practicalHours": 10}, {"code": "13.11", "name": "Ice and rain protection", "theoryHours": 20, "practicalHours": 5}, {"code": "13.12", "name": "Landing gear", "theoryHours": 20, "practicalHours": 5}, {"code": "13.13", "name": "Lights", "theoryHours": 15, "practicalHours": 5}, {"code": "13.14", "name": "Navigation", "theoryHours": 40, "practicalHours": 20}, {"code": "13.15", "name": "Oxygen systems", "theoryHours": 15, "practicalHours": 5}, {"code": "13.16", "name": "Pneumatic/vacuum systems", "theoryHours": 20, "practicalHours": 5}, {"code": "13.17", "name": "Communication/Recording systems", "theoryHours": 40, "practicalHours": 19}]},
+        {"number": 14, "name": "Propulsion", "theoryHours": 80, "practicalHours": 30, "submodules": [{"code": "14.1", "name": "Turbine engine fundamentals", "theoryHours": 20, "practicalHours": 5}, {"code": "14.2", "name": "Engine systems and components", "theoryHours": 30, "practicalHours": 15}, {"code": "14.3", "name": "Engine monitoring and ground operation", "theoryHours": 15, "practicalHours": 5}, {"code": "14.4", "name": "Engine storage and preservation", "theoryHours": 15, "practicalHours": 5}]}
+      ]
+    }
+  ],
+  "instructorCurrency": {
+    "teachingHoursPerYear": 6,
+    "professionalUpdateHoursPer2Years": 35
+  },
+  "grading": {
+    "scale": 30,
+    "passThreshold": 0.75,
+    "passScore": 22.5,
+    "assessmentWeight": 1,
+    "examWeight": 2
+  }
+}
