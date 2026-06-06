@@ -1,14 +1,14 @@
 [
   {
     "id": "09089caf-0baa-4c31-a8f6-413aedf4348d",
-    "courseTypeId": "b1",
+    "course_type_id": "b1",
     "title": "1° BTC",
-    "startDate": "2022-01-10",
-    "endDate": "2023-06-30",
+    "start_date": "2022-01-10",
+    "end_date": "2023-06-30",
     "status": "completed",
-    "directorIds": [],
-    "attendeeIds": [],
-    "instructorIds": [
+    "director_ids": [],
+    "attendee_ids": [],
+    "instructor_ids": [
       "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
       "a75cfb18-d985-47f9-85c0-7d289393bc2c",
       "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
@@ -51,20 +51,20 @@
       "8371a90e-3ecd-4bab-a2c2-aabeecba9b23",
       "c559284f-66c4-4570-8584-4fbbb2a8bf7d"
     ],
-    "createdBy": "57654e72-c54f-49bf-9c3f-a67eb20a9754",
-    "createdAt": "2022-01-10T08:00:00Z",
-    "updatedAt": "2023-06-30T08:00:00Z"
+    "created_by": "57654e72-c54f-49bf-9c3f-a67eb20a9754",
+    "created_at": "2022-01-10T08:00:00Z",
+    "updated_at": "2023-06-30T08:00:00Z"
   },
   {
     "id": "d3d468d5-eb15-43af-985f-58dd4b4e02e4",
-    "courseTypeId": "b1",
+    "course_type_id": "b1",
     "title": "2° BTC",
-    "startDate": "2023-09-01",
-    "endDate": "2025-01-31",
+    "start_date": "2023-09-01",
+    "end_date": "2025-01-31",
     "status": "completed",
-    "directorIds": [],
-    "attendeeIds": [],
-    "instructorIds": [
+    "director_ids": [],
+    "attendee_ids": [],
+    "instructor_ids": [
       "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
       "a75cfb18-d985-47f9-85c0-7d289393bc2c",
       "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
@@ -107,19 +107,21 @@
       "8371a90e-3ecd-4bab-a2c2-aabeecba9b23",
       "c559284f-66c4-4570-8584-4fbbb2a8bf7d"
     ],
-    "createdBy": "57654e72-c54f-49bf-9c3f-a67eb20a9754",
-    "createdAt": "2023-09-01T08:00:00Z",
-    "updatedAt": "2025-01-31T08:00:00Z"
+    "created_by": "57654e72-c54f-49bf-9c3f-a67eb20a9754",
+    "created_at": "2023-09-01T08:00:00Z",
+    "updated_at": "2025-01-31T08:00:00Z"
   },
   {
     "id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "courseTypeId": "b1",
+    "course_type_id": "b1",
     "title": "3° BTC",
-    "startDate": "2025-03-03",
-    "endDate": null,
+    "start_date": "2025-03-03",
+    "end_date": null,
     "status": "active",
-    "directorIds": [],
-    "attendeeIds": [
+    "director_ids": [
+      "5f51ae8a-2fce-461e-aa1b-e6f2536d082d"
+    ],
+    "attendee_ids": [
       "c1f7c5b0-7fb1-46e6-be77-cabf85b56021",
       "62147c07-0172-487d-aabc-c44865dd6dde",
       "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
@@ -129,7 +131,7 @@
       "2e99ca9e-0605-4363-8fbd-c7a93216791b",
       "ffa48f21-2842-4d93-b132-2bbe842df749"
     ],
-    "instructorIds": [
+    "instructor_ids": [
       "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
       "a75cfb18-d985-47f9-85c0-7d289393bc2c",
       "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
@@ -172,8 +174,8 @@
       "8371a90e-3ecd-4bab-a2c2-aabeecba9b23",
       "c559284f-66c4-4570-8584-4fbbb2a8bf7d"
     ],
-    "createdBy": "57654e72-c54f-49bf-9c3f-a67eb20a9754",
-    "createdAt": "2025-03-03T08:00:00Z",
-    "updatedAt": "2026-06-06T14:02:24Z"
+    "created_by": "57654e72-c54f-49bf-9c3f-a67eb20a9754",
+    "created_at": "2025-03-03T08:00:00Z",
+    "updated_at": "2026-06-06T14:02:24Z"
   }
 ]

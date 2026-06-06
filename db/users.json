@@ -598,5 +598,17 @@
     "is_active": true,
     "created_at": "2026-06-06T14:03:13Z",
     "updated_at": "2026-06-06T14:03:13Z"
+  },
+  {
+    "id": "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
+    "nome": "ENC:DaWY0B1Sbpmgcdwr4/XxrA==",
+    "cognome": "ENC:FIFfEdzlLh0Cf6CmhsG/sA==",
+    "email": null,
+    "username": "ENC:rUgYbR+ZgV1evMatZqWAfQ==",
+    "password_hash": "9cded804b34d507fb48884f10152bf96efd40e610fe43c78416d159746213c50",
+    "role": "course_director",
+    "is_active": true,
+    "created_at": "2026-06-06T14:47:20Z",
+    "updated_at": "2026-06-06T14:47:20Z"
   }
 ]
