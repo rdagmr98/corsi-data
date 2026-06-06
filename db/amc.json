@@ -1,13 +1,232 @@
 {
+  "submoduleNames": {
+    "1.1": "Aritmetica",
+    "1.2": "Algebra",
+    "1.3": "Geometria e Trigonometria",
+    "2.1": "Meccanica",
+    "2.2": "Termodinamica",
+    "2.3": "Ottica",
+    "2.4": "Onde e suoni",
+    "2.5": "Elettricità e magnetismo",
+    "3.1": "Teoria dell'elettrone",
+    "3.2": "Corrente continua",
+    "3.3": "Resistenza e resistori",
+    "3.4": "Potenza",
+    "3.5": "Condensatori",
+    "3.6": "Magnetismo",
+    "3.7": "Magnetismo e induzione",
+    "3.8": "Corrente alternata",
+    "3.9": "Motori e generatori",
+    "3.10": "Misure elettriche",
+    "3.11": "Generatori CC",
+    "3.12": "Batterie",
+    "3.13": "Fornitura di corrente",
+    "3.14": "Generatori CA",
+    "3.15": "Motori CA",
+    "3.16": "Trasformatori",
+    "3.17": "Filtri",
+    "3.18": "Raddrizzatori e regolatori",
+    "3.19": "Bus elettrici",
+    "3.20": "Distribuzione elettrica",
+    "3.21": "Messa a terra e schermatura",
+    "3.22": "Cablaggio e connettori",
+    "3.23": "Sistemi di protezione elettrica",
+    "3.24": "Precauzioni di sicurezza elettrica",
+    "3.25": "Sistemi di alimentazione di emergenza",
+    "3.26": "Strumentazione elettrica",
+    "3.27": "Circuiti di controllo",
+    "3.28": "Avviamento elettrico",
+    "4.1": "Semiconduttori",
+    "4.2": "Circuiti integrati",
+    "4.3": "Stampati (PCB)",
+    "5.1": "Sistemi numerici",
+    "5.2": "Conversione dati",
+    "5.3": "Bus dati",
+    "5.4": "Logica programmabile",
+    "5.5": "Organi di chiusura e tenuta",
+    "5.6": "Microprocessori",
+    "5.7": "Integrati programmabili (PLD)",
+    "5.8": "Trasmissione dati digitale",
+    "5.9": "Schermatura e messa a terra",
+    "5.10": "Trasduttori e sensori",
+    "5.11": "Sistemi di monitoraggio e test",
+    "5.12": "Sistemi strumenti elettronici (EIS)",
+    "5.13": "Sistemi di gestione del volo (FMS)",
+    "5.14": "Sistemi di navigazione",
+    "5.15": "Sistemi di comunicazione",
+    "6.1": "Materiali metallici",
+    "6.2": "Materiali non metallici",
+    "6.3": "Prodotti per la manutenzione",
+    "6.4": "Bulloneria e filettature",
+    "6.5": "Organi di giunzione",
+    "6.6": "Tubazioni e raccordi",
+    "6.7": "Molle",
+    "6.8": "Cuscinetti",
+    "6.9": "Sistemi di trasmissione",
+    "6.10": "Cavi e controlli flessibili",
+    "6.11": "Filtri e separatori",
+    "7.1": "Precauzioni di sicurezza",
+    "7.2": "Procedure di officina",
+    "7.3": "Strumenti di misura",
+    "7.4": "Manuali tecnici",
+    "7.5": "Sostituzione parti e smontaggio",
+    "7.6": "Protezione e trattamento superfici",
+    "7.7": "Riparazione e giunzioni metalliche",
+    "7.8": "Riparazione materiali compositi",
+    "7.9": "Saldatura e brasatura",
+    "7.10": "Controlli non distruttivi (NDT)",
+    "7.11": "Danni in servizio",
+    "7.12": "Cuscinetti e tenute",
+    "7.13": "Controlli e collaudi",
+    "7.14": "Smontaggio, montaggio e allineamento",
+    "7.15": "Apparecchiature di supporto a terra",
+    "7.16": "Rimozione e installazione motore",
+    "7.17": "Operazioni a terra e messa in sicurezza",
+    "7.18": "Rifornimento e spurgo",
+    "7.19": "Ispezioni al ritorno da volo",
+    "7.20": "Operazioni in ambito manutentivo",
+    "7.21": "Documentazione e certificazione",
+    "8.1": "Fisica dell'atmosfera",
+    "8.2": "Aerodinamica",
+    "8.3": "Teoria del volo",
+    "8.4": "Stabilità e controllo",
+    "9.1": "Generalità",
+    "9.2": "Prestazioni umane e limitazioni",
+    "9.3": "Comunicazione",
+    "9.4": "Lavoro in squadra",
+    "9.5": "Vigilanza e fatica",
+    "9.6": "Abuso di sostanze",
+    "9.7": "Fattori di stress",
+    "9.8": "Gestione dell'errore",
+    "9.9": "Cultura della sicurezza",
+    "10.1": "Quadro normativo aeronautico",
+    "10.2": "Certificazione aeronavale",
+    "10.3": "Organizzazioni di manutenzione",
+    "10.4": "Certificazione rilascio",
+    "10.5": "Licenze di manutenzione",
+    "10.6": "Normativa militare",
+    "10.7": "Sicurezza aerea",
+    "11A.1": "Aerodinamica",
+    "11A.2": "Struttura fusoliera",
+    "11A.3": "Strutture alari e superfici",
+    "11A.4": "Struttura carrello",
+    "11A.5": "Sistemi di controllo volo",
+    "11A.6": "Sistemi idraulici",
+    "11A.7": "Sistemi carburante",
+    "11A.8": "Sistemi anti-ghiaccio",
+    "11A.9": "Aria condizionata e pressurizzazione",
+    "11A.10": "Sistemi di emergenza",
+    "11A.11": "Impianti elettrici",
+    "11A.12": "Strumentazione e avionica",
+    "11A.13": "Autopilota e sistemi automatici",
+    "11A.14": "Comunicazioni bordo",
+    "11A.15": "Navigazione",
+    "11A.16": "Protezione antincendio",
+    "11A.17": "Ossigeno",
+    "11A.18": "Sistemi di avviamento e accensione",
+    "11A.19": "Sicurezza e sopravvivenza",
+    "11A.20": "Sistemi di missione",
+    "11A.21": "Sistemi di armi",
+    "11B.1": "Aerodinamica turbofan",
+    "11B.2": "Strutture composite",
+    "11B.3": "Fly-by-wire",
+    "11B.4": "Sistemi di gestione del volo avanzati",
+    "11B.5": "Sistemi elettronici avanzati",
+    "11B.6": "Sistemi di navigazione avanzati",
+    "11B.7": "Motori a turbofan",
+    "11B.8": "Sistemi di propulsione avanzati",
+    "12.1": "Aerodinamica rotore principale",
+    "12.2": "Sistema rotore di coda",
+    "12.3": "Trasmissione e riduttori",
+    "12.4": "Sistemi di controllo volo",
+    "12.5": "Struttura fusoliera",
+    "12.6": "Carrello di atterraggio",
+    "12.7": "Sistemi idraulici",
+    "12.8": "Sistemi carburante",
+    "12.9": "Sistemi motore (collegamento)",
+    "12.10": "Anti-ghiaccio e sbrinamento",
+    "12.11": "Aria condizionata",
+    "12.12": "Impianti elettrici",
+    "12.13": "Strumentazione e avionica",
+    "12.14": "Autopilota e stabilizzazione",
+    "12.15": "Comunicazioni",
+    "12.16": "Navigazione",
+    "12.17": "Protezione antincendio",
+    "12.18": "Sistemi di emergenza e sicurezza",
+    "12.19": "Sistemi di missione",
+    "13.2": "Strutture composite avanzate",
+    "13.3": "Sistemi di controllo avanzati",
+    "13.4": "Avionics integrati",
+    "13.5": "Sistemi idraulici avanzati",
+    "13.6": "Sistemi carburante avanzati",
+    "13.7": "Sistemi propulsivi avanzati",
+    "13.8": "Sistemi di navigazione avanzata",
+    "13.9": "Sistemi di difesa elettronica",
+    "13.20": "Sistemi di protezione e sopravvivenza",
+    "13.21": "Sistemi di controllo di missione",
+    "13.22": "Sistemi di sorveglianza",
+    "13.23": "Sistemi di comunicazione avanzati",
+    "13.24": "Sistemi di armi",
+    "13.25": "Sistemi di visione notturna",
+    "13.26": "Contromisure elettroniche",
+    "13.27": "Data link e trasmissione dati",
+    "13.28": "Registratori di volo",
+    "14.1": "Fondamentali propulsione",
+    "14.2": "Motori alternativi",
+    "14.3": "Motori a turbina",
+    "15.1": "Fondamentali motore a turbina",
+    "15.2": "Compressori",
+    "15.3": "Camere di combustione",
+    "15.4": "Turbine",
+    "15.5": "Ugelli e inversori",
+    "15.6": "Rendimento e prestazioni",
+    "15.7": "Sistemi ausiliari e accessori",
+    "15.8": "Sistemi carburante motore",
+    "15.9": "Lubrificazione motore",
+    "15.10": "Sistemi aria motore",
+    "15.11": "Avviamento motore",
+    "15.12": "Sistemi di accensione",
+    "15.13": "Sistemi di controllo motore (FADEC)",
+    "15.14": "Indicazioni motore",
+    "15.15": "Trasmissioni motore",
+    "15.16": "Protezione motore",
+    "15.17": "Sistemi di scarico",
+    "15.18": "Riduttori e ingranaggi",
+    "15.19": "Alberi e giunti",
+    "15.20": "Procedure manutenzione motore",
+    "15.21": "Prove e regolazioni motore",
+    "15.22": "Rimozione e installazione motore",
+    "16.1": "Fondamentali motore alternativo",
+    "16.2": "Motori a pistoni",
+    "16.3": "Motori diesel aeronautici",
+    "16.4": "Prestazioni motore alternativo",
+    "16.5": "Sistemi carburante motore alternativo",
+    "16.6": "Sistemi di accensione",
+    "16.7": "Raffreddamento motore",
+    "16.8": "Avviamento",
+    "16.9": "Lubrificazione",
+    "16.10": "Sistemi di scarico",
+    "16.11": "Sovralimentazione e turbocompressori",
+    "16.12": "Riduttori",
+    "16.13": "Manutenzione motore alternativo",
+    "17.1": "Teoria e classificazione eliche",
+    "17.2": "Costruzione eliche",
+    "17.3": "Regolazione passo elica",
+    "17.4": "Sincronizzatori",
+    "17.5": "Protezione antigelo eliche",
+    "17.6": "Manutenzione eliche",
+    "17.7": "Danni e riparazione eliche",
+    "50.1": "Normativa aeronavigabilità militare",
+    "51.1": "Strutture composite (tipo specifico)",
+    "53.2": "Aerodinamica tipo specifico - sistema rotore",
+    "53.3": "Sistemi tipo specifico - trasmissioni",
+    "54.1": "Motore tipo specifico",
+    "55.1": "Sistemi tipo specifico - avionica"
+  },
   "instructorAmc": {
     "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7": {
       "nome": "Biagio",
       "cognome": "Palmieri",
-      "qualifications": [
-        "TI",
-        "ETP",
-        "EM"
-      ],
       "theory_submodules": [
         "1.1",
         "1.2",
@@ -45,7 +264,6 @@
         "12.3",
         "12.4",
         "12.5",
-        "13.2",
         "13.2",
         "13.7",
         "13.21",
@@ -101,9 +319,6 @@
     "a75cfb18-d985-47f9-85c0-7d289393bc2c": {
       "nome": "Fabio",
       "cognome": "Grandi",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "1.1",
         "1.2",
@@ -186,11 +401,6 @@
     "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f": {
       "nome": "Francesco G.",
       "cognome": "Ciula",
-      "qualifications": [
-        "TI",
-        "ETP",
-        "dEM"
-      ],
       "theory_submodules": [
         "4.3",
         "5.1",
@@ -226,7 +436,6 @@
         "15.20",
         "50.1",
         "51.1",
-        "53.2",
         "53.2",
         "53.3",
         "54.1"
@@ -267,7 +476,6 @@
         "50.1",
         "51.1",
         "53.2",
-        "53.2",
         "53.3",
         "54.1",
         "55.1"
@@ -276,9 +484,6 @@
     "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34": {
       "nome": "Guido",
       "cognome": "Minissi",
-      "qualifications": [
-        "I"
-      ],
       "theory_submodules": [
         "9.1",
         "9.2",
@@ -295,9 +500,6 @@
     "0c07c16d-8f8a-4b10-ae17-93b20ad42349": {
       "nome": "Alessandro",
       "cognome": "Tomaino",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "4.3",
         "5.1",
@@ -333,7 +535,6 @@
         "15.20",
         "50.1",
         "51.1",
-        "53.2",
         "53.2",
         "53.3",
         "54.1"
@@ -374,7 +575,6 @@
         "50.1",
         "51.1",
         "53.2",
-        "53.2",
         "53.3",
         "54.1",
         "55.1"
@@ -383,9 +583,6 @@
     "62baa301-5a24-4544-ab83-77b01784c3ed": {
       "nome": "Salvatore",
       "cognome": "Scimonello",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -478,10 +675,6 @@
     "fd945083-74ce-4582-b167-de3d49f9a2fe": {
       "nome": "Alessandro",
       "cognome": "Pompei",
-      "qualifications": [
-        "TI",
-        "ETP"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -564,9 +757,6 @@
     "81b49799-4b6a-466c-9a98-f8d3cdb6ff4e": {
       "nome": "Giuseppe",
       "cognome": "Pampana",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -659,9 +849,6 @@
     "b664cbf9-2a60-40a1-a4dd-d449d1ae6f20": {
       "nome": "Mauro",
       "cognome": "Luongo",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -743,10 +930,10 @@
         "7.17",
         "7.18",
         "7.20",
-        "11°.2",
-        "11°.7",
-        "11°.9",
-        "11°.13",
+        "11A.2",
+        "11A.7",
+        "11A.9",
+        "11A.13",
         "15.3",
         "15.4",
         "15.5",
@@ -763,9 +950,6 @@
     "4e799356-966f-452a-a00d-9e6ef8db58c8": {
       "nome": "Giuseppe",
       "cognome": "Mirizzi",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "5.12",
         "6.11",
@@ -839,9 +1023,6 @@
     "f2643e71-d400-4768-8c32-05c9f95a7b24": {
       "nome": "Giovanni",
       "cognome": "Niespolo",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -943,9 +1124,6 @@
     "031c4ae8-765c-4b44-be39-6f3aec1b4367": {
       "nome": "Giuseppe",
       "cognome": "Scarpello",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -1009,9 +1187,6 @@
     "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd": {
       "nome": "Roberto",
       "cognome": "Ponticelli",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "4.3",
         "5.1",
@@ -1084,9 +1259,6 @@
         "13.26",
         "13.27",
         "13.28",
-        "13.20",
-        "13.21",
-        "13.22",
         "14.2",
         "15.20",
         "16.1",
@@ -1111,7 +1283,6 @@
         "17.7",
         "50.1",
         "51.1",
-        "53.2",
         "53.2",
         "53.3"
       ],
@@ -1163,7 +1334,6 @@
         "17.7",
         "51.1",
         "53.2",
-        "53.2",
         "53.3",
         "55.1"
       ]
@@ -1171,9 +1341,6 @@
     "2952ccb0-747a-4ef4-9ff3-825989682166": {
       "nome": "Emanuele",
       "cognome": "Petretti",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -1267,9 +1434,6 @@
     "2b209e08-011f-4115-b229-26ddd30fa12e": {
       "nome": "Francesco",
       "cognome": "Mastrolia",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -1351,10 +1515,10 @@
         "7.17",
         "7.18",
         "7.20",
-        "11°.2",
-        "11°.7",
-        "11°.9",
-        "11°.13",
+        "11A.2",
+        "11A.7",
+        "11A.9",
+        "11A.13",
         "15.3",
         "15.4",
         "15.5",
@@ -1371,7 +1535,6 @@
     "33dab463-9d08-416a-bf47-b9524efe8d6a": {
       "nome": "Tarick",
       "cognome": "Mechal",
-      "qualifications": [],
       "theory_submodules": [],
       "practice_submodules": [
         "12.11"
@@ -1380,10 +1543,6 @@
     "9f7dc5e5-0b33-4c6e-9021-dc29c64f1503": {
       "nome": "Gianmarco",
       "cognome": "Ardia",
-      "qualifications": [
-        "TI",
-        "dTM"
-      ],
       "theory_submodules": [
         "1.1",
         "1.2",
@@ -1393,7 +1552,6 @@
         "2.3",
         "2.4",
         "2.5",
-        "3.2",
         "3.2",
         "3.3",
         "3.4",
@@ -1436,7 +1594,6 @@
         "50.1",
         "51.1",
         "53.2",
-        "53.2",
         "53.3",
         "54.1"
       ],
@@ -1445,9 +1602,6 @@
     "82e5a66e-e8fa-4857-9832-325015a49630": {
       "nome": "Antonio",
       "cognome": "Balloi",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -1540,7 +1694,6 @@
     "ed724db0-ba69-4d21-8e7a-cc25a889765f": {
       "nome": "Antonio",
       "cognome": "Signore",
-      "qualifications": [],
       "theory_submodules": [
         "9.1",
         "9.2",
@@ -1557,9 +1710,6 @@
     "8371a90e-3ecd-4bab-a2c2-aabeecba9b23": {
       "nome": "Francesco",
       "cognome": "Zampino",
-      "qualifications": [
-        "TI"
-      ],
       "theory_submodules": [
         "6.5",
         "6.6",
@@ -1661,10 +1811,10 @@
         "7.17",
         "7.18",
         "7.20",
-        "11°.2",
-        "11°.7",
-        "11°.9",
-        "11°.13",
+        "11A.2",
+        "11A.7",
+        "11A.9",
+        "11A.13",
         "11B.3",
         "11B.4",
         "12.2",
@@ -1947,7 +2097,6 @@
     ],
     "13.2": [
       "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-      "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
       "a75cfb18-d985-47f9-85c0-7d289393bc2c",
       "62baa301-5a24-4544-ab83-77b01784c3ed",
       "fd945083-74ce-4582-b167-de3d49f9a2fe",
@@ -1980,10 +2129,8 @@
       "a75cfb18-d985-47f9-85c0-7d289393bc2c",
       "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
       "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
-      "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
       "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
       "4e799356-966f-452a-a00d-9e6ef8db58c8",
-      "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
       "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd"
     ],
     "13.27": [
@@ -2745,19 +2892,15 @@
     "13.20": [
       "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
       "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
-      "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
       "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
       "4e799356-966f-452a-a00d-9e6ef8db58c8",
-      "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
       "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd"
     ],
     "13.22": [
       "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
       "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
-      "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
       "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
       "4e799356-966f-452a-a00d-9e6ef8db58c8",
-      "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
       "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd"
     ],
     "13.25": [
@@ -2790,14 +2933,9 @@
     ],
     "53.2": [
       "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
-      "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
-      "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
       "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
       "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
-      "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
       "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
-      "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
-      "9f7dc5e5-0b33-4c6e-9021-dc29c64f1503",
       "9f7dc5e5-0b33-4c6e-9021-dc29c64f1503"
     ],
     "53.3": [
@@ -3156,7 +3294,6 @@
       "2952ccb0-747a-4ef4-9ff3-825989682166"
     ],
     "3.2": [
-      "9f7dc5e5-0b33-4c6e-9021-dc29c64f1503",
       "9f7dc5e5-0b33-4c6e-9021-dc29c64f1503"
     ],
     "3.3": [
@@ -3541,13 +3678,9 @@
     ],
     "53.2": [
       "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
-      "917a99a5-9718-4b6d-9f0b-6c5aff5e2e7f",
       "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
-      "5f51ae8a-2fce-461e-aa1b-e6f2536d082d",
-      "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
       "0c07c16d-8f8a-4b10-ae17-93b20ad42349",
       "4e799356-966f-452a-a00d-9e6ef8db58c8",
-      "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
       "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd"
     ],
     "53.3": [
@@ -3750,22 +3883,22 @@
       "8371a90e-3ecd-4bab-a2c2-aabeecba9b23",
       "82e5a66e-e8fa-4857-9832-325015a49630"
     ],
-    "11°.2": [
+    "11A.2": [
       "b664cbf9-2a60-40a1-a4dd-d449d1ae6f20",
       "2b209e08-011f-4115-b229-26ddd30fa12e",
       "8371a90e-3ecd-4bab-a2c2-aabeecba9b23"
     ],
-    "11°.7": [
+    "11A.7": [
       "b664cbf9-2a60-40a1-a4dd-d449d1ae6f20",
       "2b209e08-011f-4115-b229-26ddd30fa12e",
       "8371a90e-3ecd-4bab-a2c2-aabeecba9b23"
     ],
-    "11°.9": [
+    "11A.9": [
       "b664cbf9-2a60-40a1-a4dd-d449d1ae6f20",
       "2b209e08-011f-4115-b229-26ddd30fa12e",
       "8371a90e-3ecd-4bab-a2c2-aabeecba9b23"
     ],
-    "11°.13": [
+    "11A.13": [
       "b664cbf9-2a60-40a1-a4dd-d449d1ae6f20",
       "2b209e08-011f-4115-b229-26ddd30fa12e",
       "8371a90e-3ecd-4bab-a2c2-aabeecba9b23"
