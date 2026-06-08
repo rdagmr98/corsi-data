@@ -1034,65 +1034,9 @@
           ]
         },
         {
-          "number": 13,
-          "name": "Gas Turbine Engine",
-          "theoryHours": 180,
-          "practicalHours": 50,
-          "submodules": [
-            {
-              "code": "13.1",
-              "name": "Fundamentals",
-              "theoryHours": 30,
-              "practicalHours": 5
-            },
-            {
-              "code": "13.2",
-              "name": "Engine performance",
-              "theoryHours": 20,
-              "practicalHours": 5
-            },
-            {
-              "code": "13.3",
-              "name": "Inlet, compressors, combustion section, turbine section",
-              "theoryHours": 40,
-              "practicalHours": 10
-            },
-            {
-              "code": "13.4",
-              "name": "Exhaust, bearings, seals",
-              "theoryHours": 20,
-              "practicalHours": 5
-            },
-            {
-              "code": "13.5",
-              "name": "Lubrication systems",
-              "theoryHours": 20,
-              "practicalHours": 5
-            },
-            {
-              "code": "13.6",
-              "name": "Fuel systems",
-              "theoryHours": 20,
-              "practicalHours": 10
-            },
-            {
-              "code": "13.7",
-              "name": "Air systems",
-              "theoryHours": 15,
-              "practicalHours": 5
-            },
-            {
-              "code": "13.8",
-              "name": "Starting and ignition systems",
-              "theoryHours": 15,
-              "practicalHours": 5
-            }
-          ]
-        },
-        {
           "number": 15,
-          "name": "Piston Engine",
-          "theoryHours": 80,
+          "name": "Gas Turbine Engine",
+          "theoryHours": 160,
           "practicalHours": 20,
           "submodules": [
             {
@@ -1129,9 +1073,9 @@
         },
         {
           "number": 16,
-          "name": "Gas Turbine Engine (Helicopter)",
-          "theoryHours": 80,
-          "practicalHours": 20,
+          "name": "Piston Engine",
+          "theoryHours": 65,
+          "practicalHours": 15,
           "submodules": [
             {
               "code": "16.1",
