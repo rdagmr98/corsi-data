@@ -616,6 +616,42 @@
               "name": "DC motor/generator theory",
               "theoryHours": 5,
               "practicalHours": 0
+            },
+            {
+              "code": "3.13",
+              "name": "AC theory",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "3.14",
+              "name": "Resistive, capacitive and inductive circuits",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "3.15",
+              "name": "Transformers",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "3.16",
+              "name": "Filters",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "3.17",
+              "name": "AC generators",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "3.18",
+              "name": "AC motors",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -686,6 +722,60 @@
               "name": "Basic computer structure",
               "theoryHours": 10,
               "practicalHours": 0
+            },
+            {
+              "code": "5.7",
+              "name": "Microprocessors",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "5.8",
+              "name": "Integrated circuits",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "5.9",
+              "name": "Multiplexing",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "5.10",
+              "name": "Fibre optics",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "5.11",
+              "name": "Electronic displays",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "5.12",
+              "name": "Electrostatic sensitive devices",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "5.13",
+              "name": "Software management control",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "5.14",
+              "name": "Electromagnetic environment",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "5.15",
+              "name": "Typical electronic/digital aircraft systems",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -742,6 +832,48 @@
               "name": "Bearings",
               "theoryHours": 20,
               "practicalHours": 0
+            },
+            {
+              "code": "6.3a",
+              "name": "Composite materials",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "6.3b",
+              "name": "Non-metallic materials",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "6.4a",
+              "name": "Corrosion - types and causes",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "6.4b",
+              "name": "Corrosion - protection and prevention",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "6.9",
+              "name": "Transmissions",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "6.10",
+              "name": "Control cables",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "6.11",
+              "name": "Electrical cables and connectors",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -822,6 +954,48 @@
               "name": "Maintenance documentation",
               "theoryHours": 30,
               "practicalHours": 10
+            },
+            {
+              "code": "7.13",
+              "name": "Ground support equipment",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "7.14",
+              "name": "Electrostatic sensitive devices",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "7.15",
+              "name": "Aircraft weight and balance",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "7.16",
+              "name": "Aircraft handling and storage",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "7.17",
+              "name": "Disassembly, inspection, repair and assembly techniques",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "7.18",
+              "name": "Abnormal events",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "7.20",
+              "name": "Troubleshooting techniques",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -886,6 +1060,36 @@
               "name": "Factors affecting performance",
               "theoryHours": 5,
               "practicalHours": 0
+            },
+            {
+              "code": "9.5",
+              "name": "Communication",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "9.6",
+              "name": "Human error",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "9.7",
+              "name": "Hazards in the workplace",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "9.8",
+              "name": "Error management and CRM",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "9.9",
+              "name": "Maintenance resource management",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -912,6 +1116,30 @@
               "name": "Approved maintenance organisations",
               "theoryHours": 8,
               "practicalHours": 0
+            },
+            {
+              "code": "10.4",
+              "name": "Approved design organisations",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "10.5",
+              "name": "Air operations",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "10.6",
+              "name": "Aircraft maintenance programme",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "10.7",
+              "name": "Airworthiness directives",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -1030,6 +1258,48 @@
               "name": "Navigation systems",
               "theoryHours": 30,
               "practicalHours": 10
+            },
+            {
+              "code": "12.13",
+              "name": "Communication and navigation",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "12.14",
+              "name": "Indicating systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "12.15",
+              "name": "Autopilot systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "12.16",
+              "name": "Air data systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "12.17",
+              "name": "Environmental control systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "12.18",
+              "name": "Ground proximity warning systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "12.19",
+              "name": "Emergency equipment",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -1068,6 +1338,18 @@
               "name": "Starting and ignition systems",
               "theoryHours": 15,
               "practicalHours": 0
+            },
+            {
+              "code": "15.6",
+              "name": "Engine monitoring and ground operation",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.7",
+              "name": "Engine storage and preservation",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -1100,6 +1382,60 @@
               "name": "Engine systems",
               "theoryHours": 20,
               "practicalHours": 5
+            },
+            {
+              "code": "16.5",
+              "name": "Engine lubrication systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "16.6",
+              "name": "Engine cooling systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "16.7",
+              "name": "Engine fuel and control systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "16.8",
+              "name": "Engine ignition systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "16.9",
+              "name": "Engine induction and exhaust systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "16.10",
+              "name": "Engine supercharging/turbocharging",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "16.11",
+              "name": "Propeller principles",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "16.12",
+              "name": "Propeller construction",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "16.13",
+              "name": "Propeller pitch control",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
