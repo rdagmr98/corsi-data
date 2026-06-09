@@ -996,6 +996,18 @@
               "name": "Troubleshooting techniques",
               "theory_hours": 0,
               "practice_hours": 0
+            },
+            {
+              "code": "7.19",
+              "name": "Maintenance of avionics/electrical systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "7.21",
+              "name": "Certification and sign-off of maintenance",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -1178,6 +1190,144 @@
               "name": "Theory of flight - piston",
               "theoryHours": 6,
               "practicalHours": 5
+            },
+            {
+              "code": "11A.5",
+              "name": "Hydraulic power",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.6",
+              "name": "Landing gear",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.7",
+              "name": "Flight controls",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.8",
+              "name": "Anti-icing and de-icing systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.9",
+              "name": "Fuel systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.10",
+              "name": "Electrical power",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.11",
+              "name": "Wheels and brakes",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.12",
+              "name": "Fire protection",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.13",
+              "name": "Autopilot",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.14",
+              "name": "Communication systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.15",
+              "name": "Navigation systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.16",
+              "name": "Indicating and recording systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.18",
+              "name": "Pneumatic systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.19",
+              "name": "Doors and windows",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.20",
+              "name": "Emergency equipment",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11A.21",
+              "name": "Electrical wiring components",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11B.2",
+              "name": "Airframe structures - piston",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11B.3",
+              "name": "Hydraulic power - piston",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11B.4",
+              "name": "Fuel systems - piston",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11B.5",
+              "name": "Flight controls - piston",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11B.6",
+              "name": "Anti-icing - piston",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11B.7",
+              "name": "Landing gear - piston",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "11B.8",
+              "name": "Electrical power - piston",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -1350,6 +1500,96 @@
               "name": "Engine storage and preservation",
               "theory_hours": 0,
               "practice_hours": 0
+            },
+            {
+              "code": "15.8",
+              "name": "Bearings and seals",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.9",
+              "name": "Lubrication systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.10",
+              "name": "Fuel control systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.11",
+              "name": "Air systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.12",
+              "name": "Starting systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.13",
+              "name": "Ignition systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.14",
+              "name": "Engine instrument systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.15",
+              "name": "Power augmentation systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.16",
+              "name": "Turboprop/turboshaft engines",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.17",
+              "name": "Auxiliary power unit (APU)",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.18",
+              "name": "Power plant installation",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.19",
+              "name": "Fire protection",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.20",
+              "name": "Engine monitoring and operation",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.21",
+              "name": "Engine maintenance requirements",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "15.22",
+              "name": "Engine removal and installation",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
@@ -1462,6 +1702,30 @@
               "name": "Propeller pitch control",
               "theoryHours": 10,
               "practicalHours": 0
+            },
+            {
+              "code": "17.4",
+              "name": "Propeller synchronizing",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "17.5",
+              "name": "Propeller ice protection",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "17.6",
+              "name": "Propeller maintenance",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "17.7",
+              "name": "Propeller storage and preservation",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         }
@@ -2079,6 +2343,36 @@
               "name": "Communication/Recording systems",
               "theoryHours": 40,
               "practicalHours": 19
+            },
+            {
+              "code": "13.18",
+              "name": "Emergency equipment",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "13.19",
+              "name": "Oxygen systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "13.20",
+              "name": "Onboard maintenance systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "13.21",
+              "name": "Cabin systems",
+              "theory_hours": 0,
+              "practice_hours": 0
+            },
+            {
+              "code": "13.22",
+              "name": "Information systems",
+              "theory_hours": 0,
+              "practice_hours": 0
             }
           ]
         },
