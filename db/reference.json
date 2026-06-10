@@ -885,129 +885,129 @@
           "submodules": [
             {
               "code": "7.1",
-              "name": "Safety precautions - aircraft and shop",
-              "theoryHours": 20,
-              "practicalHours": 10
+              "name": "Safety Precautions - Aircraft and Workshop",
+              "theoryHours": 12,
+              "practicalHours": 3
             },
             {
               "code": "7.2",
-              "name": "Workshop practices",
-              "theoryHours": 30,
-              "practicalHours": 20
+              "name": "Workshop Practices",
+              "theoryHours": 13,
+              "practicalHours": 3
             },
             {
               "code": "7.3",
               "name": "Tools",
-              "theoryHours": 20,
-              "practicalHours": 15
+              "theoryHours": 13,
+              "practicalHours": 28
             },
             {
               "code": "7.4",
-              "name": "Aviation fasteners",
-              "theoryHours": 20,
-              "practicalHours": 15
+              "name": "Avionic General Test Equipment",
+              "theoryHours": 8,
+              "practicalHours": 2
             },
             {
               "code": "7.5",
-              "name": "Electrical wiring interconnect system",
-              "theoryHours": 30,
-              "practicalHours": 20
-            },
-            {
-              "code": "7.6",
-              "name": "Riveting",
-              "theoryHours": 20,
+              "name": "Engineering Drawings, Diagrams and Standards",
+              "theoryHours": 8,
               "practicalHours": 15
             },
             {
+              "code": "7.6",
+              "name": "Fits and Clearances",
+              "theoryHours": 8,
+              "practicalHours": 3
+            },
+            {
               "code": "7.7",
-              "name": "Pipes and hoses",
-              "theoryHours": 20,
-              "practicalHours": 12
+              "name": "Electrical Wiring Interconnect System (EWIS)",
+              "theoryHours": 13,
+              "practicalHours": 14
             },
             {
               "code": "7.8",
-              "name": "Springs",
-              "theoryHours": 10,
-              "practicalHours": 5
+              "name": "Riveting",
+              "theoryHours": 7,
+              "practicalHours": 20
             },
             {
               "code": "7.9",
-              "name": "Bearings",
-              "theoryHours": 10,
-              "practicalHours": 5
+              "name": "Pipes and Hoses",
+              "theoryHours": 7,
+              "practicalHours": 0
             },
             {
               "code": "7.10",
-              "name": "Transmissions",
-              "theoryHours": 15,
-              "practicalHours": 10
+              "name": "Springs",
+              "theoryHours": 7,
+              "practicalHours": 0
             },
             {
               "code": "7.11",
-              "name": "Control cables",
-              "theoryHours": 15,
-              "practicalHours": 10
+              "name": "Bearings",
+              "theoryHours": 8,
+              "practicalHours": 0
             },
             {
               "code": "7.12",
-              "name": "Maintenance documentation",
-              "theoryHours": 30,
-              "practicalHours": 10
+              "name": "Transmissions",
+              "theoryHours": 12,
+              "practicalHours": 0
             },
             {
               "code": "7.13",
-              "name": "Ground support equipment",
-              "theory_hours": 0,
-              "practice_hours": 0
+              "name": "Control Cables",
+              "theoryHours": 7,
+              "practicalHours": 0
             },
             {
               "code": "7.14",
-              "name": "Electrostatic sensitive devices",
-              "theory_hours": 0,
-              "practice_hours": 0
+              "name": "Material Handling (Sheet Metal and Composite)",
+              "theoryHours": 14,
+              "practicalHours": 0
             },
             {
               "code": "7.15",
-              "name": "Aircraft weight and balance",
-              "theory_hours": 0,
-              "practice_hours": 0
+              "name": "Welding, Brazing, Soldering and Bonding",
+              "theoryHours": 14,
+              "practicalHours": 12
             },
             {
               "code": "7.16",
-              "name": "Aircraft handling and storage",
-              "theory_hours": 0,
-              "practice_hours": 0
+              "name": "Aircraft Weight and Balance",
+              "theoryHours": 14,
+              "practicalHours": 0
             },
             {
               "code": "7.17",
-              "name": "Disassembly, inspection, repair and assembly techniques",
-              "theory_hours": 0,
-              "practice_hours": 0
+              "name": "Aircraft Handling and Storage",
+              "theoryHours": 12,
+              "practicalHours": 11
             },
             {
               "code": "7.18",
-              "name": "Abnormal events",
-              "theory_hours": 0,
-              "practice_hours": 0
-            },
-            {
-              "code": "7.20",
-              "name": "Troubleshooting techniques",
-              "theory_hours": 0,
-              "practice_hours": 0
+              "name": "Disassembly, Inspection, Repair and Assembly Techniques",
+              "theoryHours": 37,
+              "practicalHours": 16
             },
             {
               "code": "7.19",
-              "name": "Maintenance of avionics/electrical systems",
-              "theory_hours": 0,
-              "practice_hours": 0
+              "name": "Abnormal Events",
+              "theoryHours": 14,
+              "practicalHours": 0
+            },
+            {
+              "code": "7.20",
+              "name": "Maintenance Procedures",
+              "theoryHours": 12,
+              "practicalHours": 20
             },
             {
               "code": "7.21",
-              "name": "Certification and sign-off of maintenance",
-              "theory_hours": 0,
-              "practice_hours": 0
+              "name": "Armament Safety",
+              "theoryHours": 10,
+              "practicalHours": 0
             }
           ]
         },
