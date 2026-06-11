@@ -1157,9 +1157,10 @@
         },
         {
           "number": 11,
-          "name": "Aeroplane Aerodynamics, Structures and Systems",
-          "theoryHours": 120,
-          "practicalHours": 35,
+          "label": "11A",
+          "name": "Turbine Aeroplane Aerodynamics, Structures and Systems",
+          "theoryHours": 114,
+          "practicalHours": 30,
           "submodules": [
             {
               "code": "11A.1",
@@ -1183,12 +1184,6 @@
               "code": "11A.4",
               "name": "Avionics",
               "theoryHours": 7,
-              "practicalHours": 5
-            },
-            {
-              "code": "11B.1",
-              "name": "Theory of flight - piston",
-              "theoryHours": 6,
               "practicalHours": 5
             },
             {
@@ -1286,6 +1281,21 @@
               "name": "Electrical wiring components",
               "theoryHours": 0,
               "practicalHours": 0
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "label": "11B",
+          "name": "Piston Aeroplane Aerodynamics, Structures and Systems",
+          "theoryHours": 6,
+          "practicalHours": 5,
+          "submodules": [
+            {
+              "code": "11B.1",
+              "name": "Theory of flight - piston",
+              "theoryHours": 6,
+              "practicalHours": 5
             },
             {
               "code": "11B.2",
