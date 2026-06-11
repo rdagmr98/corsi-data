@@ -2250,7 +2250,7 @@
           "number": 13,
           "name": "Aircraft Aerodynamics, Structures and Systems",
           "theoryHours": 460,
-          "practicalHours": 179,
+          "practicalHours": 174,
           "submodules": [
             {
               "code": "13.1",
