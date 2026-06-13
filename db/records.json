@@ -7,7 +7,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "e8197d4e-ac52-4781-8cf1-18728c198def",
@@ -17,7 +18,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "02d98656-971e-4e7a-a72c-1ae813f53bcc",
@@ -87,7 +89,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "de456c15-8b4a-485a-9a0e-72d140ce29fc",
@@ -97,7 +100,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "ec3a39e3-480f-44ce-a511-315fbde77855",
@@ -107,7 +111,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "61042c46-d604-4af7-9c1a-b82d862a9562",
@@ -117,7 +122,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "1095e046-c892-4f43-852e-5815eb534af2",
@@ -127,7 +133,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "7e9bdfda-e336-4e96-ab92-0ce0729d021a",
@@ -137,7 +144,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "3e661f67-db45-4786-b9b9-e7639787e6d8",
@@ -147,7 +155,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "7d1371d4-5230-40ca-b1fb-3b382272da9b",
@@ -157,7 +166,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "956fde8b-4edd-4b68-ba41-1dc03a5755de",
@@ -167,7 +177,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "00cdd227-ad33-4fac-9b28-552bd8b6935f",
@@ -177,7 +188,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "9445419d-2133-4ce0-80c4-afb44fd72c83",
@@ -187,7 +199,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "bc0591d4-7dc8-441b-9970-1257a8748982",
@@ -197,7 +210,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "9f368fc6-caec-4686-ab32-7d52a1e8f6eb",
@@ -207,7 +221,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "3527122d-4fc9-4853-9e57-5351695efffa",
@@ -217,7 +232,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "6e508976-c7ac-47c1-9124-c04598c4f269",
@@ -227,7 +243,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "9e3998d9-fa2f-4fbe-89af-4f6ba3593517",
@@ -237,7 +254,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "1aacec86-89fa-468a-a994-a139e687694a",
@@ -247,7 +265,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "4372a129-a1fe-46d5-ade2-862b150f7f85",
@@ -257,7 +276,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "1a1d1076-5f06-42e7-a1d7-40850b4d2b71",
@@ -267,7 +287,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "ebbc2701-7cde-48ff-8c8d-cbf527948f43",
@@ -277,7 +298,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "aa63dbfa-260f-4286-8254-df844cc932ba",
@@ -287,7 +309,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "a7c14928-2e61-4519-8abb-91f17cb2f31d",
@@ -297,7 +320,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "f1313e49-0148-4cd7-9967-4b03708b1677",
@@ -307,7 +331,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "f5d7b284-6eca-4750-90be-0991205f7cce",
@@ -317,7 +342,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "ab22b610-095a-467a-ab09-362a1cb1f46b",
@@ -327,7 +353,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "19ef63be-7ffa-40e1-aebd-db2f34af10c6",
@@ -337,7 +364,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "5709ea92-97f2-48b5-ad01-f086b552c2f9",
@@ -347,7 +375,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 4
   },
   {
     "id": "775a7f03-2915-4055-8726-e3a4691eddda",
@@ -477,7 +506,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "d2be81a5-6423-4123-acce-0fc07f085178",
@@ -487,7 +517,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "8fbada5b-11a5-46ca-826c-c737d697d5fa",
@@ -497,7 +528,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "48d6a5d5-3fbd-486b-83ab-3946d7dc49dd",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "34fcc693-4dbd-430d-997b-714db518c7b3",
@@ -537,7 +569,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 3
   },
   {
     "id": "b17e6490-8ea0-4fed-8863-e98206727c55",
@@ -577,7 +610,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 8
   },
   {
     "id": "cb7f0bc4-04f5-4753-a27d-2176ffb4797b",
@@ -827,7 +861,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 8
   },
   {
     "id": "6485b1ed-784e-46ce-a174-edd9c5a123ed",
@@ -837,7 +872,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 8
   },
   {
     "id": "0ff66d20-7e38-48cd-a972-efdbdc065564",
@@ -877,7 +913,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 8
   },
   {
     "id": "b843a841-1ef6-4722-9c9e-43e3f6c26f9e",
@@ -887,7 +924,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 8
   },
   {
     "id": "cc5b85be-793b-44c3-b567-cb22180f7498",
@@ -897,7 +935,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 8
   },
   {
     "id": "d2616ffd-7665-4e54-91a2-3ae3f8ded7f9",
@@ -907,7 +946,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 8
   },
   {
     "id": "718c946a-f045-4e09-9ba7-ffbd3f88e3bb",
@@ -917,7 +957,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 8
   },
   {
     "id": "7d2b4354-4072-4751-81f1-4e7857587d46",
@@ -927,7 +968,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "b9e9205d-e0b7-4be9-8004-9a1ea0c535c7",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 8
   },
   {
     "id": "51e87373-58c0-4b54-8b0b-afcbbbf5f1f5",
@@ -1777,7 +1819,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 9
   },
   {
     "id": "8745c1ab-f4f5-49ec-a56f-26f394fa68c4",
@@ -1787,7 +1830,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 9
   },
   {
     "id": "fb3894d7-0292-40a2-9230-69c33c590b5d",
@@ -1797,7 +1841,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 9
   },
   {
     "id": "13b60a9f-8c63-41e5-8009-2bae4ca6a0cb",
@@ -1807,7 +1852,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": "1e77f70e-6d6a-42f3-b8ff-62e2768c8c34",
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 9
   },
   {
     "id": "e7f1144b-fc5c-4092-b3b4-be36787730c5",
@@ -1877,7 +1923,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "81a6ca20-b5e7-471d-bdba-b323b8e228bf",
@@ -1887,7 +1934,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "371ad0ac-5c08-437e-96c5-0faed473ca56",
@@ -2077,7 +2125,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "d1c3f3ac-bf41-4936-9446-55f93cbd5707",
@@ -2087,7 +2136,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "6268faee-74b2-4e87-9a04-12c661e54dee",
@@ -2247,7 +2297,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "1c4fabd1-af36-4b11-ba56-a3a458f5b1f2",
@@ -2257,7 +2308,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "dc372f2d-0e67-47bb-bcf7-65cb5f8ec7e9",
@@ -2377,7 +2429,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "4af9f259-54a3-4f70-ab13-a9e457c4db38",
@@ -2387,7 +2440,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "3c56ad99-21f0-4e93-b31d-01cffacd888e",
@@ -2947,7 +3001,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "5588cd97-6e79-41a2-9398-1cfe2c755b45",
@@ -2957,7 +3012,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "78361fc5-d64e-4486-ae6d-bc5784220e8e",
@@ -3287,7 +3343,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "7b41af0d-7e26-4127-bb49-cb7cd8078f7e",
@@ -3357,7 +3414,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "d261be31-7682-401c-8f82-b144f1d8588e",
@@ -3367,7 +3425,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "3da8c946-314c-46bb-9f8d-41c14a6a8f3b",
@@ -3377,7 +3436,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "8eb2cfd9-c791-48c0-8505-83e982341bb2",
@@ -3387,7 +3447,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "6f56ccc9-a03a-4693-991e-ff14630e2aee",
@@ -3397,7 +3458,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "4357683f-7421-4cdd-9bfc-27decc11a958",
@@ -3407,7 +3469,8 @@
     "present": true,
     "justification": "recupero",
     "confirmed_by": null,
-    "confirmed_at": "2026-06-13T18:11:28.210406"
+    "confirmed_at": "2026-06-13T18:11:28.210406",
+    "recovered_module": 7
   },
   {
     "id": "7df5aae9-7b3c-4cf0-a2b1-fa0c20b3769d",
@@ -7582,698 +7645,5 @@
     "recovered_module": 16,
     "confirmed_by": "system",
     "confirmed_at": "2026-06-09T03:37:14Z"
-  },
-  {
-    "id": "imp3_514207f79790499f",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-11:m3i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_1efef272ef634d1e",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-12:m3i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_b29a5b3f4f514d35",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-13:m3i2",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_2bd83f1b56474299",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-13:m3i3",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_398fa098be4b4cb1",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-13:m3i4",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_0744ebc90aef4803",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-16:m3i5",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_de2f7219b5c745ef",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-17:m3i6",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_5c4618a2ead04589",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-19:m3i7",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_94761ca2ca0f4d19",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-20:m3i8",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_0b32e1efee06490b",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-20:m3i9",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_446b21e119064c94",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-20:m4i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_7036d57ceac3490d",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-23:m4i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_8fd9e78b1c444d6f",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-24:m4i2",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_ddb305578397422a",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-25:m4i3",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_68fba6dfa7cd4af2",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-26:m4i4",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_79cce9d14e90463a",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-06-30:m4i5",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_9a7a31a73b7c4ec0",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-01:m4i6",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_bc71d51d662d4794",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-02:m4i7",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_34170c3d23d44bd0",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-03:m4i8",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_2ab7eb1e858e4d4b",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-04:m4i9",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_2e70730a04fd41de",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-04:m4i10",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_a145eb4ebdb84b76",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-04:m4i11",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_078a99dcb8d04e25",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-05:m4i12",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_e8dac3cb3ae240b0",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-05:m4i13",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_576995f60b1f482b",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-05:m4i14",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_696a8369c56d48a9",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-05:m4i15",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_c04127ca93c54feb",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-05:m4i16",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_6cf8b4ee9335438d",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-05:m4i17",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_dfba5e38ec3e47ae",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-07:m4i18",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 4,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_6db193b4c2384c9b",
-    "schedule_id": "recovery:06b19534:1575d99c:2025-07-15:m3i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_c9b3c27672a84e10",
-    "schedule_id": "recovery:06b19534:1575d99c:2025-07-16:m3i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_82f291a5cf594409",
-    "schedule_id": "recovery:06b19534:1575d99c:2025-07-17:m3i2",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_48212783827c45b6",
-    "schedule_id": "recovery:06b19534:1575d99c:2025-07-21:m3i3",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 3,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_41e4933d2f194e7a",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-07-30:m8i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 8,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_1557f2b27a224984",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-09-10:m8i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 8,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_a7875ca46c764937",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-09-11:m8i2",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 8,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_3b7c39ccb13b4477",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-09-12:m8i3",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 8,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_44d8bf5f9ca0475a",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-09-15:m8i4",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 8,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_8327cd9c83404509",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-09-16:m8i5",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 8,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_10e031c053a64be6",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-09-17:m8i6",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 8,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_270272925c15474e",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-09-18:m8i7",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 8,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_ebba88786a034c15",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2025-09-22:m8i8",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 8,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_d1647a45da0a45f7",
-    "schedule_id": "recovery:06b19534:1575d99c:2025-11-19:m9i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 9,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_8daa0f106e654da1",
-    "schedule_id": "recovery:06b19534:1575d99c:2025-11-27:m9i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 9,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_99cf5ec6bdec4353",
-    "schedule_id": "recovery:06b19534:1575d99c:2025-12-01:m9i2",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 9,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_cb9d6fbcb1924507",
-    "schedule_id": "recovery:06b19534:1575d99c:2025-12-02:m9i3",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 9,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_eae9bf6d9bc34d65",
-    "schedule_id": "recovery:06b19534:1575d99c:2026-01-13:m7i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_dd4b001cc25145cf",
-    "schedule_id": "recovery:06b19534:1575d99c:2026-01-14:m7i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_05633748a4aa45e9",
-    "schedule_id": "recovery:06b19534:d0b8c2d0:2026-02-03:m7i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_38db01b21efa4cb5",
-    "schedule_id": "recovery:06b19534:d0b8c2d0:2026-02-04:m7i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "d0b8c2d0-3985-4a82-b1ea-c42c10b80772",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_9484cd25022d47da",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2026-02-09:m7i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_a057383503234265",
-    "schedule_id": "recovery:06b19534:1575d99c:2026-03-03:m7i2",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_d29f08d309634abb",
-    "schedule_id": "recovery:06b19534:62147c07:2026-03-04:m7i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_df919d29c60547b5",
-    "schedule_id": "recovery:06b19534:1575d99c:2026-03-09:m7i3",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "1575d99c-17ab-426d-bf0d-c7f3d54e2a1c",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_a1674361bbe44a33",
-    "schedule_id": "recovery:06b19534:62147c07:2026-03-09:m7i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_f2102dae088944bd",
-    "schedule_id": "recovery:06b19534:13789c2d:2026-03-17:m7i0",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_da61a054daeb438b",
-    "schedule_id": "recovery:06b19534:13789c2d:2026-03-18:m7i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "13789c2d-7b06-4f07-a70c-702f36425361",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_29af34c071384e17",
-    "schedule_id": "recovery:06b19534:62147c07:2026-03-31:m7i2",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_c337bd22abf84996",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2026-04-13:m7i1",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_469f054864594016",
-    "schedule_id": "recovery:06b19534:62147c07:2026-04-13:m7i3",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_e1e2df5eb82f4fc5",
-    "schedule_id": "recovery:06b19534:2e99ca9e:2026-04-14:m7i2",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "2e99ca9e-0605-4363-8fbd-c7a93216791b",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_0929f744924a49be",
-    "schedule_id": "recovery:06b19534:62147c07:2026-04-14:m7i4",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
-  },
-  {
-    "id": "imp3_30a6c0400e4642ba",
-    "schedule_id": "recovery:06b19534:62147c07:2026-04-15:m7i5",
-    "course_id": "06b19534-a649-489d-8c74-32cfeaa3df92",
-    "attendee_id": "62147c07-0172-487d-aabc-c44865dd6dde",
-    "present": true,
-    "justification": "recupero",
-    "recovered_module": 7,
-    "confirmed_by": "import",
-    "confirmed_at": "2026-06-09T12:00:00Z"
   }
 ]
