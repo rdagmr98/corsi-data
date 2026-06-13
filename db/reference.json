@@ -536,13 +536,13 @@
         {
           "number": 3,
           "name": "Electrical Fundamentals",
-          "theoryHours": 90,
+          "theoryHours": 124,
           "practicalHours": 20,
           "submodules": [
             {
               "code": "3.1",
               "name": "Electron theory",
-              "theoryHours": 2,
+              "theoryHours": 3,
               "practicalHours": 0
             },
             {
@@ -608,7 +608,7 @@
             {
               "code": "3.12",
               "name": "DC motor/generator theory",
-              "theoryHours": 6,
+              "theoryHours": 7,
               "practicalHours": 3
             },
             {
@@ -626,25 +626,25 @@
             {
               "code": "3.15",
               "name": "Transformers",
-              "theoryHours": 5,
+              "theoryHours": 6,
               "practicalHours": 0
             },
             {
               "code": "3.16",
               "name": "Filters",
-              "theoryHours": 2,
+              "theoryHours": 4,
               "practicalHours": 0
             },
             {
               "code": "3.17",
               "name": "AC generators",
-              "theoryHours": 7,
+              "theoryHours": 10,
               "practicalHours": 0
             },
             {
               "code": "3.18",
               "name": "AC motors",
-              "theoryHours": 5,
+              "theoryHours": 7,
               "practicalHours": 0
             }
           ]
@@ -652,19 +652,19 @@
         {
           "number": 4,
           "name": "Electronic Fundamentals",
-          "theoryHours": 50,
+          "theoryHours": 69,
           "practicalHours": 0,
           "submodules": [
             {
               "code": "4.1",
               "name": "Semiconductors",
-              "theoryHours": 33,
+              "theoryHours": 51,
               "practicalHours": 0
             },
             {
               "code": "4.2",
               "name": "Printed circuit board",
-              "theoryHours": 6,
+              "theoryHours": 7,
               "practicalHours": 0
             },
             {
@@ -678,7 +678,7 @@
         {
           "number": 5,
           "name": "Digital Technique/Electronic Instrument System",
-          "theoryHours": 80,
+          "theoryHours": 81,
           "practicalHours": 0,
           "submodules": [
             {
@@ -762,7 +762,7 @@
             {
               "code": "5.14",
               "name": "Electromagnetic environment",
-              "theoryHours": 6,
+              "theoryHours": 7,
               "practicalHours": 0
             },
             {
@@ -776,7 +776,7 @@
         {
           "number": 6,
           "name": "Materials And Hardware",
-          "theoryHours": 160,
+          "theoryHours": 167,
           "practicalHours": 0,
           "submodules": [
             {
@@ -830,7 +830,7 @@
             {
               "code": "6.7",
               "name": "Springs",
-              "theoryHours": 8,
+              "theoryHours": 12,
               "practicalHours": 0
             },
             {
@@ -854,7 +854,7 @@
             {
               "code": "6.11",
               "name": "Electrical cables and connectors",
-              "theoryHours": 9,
+              "theoryHours": 12,
               "practicalHours": 0
             }
           ]
@@ -862,7 +862,7 @@
         {
           "number": 7,
           "name": "Maintenance Practices",
-          "theoryHours": 260,
+          "theoryHours": 357,
           "practicalHours": 147,
           "submodules": [
             {
@@ -886,7 +886,7 @@
             {
               "code": "7.4",
               "name": "Avionic General Test Equipment",
-              "theoryHours": 8,
+              "theoryHours": 9,
               "practicalHours": 2
             },
             {
@@ -898,7 +898,7 @@
             {
               "code": "7.6",
               "name": "Fits and Clearances",
-              "theoryHours": 8,
+              "theoryHours": 9,
               "practicalHours": 3
             },
             {
@@ -916,7 +916,7 @@
             {
               "code": "7.9",
               "name": "Pipes and Hoses",
-              "theoryHours": 7,
+              "theoryHours": 8,
               "practicalHours": 0
             },
             {
@@ -928,7 +928,7 @@
             {
               "code": "7.11",
               "name": "Bearings",
-              "theoryHours": 8,
+              "theoryHours": 11,
               "practicalHours": 0
             },
             {
@@ -958,19 +958,19 @@
             {
               "code": "7.16",
               "name": "Aircraft Weight and Balance",
-              "theoryHours": 14,
+              "theoryHours": 16,
               "practicalHours": 0
             },
             {
               "code": "7.17",
               "name": "Aircraft Handling and Storage",
-              "theoryHours": 12,
+              "theoryHours": 15,
               "practicalHours": 11
             },
             {
               "code": "7.18",
               "name": "Disassembly, Inspection, Repair and Assembly Techniques",
-              "theoryHours": 47,
+              "theoryHours": 14,
               "practicalHours": 16
             },
             {
@@ -996,19 +996,19 @@
         {
           "number": 8,
           "name": "Basic Aerodynamics",
-          "theoryHours": 50,
+          "theoryHours": 70,
           "practicalHours": 0,
           "submodules": [
             {
               "code": "8.1",
               "name": "Atmosphere",
-              "theoryHours": 12,
+              "theoryHours": 14,
               "practicalHours": 0
             },
             {
               "code": "8.2",
               "name": "Aerodynamics",
-              "theoryHours": 14,
+              "theoryHours": 15,
               "practicalHours": 0
             },
             {
@@ -1020,7 +1020,7 @@
             {
               "code": "8.4",
               "name": "Theory of flight - helicopter",
-              "theoryHours": 12,
+              "theoryHours": 29,
               "practicalHours": 0
             }
           ]
@@ -1028,7 +1028,7 @@
         {
           "number": 9,
           "name": "Human Factor",
-          "theoryHours": 22,
+          "theoryHours": 26,
           "practicalHours": 0,
           "submodules": [
             {
@@ -1040,7 +1040,7 @@
             {
               "code": "9.2",
               "name": "Human performance and limitations",
-              "theoryHours": 3,
+              "theoryHours": 5,
               "practicalHours": 0
             },
             {
@@ -1076,7 +1076,7 @@
             {
               "code": "9.8",
               "name": "Error management and CRM",
-              "theoryHours": 3,
+              "theoryHours": 5,
               "practicalHours": 0
             },
             {
@@ -1558,7 +1558,7 @@
         {
           "number": 16,
           "name": "Piston Engine",
-          "theoryHours": 80,
+          "theoryHours": 103,
           "practicalHours": 20,
           "submodules": [
             {
@@ -1606,7 +1606,7 @@
             {
               "code": "16.8",
               "name": "Lubricants and Fuels",
-              "theoryHours": 6,
+              "theoryHours": 9,
               "practicalHours": 0
             },
             {
