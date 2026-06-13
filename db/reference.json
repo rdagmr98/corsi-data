@@ -536,13 +536,13 @@
         {
           "number": 3,
           "name": "Electrical Fundamentals",
-          "theoryHours": 124,
+          "theoryHours": 90,
           "practicalHours": 20,
           "submodules": [
             {
               "code": "3.1",
               "name": "Electron theory",
-              "theoryHours": 3,
+              "theoryHours": 2,
               "practicalHours": 0
             },
             {
@@ -567,25 +567,61 @@
               "code": "3.5",
               "name": "DC sources of electricity",
               "theoryHours": 5,
-              "practicalHours": 8
+              "practicalHours": 8,
+              "practicalTasks": [
+                {
+                  "id": 1,
+                  "plannedHours": 3
+                },
+                {
+                  "id": 2,
+                  "plannedHours": 5
+                },
+                {
+                  "id": 3,
+                  "plannedHours": 4
+                }
+              ]
             },
             {
               "code": "3.6",
               "name": "DC circuits",
               "theoryHours": 5,
-              "practicalHours": 2
+              "practicalHours": 2,
+              "practicalTasks": [
+                {
+                  "id": 4,
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "3.7",
               "name": "Resistance/resistor",
               "theoryHours": 7,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "practicalTasks": [
+                {
+                  "id": 5,
+                  "plannedHours": 3
+                },
+                {
+                  "id": 6,
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "3.8",
               "name": "Power",
               "theoryHours": 5,
-              "practicalHours": 2
+              "practicalHours": 2,
+              "practicalTasks": [
+                {
+                  "id": 7,
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "3.9",
@@ -602,19 +638,25 @@
             {
               "code": "3.11",
               "name": "Inductance/inductor",
-              "theoryHours": 6,
+              "theoryHours": 5,
               "practicalHours": 0
             },
             {
               "code": "3.12",
               "name": "DC motor/generator theory",
-              "theoryHours": 7,
-              "practicalHours": 3
+              "theoryHours": 5,
+              "practicalHours": 3,
+              "practicalTasks": [
+                {
+                  "id": 8,
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "3.13",
               "name": "AC theory",
-              "theoryHours": 3,
+              "theoryHours": 5,
               "practicalHours": 0
             },
             {
@@ -626,25 +668,25 @@
             {
               "code": "3.15",
               "name": "Transformers",
-              "theoryHours": 6,
+              "theoryHours": 5,
               "practicalHours": 0
             },
             {
               "code": "3.16",
               "name": "Filters",
-              "theoryHours": 4,
+              "theoryHours": 2,
               "practicalHours": 0
             },
             {
               "code": "3.17",
               "name": "AC generators",
-              "theoryHours": 10,
+              "theoryHours": 6,
               "practicalHours": 0
             },
             {
               "code": "3.18",
               "name": "AC motors",
-              "theoryHours": 7,
+              "theoryHours": 6,
               "practicalHours": 0
             }
           ]
@@ -652,25 +694,25 @@
         {
           "number": 4,
           "name": "Electronic Fundamentals",
-          "theoryHours": 69,
+          "theoryHours": 50,
           "practicalHours": 0,
           "submodules": [
             {
               "code": "4.1",
               "name": "Semiconductors",
-              "theoryHours": 51,
+              "theoryHours": 30,
               "practicalHours": 0
             },
             {
               "code": "4.2",
               "name": "Printed circuit board",
-              "theoryHours": 7,
+              "theoryHours": 8,
               "practicalHours": 0
             },
             {
               "code": "4.3",
               "name": "Servomechanisms",
-              "theoryHours": 11,
+              "theoryHours": 12,
               "practicalHours": 0
             }
           ]
@@ -678,7 +720,7 @@
         {
           "number": 5,
           "name": "Digital Technique/Electronic Instrument System",
-          "theoryHours": 81,
+          "theoryHours": 80,
           "practicalHours": 0,
           "submodules": [
             {
@@ -744,31 +786,31 @@
             {
               "code": "5.11",
               "name": "Electronic displays",
-              "theoryHours": 10,
+              "theoryHours": 7,
               "practicalHours": 0
             },
             {
               "code": "5.12",
               "name": "Electrostatic sensitive devices",
-              "theoryHours": 4,
+              "theoryHours": 8,
               "practicalHours": 0
             },
             {
               "code": "5.13",
               "name": "Software management control",
-              "theoryHours": 8,
+              "theoryHours": 7,
               "practicalHours": 0
             },
             {
               "code": "5.14",
               "name": "Electromagnetic environment",
-              "theoryHours": 7,
+              "theoryHours": 8,
               "practicalHours": 0
             },
             {
               "code": "5.15",
               "name": "Typical electronic/digital aircraft systems",
-              "theoryHours": 10,
+              "theoryHours": 8,
               "practicalHours": 0
             }
           ]
@@ -776,7 +818,7 @@
         {
           "number": 6,
           "name": "Materials And Hardware",
-          "theoryHours": 167,
+          "theoryHours": 160,
           "practicalHours": 0,
           "submodules": [
             {
@@ -794,25 +836,25 @@
             {
               "code": "6.3a",
               "name": "Composite materials",
-              "theoryHours": 15,
+              "theoryHours": 9,
               "practicalHours": 0
             },
             {
               "code": "6.3b",
               "name": "Non-metallic materials",
-              "theoryHours": 3,
+              "theoryHours": 9,
               "practicalHours": 0
             },
             {
               "code": "6.4a",
               "name": "Corrosion - types and causes",
-              "theoryHours": 7,
+              "theoryHours": 5,
               "practicalHours": 0
             },
             {
               "code": "6.4b",
               "name": "Corrosion - protection and prevention",
-              "theoryHours": 10,
+              "theoryHours": 12,
               "practicalHours": 0
             },
             {
@@ -830,7 +872,7 @@
             {
               "code": "6.7",
               "name": "Springs",
-              "theoryHours": 12,
+              "theoryHours": 8,
               "practicalHours": 0
             },
             {
@@ -854,7 +896,7 @@
             {
               "code": "6.11",
               "name": "Electrical cables and connectors",
-              "theoryHours": 12,
+              "theoryHours": 9,
               "practicalHours": 0
             }
           ]
@@ -862,61 +904,169 @@
         {
           "number": 7,
           "name": "Maintenance Practices",
-          "theoryHours": 357,
+          "theoryHours": 260,
           "practicalHours": 147,
           "submodules": [
             {
               "code": "7.1",
               "name": "Safety Precautions - Aircraft and Workshop",
               "theoryHours": 12,
-              "practicalHours": 3
+              "practicalHours": 3,
+              "practicalTasks": [
+                {
+                  "id": 9,
+                  "plannedHours": 6
+                }
+              ]
             },
             {
               "code": "7.2",
               "name": "Workshop Practices",
               "theoryHours": 13,
-              "practicalHours": 3
+              "practicalHours": 3,
+              "practicalTasks": [
+                {
+                  "id": 10,
+                  "plannedHours": 6
+                }
+              ]
             },
             {
               "code": "7.3",
               "name": "Tools",
               "theoryHours": 13,
-              "practicalHours": 28
+              "practicalHours": 28,
+              "practicalTasks": [
+                {
+                  "id": 11,
+                  "plannedHours": 10
+                },
+                {
+                  "id": 12,
+                  "plannedHours": 8
+                },
+                {
+                  "id": 13,
+                  "plannedHours": 14
+                },
+                {
+                  "id": 14,
+                  "plannedHours": 20
+                },
+                {
+                  "id": 15,
+                  "plannedHours": 8
+                },
+                {
+                  "id": 16,
+                  "plannedHours": 4
+                },
+                {
+                  "id": 17,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 18,
+                  "plannedHours": 4
+                }
+              ]
             },
             {
               "code": "7.4",
               "name": "Avionic General Test Equipment",
-              "theoryHours": 9,
-              "practicalHours": 2
+              "theoryHours": 8,
+              "practicalHours": 2,
+              "practicalTasks": [
+                {
+                  "id": 19,
+                  "plannedHours": 4
+                }
+              ]
             },
             {
               "code": "7.5",
               "name": "Engineering Drawings, Diagrams and Standards",
               "theoryHours": 8,
-              "practicalHours": 15
+              "practicalHours": 15,
+              "practicalTasks": [
+                {
+                  "id": 20,
+                  "plannedHours": 24
+                },
+                {
+                  "id": 21,
+                  "plannedHours": 22
+                },
+                {
+                  "id": 22,
+                  "plannedHours": 8
+                },
+                {
+                  "id": 23,
+                  "plannedHours": 24
+                }
+              ]
             },
             {
               "code": "7.6",
               "name": "Fits and Clearances",
-              "theoryHours": 9,
-              "practicalHours": 3
+              "theoryHours": 8,
+              "practicalHours": 3,
+              "practicalTasks": [
+                {
+                  "id": 24,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 25,
+                  "plannedHours": 12
+                }
+              ]
             },
             {
               "code": "7.7",
               "name": "Electrical Wiring Interconnect System (EWIS)",
               "theoryHours": 13,
-              "practicalHours": 14
+              "practicalHours": 14,
+              "practicalTasks": [
+                {
+                  "id": 26,
+                  "plannedHours": 8
+                },
+                {
+                  "id": 27,
+                  "plannedHours": 16
+                },
+                {
+                  "id": 28,
+                  "plannedHours": 24
+                }
+              ]
             },
             {
               "code": "7.8",
               "name": "Riveting",
               "theoryHours": 7,
-              "practicalHours": 20
+              "practicalHours": 20,
+              "practicalTasks": [
+                {
+                  "id": 29,
+                  "plannedHours": 12
+                },
+                {
+                  "id": 30,
+                  "plannedHours": 8
+                },
+                {
+                  "id": 31,
+                  "plannedHours": 8
+                }
+              ]
             },
             {
               "code": "7.9",
               "name": "Pipes and Hoses",
-              "theoryHours": 8,
+              "theoryHours": 7,
               "practicalHours": 0
             },
             {
@@ -928,7 +1078,7 @@
             {
               "code": "7.11",
               "name": "Bearings",
-              "theoryHours": 11,
+              "theoryHours": 8,
               "practicalHours": 0
             },
             {
@@ -953,25 +1103,71 @@
               "code": "7.15",
               "name": "Welding, Brazing, Soldering and Bonding",
               "theoryHours": 14,
-              "practicalHours": 12
+              "practicalHours": 12,
+              "practicalTasks": [
+                {
+                  "id": 32,
+                  "plannedHours": 24
+                },
+                {
+                  "id": 33,
+                  "plannedHours": 24
+                }
+              ]
             },
             {
               "code": "7.16",
               "name": "Aircraft Weight and Balance",
-              "theoryHours": 16,
+              "theoryHours": 14,
               "practicalHours": 0
             },
             {
               "code": "7.17",
               "name": "Aircraft Handling and Storage",
-              "theoryHours": 15,
-              "practicalHours": 11
+              "theoryHours": 12,
+              "practicalHours": 11,
+              "practicalTasks": [
+                {
+                  "id": 34,
+                  "plannedHours": 2
+                },
+                {
+                  "id": 35,
+                  "plannedHours": 22
+                },
+                {
+                  "id": 36,
+                  "plannedHours": 2
+                },
+                {
+                  "id": 37,
+                  "plannedHours": 14
+                },
+                {
+                  "id": 38,
+                  "plannedHours": 42
+                }
+              ]
             },
             {
               "code": "7.18",
               "name": "Disassembly, Inspection, Repair and Assembly Techniques",
-              "theoryHours": 14,
-              "practicalHours": 16
+              "theoryHours": 47,
+              "practicalHours": 16,
+              "practicalTasks": [
+                {
+                  "id": 39,
+                  "plannedHours": 22
+                },
+                {
+                  "id": 40,
+                  "plannedHours": 40
+                },
+                {
+                  "id": 41,
+                  "plannedHours": 8
+                }
+              ]
             },
             {
               "code": "7.19",
@@ -983,7 +1179,21 @@
               "code": "7.20",
               "name": "Maintenance Procedures",
               "theoryHours": 12,
-              "practicalHours": 20
+              "practicalHours": 20,
+              "practicalTasks": [
+                {
+                  "id": 42,
+                  "plannedHours": 28
+                },
+                {
+                  "id": 43,
+                  "plannedHours": 24
+                },
+                {
+                  "id": 44,
+                  "plannedHours": 14
+                }
+              ]
             },
             {
               "code": "7.21",
@@ -996,19 +1206,19 @@
         {
           "number": 8,
           "name": "Basic Aerodynamics",
-          "theoryHours": 70,
+          "theoryHours": 50,
           "practicalHours": 0,
           "submodules": [
             {
               "code": "8.1",
               "name": "Atmosphere",
-              "theoryHours": 14,
+              "theoryHours": 12,
               "practicalHours": 0
             },
             {
               "code": "8.2",
               "name": "Aerodynamics",
-              "theoryHours": 15,
+              "theoryHours": 14,
               "practicalHours": 0
             },
             {
@@ -1020,7 +1230,7 @@
             {
               "code": "8.4",
               "name": "Theory of flight - helicopter",
-              "theoryHours": 29,
+              "theoryHours": 12,
               "practicalHours": 0
             }
           ]
@@ -1028,7 +1238,7 @@
         {
           "number": 9,
           "name": "Human Factor",
-          "theoryHours": 26,
+          "theoryHours": 22,
           "practicalHours": 0,
           "submodules": [
             {
@@ -1040,7 +1250,7 @@
             {
               "code": "9.2",
               "name": "Human performance and limitations",
-              "theoryHours": 5,
+              "theoryHours": 3,
               "practicalHours": 0
             },
             {
@@ -1076,7 +1286,7 @@
             {
               "code": "9.8",
               "name": "Error management and CRM",
-              "theoryHours": 5,
+              "theoryHours": 3,
               "practicalHours": 0
             },
             {
@@ -1154,7 +1364,13 @@
               "code": "11A.2",
               "name": "Airframe Structures - General Concepts",
               "theoryHours": 13,
-              "practicalHours": 6
+              "practicalHours": 6,
+              "practicalTasks": [
+                {
+                  "id": 45,
+                  "plannedHours": 24
+                }
+              ]
             },
             {
               "code": "11A.3",
@@ -1184,7 +1400,13 @@
               "code": "11A.7",
               "name": "Equipment and Furnishings (ATA 25)",
               "theoryHours": 6,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "practicalTasks": [
+                {
+                  "id": 46,
+                  "plannedHours": 34
+                }
+              ]
             },
             {
               "code": "11A.8",
@@ -1196,7 +1418,17 @@
               "code": "11A.9",
               "name": "Flight Controls (ATA 27)",
               "theoryHours": 14,
-              "practicalHours": 11
+              "practicalHours": 11,
+              "practicalTasks": [
+                {
+                  "id": 47,
+                  "plannedHours": 20
+                },
+                {
+                  "id": 48,
+                  "plannedHours": 24
+                }
+              ]
             },
             {
               "code": "11A.10",
@@ -1220,7 +1452,17 @@
               "code": "11A.13",
               "name": "Landing Gear (ATA 32)",
               "theoryHours": 4,
-              "practicalHours": 8
+              "practicalHours": 8,
+              "practicalTasks": [
+                {
+                  "id": 49,
+                  "plannedHours": 12
+                },
+                {
+                  "id": 50,
+                  "plannedHours": 24
+                }
+              ]
             },
             {
               "code": "11A.14",
@@ -1277,13 +1519,25 @@
               "code": "11B.3",
               "name": "Airframe Structures",
               "theoryHours": 0,
-              "practicalHours": 3
+              "practicalHours": 3,
+              "practicalTasks": [
+                {
+                  "id": 51,
+                  "plannedHours": 18
+                }
+              ]
             },
             {
               "code": "11B.4",
               "name": "Air Conditioning and Cabin Pressurisation",
               "theoryHours": 4,
-              "practicalHours": 2
+              "practicalHours": 2,
+              "practicalTasks": [
+                {
+                  "id": 52,
+                  "plannedHours": 12
+                }
+              ]
             },
             {
               "code": "11B.8",
@@ -1309,7 +1563,41 @@
               "code": "12.2",
               "name": "Flight Control Systems",
               "theoryHours": 26,
-              "practicalHours": 34
+              "practicalHours": 34,
+              "practicalTasks": [
+                {
+                  "id": 53,
+                  "plannedHours": 16
+                },
+                {
+                  "id": 54,
+                  "plannedHours": 24
+                },
+                {
+                  "id": 55,
+                  "plannedHours": 24
+                },
+                {
+                  "id": 56,
+                  "plannedHours": 24
+                },
+                {
+                  "id": 58,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 59,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 60,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 61,
+                  "plannedHours": 24
+                }
+              ]
             },
             {
               "code": "12.3",
@@ -1321,13 +1609,61 @@
               "code": "12.4",
               "name": "Transmissions",
               "theoryHours": 25,
-              "practicalHours": 24
+              "practicalHours": 24,
+              "practicalTasks": [
+                {
+                  "id": 62,
+                  "plannedHours": 8
+                },
+                {
+                  "id": 63,
+                  "plannedHours": 12
+                },
+                {
+                  "id": 64,
+                  "plannedHours": 10
+                },
+                {
+                  "id": 65,
+                  "plannedHours": 20
+                },
+                {
+                  "id": 66,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 67,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 68,
+                  "plannedHours": 8
+                }
+              ]
             },
             {
               "code": "12.5",
               "name": "Airframe Structures",
               "theoryHours": 30,
-              "practicalHours": 10
+              "practicalHours": 10,
+              "practicalTasks": [
+                {
+                  "id": 69,
+                  "plannedHours": 8
+                },
+                {
+                  "id": 70,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 71,
+                  "plannedHours": 4
+                },
+                {
+                  "id": 72,
+                  "plannedHours": 4
+                }
+              ]
             },
             {
               "code": "12.6",
@@ -1339,13 +1675,29 @@
               "code": "12.7",
               "name": "Instruments/Avionic Systems",
               "theoryHours": 23,
-              "practicalHours": 2
+              "practicalHours": 2,
+              "practicalTasks": [
+                {
+                  "id": 73,
+                  "plannedHours": 4
+                }
+              ]
             },
             {
               "code": "12.8",
               "name": "Electrical Power",
               "theoryHours": 25,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "practicalTasks": [
+                {
+                  "id": 74,
+                  "plannedHours": 4
+                },
+                {
+                  "id": 75,
+                  "plannedHours": 10
+                }
+              ]
             },
             {
               "code": "12.9",
@@ -1357,19 +1709,49 @@
               "code": "12.10",
               "name": "Fire Protection",
               "theoryHours": 15,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "practicalTasks": [
+                {
+                  "id": 76,
+                  "plannedHours": 10
+                }
+              ]
             },
             {
               "code": "12.11",
               "name": "Fuel Systems",
               "theoryHours": 26,
-              "practicalHours": 6
+              "practicalHours": 6,
+              "practicalTasks": [
+                {
+                  "id": 77,
+                  "plannedHours": 16
+                }
+              ]
             },
             {
               "code": "12.12",
               "name": "Hydraulic Power",
               "theoryHours": 26,
-              "practicalHours": 10
+              "practicalHours": 10,
+              "practicalTasks": [
+                {
+                  "id": 57,
+                  "plannedHours": 12
+                },
+                {
+                  "id": 78,
+                  "plannedHours": 20
+                },
+                {
+                  "id": 79,
+                  "plannedHours": 12
+                },
+                {
+                  "id": 80,
+                  "plannedHours": 12
+                }
+              ]
             },
             {
               "code": "12.13",
@@ -1381,13 +1763,33 @@
               "code": "12.14",
               "name": "Landing Gear",
               "theoryHours": 22,
-              "practicalHours": 4
+              "practicalHours": 4,
+              "practicalTasks": [
+                {
+                  "id": 81,
+                  "plannedHours": 20
+                }
+              ]
             },
             {
               "code": "12.15",
               "name": "Lights",
               "theoryHours": 10,
-              "practicalHours": 12
+              "practicalHours": 12,
+              "practicalTasks": [
+                {
+                  "id": 82,
+                  "plannedHours": 20
+                },
+                {
+                  "id": 83,
+                  "plannedHours": 58
+                },
+                {
+                  "id": 84,
+                  "plannedHours": 30
+                }
+              ]
             },
             {
               "code": "12.16",
@@ -1437,19 +1839,53 @@
               "code": "15.3",
               "name": "Inlet",
               "theoryHours": 10,
-              "practicalHours": 6
+              "practicalHours": 6,
+              "practicalTasks": [
+                {
+                  "id": 85,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 86,
+                  "plannedHours": 12
+                }
+              ]
             },
             {
               "code": "15.4",
               "name": "Compressors",
               "theoryHours": 14,
-              "practicalHours": 9
+              "practicalHours": 9,
+              "practicalTasks": [
+                {
+                  "id": 87,
+                  "plannedHours": 4
+                },
+                {
+                  "id": 88,
+                  "plannedHours": 10
+                },
+                {
+                  "id": 89,
+                  "plannedHours": 22
+                },
+                {
+                  "id": 90,
+                  "plannedHours": 12
+                }
+              ]
             },
             {
               "code": "15.5",
               "name": "Combustion Section",
               "theoryHours": 4,
-              "practicalHours": 2
+              "practicalHours": 2,
+              "practicalTasks": [
+                {
+                  "id": 91,
+                  "plannedHours": 12
+                }
+              ]
             },
             {
               "code": "15.6",
@@ -1479,13 +1915,45 @@
               "code": "15.10",
               "name": "Lubrication Systems",
               "theoryHours": 10,
-              "practicalHours": 13
+              "practicalHours": 13,
+              "practicalTasks": [
+                {
+                  "id": 92,
+                  "plannedHours": 18
+                },
+                {
+                  "id": 93,
+                  "plannedHours": 14
+                },
+                {
+                  "id": 94,
+                  "plannedHours": 18
+                },
+                {
+                  "id": 95,
+                  "plannedHours": 4
+                },
+                {
+                  "id": 96,
+                  "plannedHours": 12
+                }
+              ]
             },
             {
               "code": "15.11",
               "name": "Fuel Systems",
               "theoryHours": 14,
-              "practicalHours": 2
+              "practicalHours": 2,
+              "practicalTasks": [
+                {
+                  "id": 97,
+                  "plannedHours": 16
+                },
+                {
+                  "id": 98,
+                  "plannedHours": 24
+                }
+              ]
             },
             {
               "code": "15.12",
@@ -1497,13 +1965,37 @@
               "code": "15.13",
               "name": "Starting and Ignition Systems",
               "theoryHours": 6,
-              "practicalHours": 6
+              "practicalHours": 6,
+              "practicalTasks": [
+                {
+                  "id": 99,
+                  "plannedHours": 20
+                },
+                {
+                  "id": 100,
+                  "plannedHours": 18
+                },
+                {
+                  "id": 101,
+                  "plannedHours": 10
+                }
+              ]
             },
             {
               "code": "15.14",
               "name": "Engine Indication Systems",
               "theoryHours": 12,
-              "practicalHours": 9
+              "practicalHours": 9,
+              "practicalTasks": [
+                {
+                  "id": 102,
+                  "plannedHours": 6
+                },
+                {
+                  "id": 103,
+                  "plannedHours": 18
+                }
+              ]
             },
             {
               "code": "15.15",
@@ -1558,7 +2050,7 @@
         {
           "number": 16,
           "name": "Piston Engine",
-          "theoryHours": 103,
+          "theoryHours": 80,
           "practicalHours": 20,
           "submodules": [
             {
@@ -1570,20 +2062,30 @@
             {
               "code": "16.2",
               "name": "Engine performance",
-              "theoryHours": 6,
+              "theoryHours": 5,
               "practicalHours": 0
             },
             {
               "code": "16.3",
               "name": "Engine construction",
-              "theoryHours": 7,
+              "theoryHours": 8,
               "practicalHours": 0
             },
             {
               "code": "16.4",
               "name": "Engine Fuel Systems",
               "theoryHours": 13,
-              "practicalHours": 7
+              "practicalHours": 7,
+              "practicalTasks": [
+                {
+                  "id": 104,
+                  "plannedHours": 14
+                },
+                {
+                  "id": 105,
+                  "plannedHours": 18
+                }
+              ]
             },
             {
               "code": "16.5",
@@ -1606,14 +2108,24 @@
             {
               "code": "16.8",
               "name": "Lubricants and Fuels",
-              "theoryHours": 9,
+              "theoryHours": 6,
               "practicalHours": 0
             },
             {
               "code": "16.9",
               "name": "Lubrication Systems",
               "theoryHours": 2,
-              "practicalHours": 7
+              "practicalHours": 7,
+              "practicalTasks": [
+                {
+                  "id": 106,
+                  "plannedHours": 12
+                },
+                {
+                  "id": 107,
+                  "plannedHours": 16
+                }
+              ]
             },
             {
               "code": "16.10",
@@ -1631,7 +2143,17 @@
               "code": "16.12",
               "name": "Engine Monitoring and Ground Operation",
               "theoryHours": 5,
-              "practicalHours": 6
+              "practicalHours": 6,
+              "practicalTasks": [
+                {
+                  "id": 108,
+                  "plannedHours": 20
+                },
+                {
+                  "id": 109,
+                  "plannedHours": 32
+                }
+              ]
             },
             {
               "code": "16.13",
@@ -1663,7 +2185,13 @@
               "code": "17.3",
               "name": "Propeller pitch control",
               "theoryHours": 6,
-              "practicalHours": 3
+              "practicalHours": 3,
+              "practicalTasks": [
+                {
+                  "id": 110,
+                  "plannedHours": 12
+                }
+              ]
             },
             {
               "code": "17.4",
@@ -1681,13 +2209,25 @@
               "code": "17.6",
               "name": "Propeller maintenance",
               "theoryHours": 10,
-              "practicalHours": 3
+              "practicalHours": 3,
+              "practicalTasks": [
+                {
+                  "id": 111,
+                  "plannedHours": 6
+                }
+              ]
             },
             {
               "code": "17.7",
               "name": "Propeller storage and preservation",
               "theoryHours": 5,
-              "practicalHours": 4
+              "practicalHours": 4,
+              "practicalTasks": [
+                {
+                  "id": 112,
+                  "plannedHours": 14
+                }
+              ]
             }
           ]
         }
