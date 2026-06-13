@@ -1382,25 +1382,29 @@
               "code": "11A.4",
               "name": "Air Conditioning and Cabin Pressurisation (ATA 21)",
               "theoryHours": 9,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.5",
               "name": "Instrument/Avionic Systems",
               "theoryHours": 7,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.6",
               "name": "Electrical Power (ATA 24)",
               "theoryHours": 2,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.7",
               "name": "Equipment and Furnishings (ATA 25)",
               "theoryHours": 6,
               "practicalHours": 5,
+              "perDifferenzaOf": 12,
               "practicalTasks": [
                 {
                   "id": 46,
@@ -1412,7 +1416,8 @@
               "code": "11A.8",
               "name": "Fire Protection (ATA 26)",
               "theoryHours": 1,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.9",
@@ -1434,25 +1439,29 @@
               "code": "11A.10",
               "name": "Fuel Systems (ATA 28)",
               "theoryHours": 2,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.11",
               "name": "Hydraulic Power (ATA 29)",
               "theoryHours": 2,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.12",
               "name": "Ice and Rain Protection (ATA 30)",
               "theoryHours": 3,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.13",
               "name": "Landing Gear (ATA 32)",
               "theoryHours": 4,
               "practicalHours": 8,
+              "perDifferenzaOf": 12,
               "practicalTasks": [
                 {
                   "id": 49,
@@ -1468,7 +1477,8 @@
               "code": "11A.14",
               "name": "Lights (ATA 33)",
               "theoryHours": 1,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.15",
@@ -1480,19 +1490,22 @@
               "code": "11A.16",
               "name": "Pneumatic/Vacuum (ATA 36)",
               "theoryHours": 1,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.18",
               "name": "On Board Maintenance Systems (ATA 45)",
               "theoryHours": 1,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.19",
               "name": "Integrated Modular Avionics (ATA 42)",
               "theoryHours": 1,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.20",
@@ -1504,7 +1517,8 @@
               "code": "11A.21",
               "name": "Information Systems (ATA 46)",
               "theoryHours": 1,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 12
             }
           ]
         },
@@ -1520,6 +1534,7 @@
               "name": "Airframe Structures",
               "theoryHours": 0,
               "practicalHours": 3,
+              "perDifferenzaOf": 11,
               "practicalTasks": [
                 {
                   "id": 51,
@@ -1532,6 +1547,7 @@
               "name": "Air Conditioning and Cabin Pressurisation",
               "theoryHours": 4,
               "practicalHours": 2,
+              "perDifferenzaOf": 11,
               "practicalTasks": [
                 {
                   "id": 52,
@@ -1543,7 +1559,8 @@
               "code": "11B.8",
               "name": "Fire Protection",
               "theoryHours": 2,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "perDifferenzaOf": 11
             }
           ]
         },
