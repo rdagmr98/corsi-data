@@ -1,0 +1,8 @@
+# Script di elaborazione locali: contengono la KEY AES — NON committare mai
+*.py
+*.bak
+db/*.bak
+# Artefatti diagnostici temporanei
+_*.json
+_*.txt
+db/_*.json
