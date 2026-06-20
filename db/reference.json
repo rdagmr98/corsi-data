@@ -70,9 +70,9 @@
             {
               "code": "50.1",
               "name": "Essential principles of Armament",
-              "levelB1": 2,
               "theoryHours": 15,
               "practicalHours": 5,
+              "levelB1": 2,
               "topics": [
                 "Propellants and explosives",
                 "Pyrotechnics including Flares",
@@ -102,9 +102,9 @@
             {
               "code": "51.1",
               "name": "Weapons stores system (System 94)",
-              "levelB1": 3,
               "theoryHours": 20,
               "practicalHours": 10,
+              "levelB1": 3,
               "topics": [
                 "Weapon and stores release, fire and jettison stores",
                 "Weapon suspension system",
@@ -126,9 +126,9 @@
             {
               "code": "53.1",
               "name": "Surveillance (System 93)",
-              "levelB1": 2,
               "theoryHours": 9,
               "practicalHours": 4,
+              "levelB1": 2,
               "topics": [
                 "Data processing",
                 "Data display",
@@ -143,9 +143,9 @@
             {
               "code": "53.2",
               "name": "Image recording (System 97)",
-              "levelB1": 2,
               "theoryHours": 5,
               "practicalHours": 2,
+              "levelB1": 2,
               "topics": [
                 "Optical systems",
                 "Specificities of aerial photography",
@@ -155,9 +155,9 @@
             {
               "code": "53.3",
               "name": "Electronic warfare (System 99)",
-              "levelB1": 2,
               "theoryHours": 9,
               "practicalHours": 4,
+              "levelB1": 2,
               "topics": [
                 "Active electromagnetic",
                 "Passive electromagnetic",
@@ -179,9 +179,9 @@
             {
               "code": "54.1",
               "name": "Crew escape and safety (System 95)",
-              "levelB1": 3,
               "theoryHours": 40,
               "practicalHours": 15,
+              "levelB1": 3,
               "topics": [
                 "Ejection seats",
                 "Escape hatches/canopy, Miniature Detonating Cord (MDC)",
@@ -263,9 +263,9 @@
             {
               "code": "50.1",
               "name": "Essential principles of Armament",
-              "levelB2": 2,
               "theoryHours": 15,
               "practicalHours": 5,
+              "levelB2": 2,
               "topics": [
                 "Propellants and explosives",
                 "Pyrotechnics including Flares",
@@ -295,9 +295,9 @@
             {
               "code": "51.1",
               "name": "Weapons stores system (System 94)",
-              "levelB2": 3,
               "theoryHours": 20,
               "practicalHours": 10,
+              "levelB2": 3,
               "topics": [
                 "Weapon and stores release, fire and jettison stores",
                 "Weapon suspension system",
@@ -319,9 +319,9 @@
             {
               "code": "53.1",
               "name": "Surveillance (System 93)",
-              "levelB2": 2,
               "theoryHours": 10,
               "practicalHours": 4,
+              "levelB2": 2,
               "topics": [
                 "Data processing",
                 "Data display",
@@ -336,9 +336,9 @@
             {
               "code": "53.2",
               "name": "Image recording (System 97)",
-              "levelB2": 2,
               "theoryHours": 6,
               "practicalHours": 2,
+              "levelB2": 2,
               "topics": [
                 "Optical systems",
                 "Specificities of aerial photography",
@@ -348,9 +348,9 @@
             {
               "code": "53.3",
               "name": "Electronic warfare (System 99)",
-              "levelB2": 2,
               "theoryHours": 9,
               "practicalHours": 4,
+              "levelB2": 2,
               "topics": [
                 "Active electromagnetic",
                 "Passive electromagnetic",
@@ -372,9 +372,9 @@
             {
               "code": "54.1",
               "name": "Crew escape and safety (System 95)",
-              "levelB2": 3,
               "theoryHours": 14,
               "practicalHours": 10,
+              "levelB2": 3,
               "topics": [
                 "Ejection seats",
                 "Escape hatches/canopy, Miniature Detonating Cord (MDC)",
@@ -395,9 +395,9 @@
             {
               "code": "55.1",
               "name": "Military Communication Systems",
-              "levelB2": 2,
               "theoryHours": 16,
               "practicalHours": 5,
+              "levelB2": 2,
               "topics": [
                 "Military VHF/UHF radio",
                 "Secure communications",
@@ -474,6 +474,8 @@
           "name": "Mathematics",
           "theoryHours": 70,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "1.1",
@@ -500,6 +502,8 @@
           "name": "Physics",
           "theoryHours": 90,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "2.1",
@@ -538,6 +542,8 @@
           "name": "Electrical Fundamentals",
           "theoryHours": 90,
           "practicalHours": 20,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "3.1",
@@ -704,6 +710,8 @@
           "name": "Electronic Fundamentals",
           "theoryHours": 50,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "4.1",
@@ -730,6 +738,8 @@
           "name": "Digital Technique/Electronic Instrument System",
           "theoryHours": 80,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "5.1",
@@ -828,6 +838,8 @@
           "name": "Materials And Hardware",
           "theoryHours": 160,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "6.1",
@@ -914,6 +926,8 @@
           "name": "Maintenance Practices",
           "theoryHours": 260,
           "practicalHours": 147,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "7.1",
@@ -1252,6 +1266,8 @@
           "name": "Basic Aerodynamics",
           "theoryHours": 50,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "8.1",
@@ -1284,6 +1300,8 @@
           "name": "Human Factor",
           "theoryHours": 22,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "9.1",
@@ -1346,6 +1364,8 @@
           "name": "Aviation Legislation",
           "theoryHours": 28,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "10.1",
@@ -1397,6 +1417,8 @@
           "name": "Turbine Aeroplane Aerodynamics, Structures and Systems",
           "theoryHours": 114,
           "practicalHours": 30,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "11A.1",
@@ -1449,14 +1471,14 @@
               "name": "Equipment and Furnishings (ATA 25)",
               "theoryHours": 6,
               "practicalHours": 5,
-              "perDifferenzaOf": 12,
               "practicalTasks": [
                 {
                   "id": 46,
                   "name": "Main components identification and operational test of Emergency Locator Transmitter system",
                   "plannedHours": 5
                 }
-              ]
+              ],
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.8",
@@ -1509,7 +1531,6 @@
               "name": "Landing Gear (ATA 32)",
               "theoryHours": 4,
               "practicalHours": 8,
-              "perDifferenzaOf": 12,
               "practicalTasks": [
                 {
                   "id": 49,
@@ -1521,7 +1542,8 @@
                   "name": "Removal/installation a landing gear wheel.",
                   "plannedHours": 5
                 }
-              ]
+              ],
+              "perDifferenzaOf": 12
             },
             {
               "code": "11A.14",
@@ -1578,34 +1600,36 @@
           "name": "Piston Aeroplane Aerodynamics, Structures and Systems",
           "theoryHours": 6,
           "practicalHours": 5,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "11B.3",
               "name": "Airframe Structures",
               "theoryHours": 0,
               "practicalHours": 3,
-              "perDifferenzaOf": 11,
               "practicalTasks": [
                 {
                   "id": 51,
                   "name": "Check the engine mounts structure and vibration dampeners",
                   "plannedHours": 3
                 }
-              ]
+              ],
+              "perDifferenzaOf": 11
             },
             {
               "code": "11B.4",
               "name": "Air Conditioning and Cabin Pressurisation",
               "theoryHours": 4,
               "practicalHours": 2,
-              "perDifferenzaOf": 11,
               "practicalTasks": [
                 {
                   "id": 52,
                   "name": "Operational function of the heating system",
                   "plannedHours": 2
                 }
-              ]
+              ],
+              "perDifferenzaOf": 11
             },
             {
               "code": "11B.8",
@@ -1621,6 +1645,8 @@
           "name": "Helicopter Aerodynamics, Structure and Systems",
           "theoryHours": 360,
           "practicalHours": 112,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "12.1",
@@ -1923,6 +1949,8 @@
           "name": "Gas Turbine Engine",
           "theoryHours": 180,
           "practicalHours": 50,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "15.1",
@@ -2174,6 +2202,8 @@
           "name": "Piston Engine",
           "theoryHours": 80,
           "practicalHours": 20,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "16.1",
@@ -2296,6 +2326,8 @@
           "name": "Propeller",
           "theoryHours": 40,
           "practicalHours": 10,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "17.1",
@@ -2428,6 +2460,8 @@
           "name": "Mathematics",
           "theoryHours": 70,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "1.1",
@@ -2460,6 +2494,8 @@
           "name": "Physics",
           "theoryHours": 80,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "2.1",
@@ -2498,6 +2534,8 @@
           "name": "Electrical Fundamentals",
           "theoryHours": 90,
           "practicalHours": 20,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "3.1",
@@ -2578,6 +2616,8 @@
           "name": "Electronic Fundamentals",
           "theoryHours": 120,
           "practicalHours": 12,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "4.1",
@@ -2610,6 +2650,8 @@
           "name": "Digital Technique/Electronic Instrument System",
           "theoryHours": 150,
           "practicalHours": 9,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "5.1",
@@ -2660,6 +2702,8 @@
           "name": "Materials And Hardware",
           "theoryHours": 120,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "6.1",
@@ -2716,6 +2760,8 @@
           "name": "Maintenance Practices",
           "theoryHours": 170,
           "practicalHours": 70,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "7.1",
@@ -2784,6 +2830,8 @@
           "name": "Basic Aerodynamics",
           "theoryHours": 50,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "8.1",
@@ -2816,6 +2864,8 @@
           "name": "Human Factor",
           "theoryHours": 22,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "9.1",
@@ -2848,6 +2898,8 @@
           "name": "Aviation Legislation",
           "theoryHours": 28,
           "practicalHours": 0,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "10.1",
@@ -2874,6 +2926,8 @@
           "name": "Aircraft Aerodynamics, Structures and Systems",
           "theoryHours": 460,
           "practicalHours": 174,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "13.1",
@@ -3014,6 +3068,8 @@
           "name": "Propulsion",
           "theoryHours": 80,
           "practicalHours": 30,
+          "examQuestions": 0,
+          "examMinutes": 0,
           "submodules": [
             {
               "code": "14.1",
