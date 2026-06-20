@@ -478,19 +478,19 @@
             {
               "code": "1.1",
               "name": "Arithmetic",
-              "theoryHours": 12,
+              "theoryHours": 14,
               "practicalHours": 0
             },
             {
               "code": "1.2",
               "name": "Algebra",
-              "theoryHours": 24,
+              "theoryHours": 21,
               "practicalHours": 0
             },
             {
               "code": "1.3",
               "name": "Geometry",
-              "theoryHours": 34,
+              "theoryHours": 35,
               "practicalHours": 0
             }
           ]
@@ -571,15 +571,18 @@
               "practicalTasks": [
                 {
                   "id": 1,
+                  "name": "Practical demonstration of various component of Ni-Cd battery cells and their series connection",
                   "plannedHours": 3
                 },
                 {
                   "id": 2,
-                  "plannedHours": 5
+                  "name": "Measurement of Ni-Cd battery efficiency",
+                  "plannedHours": 3
                 },
                 {
                   "id": 3,
-                  "plannedHours": 4
+                  "name": "Practical demonstration of Ni-Cd battery parallel connection",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -591,6 +594,7 @@
               "practicalTasks": [
                 {
                   "id": 4,
+                  "name": "Kirchhoff's law: practical demonstration",
                   "plannedHours": 2
                 }
               ]
@@ -603,10 +607,12 @@
               "practicalTasks": [
                 {
                   "id": 5,
+                  "name": "Wheatstone's bridge: practical demonstration",
                   "plannedHours": 3
                 },
                 {
                   "id": 6,
+                  "name": "Working principles practical demonstration of voltage and current dividers",
                   "plannedHours": 2
                 }
               ]
@@ -619,6 +625,7 @@
               "practicalTasks": [
                 {
                   "id": 7,
+                  "name": "Working principles practical demonstration of dissipation for Joule effect in an electric circuit and compute of dissipate power",
                   "plannedHours": 2
                 }
               ]
@@ -649,6 +656,7 @@
               "practicalTasks": [
                 {
                   "id": 8,
+                  "name": "Assembly and disassembly main component of a starter generator",
                   "plannedHours": 3
                 }
               ]
@@ -915,7 +923,8 @@
               "practicalTasks": [
                 {
                   "id": 9,
-                  "plannedHours": 6
+                  "name": "Demonstrate safety precautions when working with aircraft",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -927,7 +936,8 @@
               "practicalTasks": [
                 {
                   "id": 10,
-                  "plannedHours": 6
+                  "name": "Demonstrate how to control and care tools and equipment",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -939,35 +949,43 @@
               "practicalTasks": [
                 {
                   "id": 11,
-                  "plannedHours": 10
+                  "name": "Demonstrate correct use of measuring equipment e.g. micrometers, Vernier�s and height gauges",
+                  "plannedHours": 5
                 },
                 {
                   "id": 12,
-                  "plannedHours": 8
+                  "name": "Practical use of the electrical connector pin insertion / removal kit",
+                  "plannedHours": 4
                 },
                 {
                   "id": 13,
-                  "plannedHours": 14
+                  "name": "Use of the digital multimeter",
+                  "plannedHours": 4
                 },
                 {
                   "id": 14,
-                  "plannedHours": 20
+                  "name": "Use test meters to measure volts, amps and resistance in practical task circumstances",
+                  "plannedHours": 4
                 },
                 {
                   "id": 15,
-                  "plannedHours": 8
+                  "name": "Demonstrate correct use of tools for wire locking (wire twisting pliers)",
+                  "plannedHours": 4
                 },
                 {
                   "id": 16,
-                  "plannedHours": 4
+                  "name": "Use tools and equipment for \"cutting\" commonly used materials (Ferrous and non-ferrous)",
+                  "plannedHours": 2
                 },
                 {
                   "id": 17,
-                  "plannedHours": 6
+                  "name": "Demonstrate correct use of measuring equipment: comparator tool & caliber",
+                  "plannedHours": 3
                 },
                 {
                   "id": 18,
-                  "plannedHours": 4
+                  "name": "Demonstrate the use of lubrication equipment",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -979,7 +997,8 @@
               "practicalTasks": [
                 {
                   "id": 19,
-                  "plannedHours": 4
+                  "name": "Static Pitot tester practical demonstration",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -991,19 +1010,23 @@
               "practicalTasks": [
                 {
                   "id": 20,
-                  "plannedHours": 24
+                  "name": "Analyze an aircraft electrical circuit in conjunction with an electrical wiring diagram",
+                  "plannedHours": 4
                 },
                 {
                   "id": 21,
-                  "plannedHours": 22
+                  "name": "Identification of the component to be checked in conjunction with an electrical wiring diagram",
+                  "plannedHours": 4
                 },
                 {
                   "id": 22,
-                  "plannedHours": 8
+                  "name": "Check the continuity in conjunction with an electrical wiring diagram",
+                  "plannedHours": 4
                 },
                 {
                   "id": 23,
-                  "plannedHours": 24
+                  "name": "Identify part numbers from an Illustrated Part Catalogue",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -1015,11 +1038,8 @@
               "practicalTasks": [
                 {
                   "id": 24,
-                  "plannedHours": 6
-                },
-                {
-                  "id": 25,
-                  "plannedHours": 12
+                  "name": "Demonstrate correct use of drills",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -1031,15 +1051,18 @@
               "practicalTasks": [
                 {
                   "id": 26,
-                  "plannedHours": 8
+                  "name": "Carry out basic fault finding techniques using a range of test meters",
+                  "plannedHours": 4
                 },
                 {
                   "id": 27,
-                  "plannedHours": 16
+                  "name": "Insert / extract electrical inserts (pins) in a variety of electrical connectors",
+                  "plannedHours": 4
                 },
                 {
                   "id": 28,
-                  "plannedHours": 24
+                  "name": "Interpret typical electrical wiring diagrams and schematics circuits",
+                  "plannedHours": 6
                 }
               ]
             },
@@ -1050,16 +1073,24 @@
               "practicalHours": 20,
               "practicalTasks": [
                 {
+                  "id": 25,
+                  "name": "Demonstrate correct use of the riveting pliers",
+                  "plannedHours": 6
+                },
+                {
                   "id": 29,
-                  "plannedHours": 12
+                  "name": "Use hand or power tools to drill rivet holes",
+                  "plannedHours": 6
                 },
                 {
                   "id": 30,
-                  "plannedHours": 8
+                  "name": "Identify faulty rivet settings",
+                  "plannedHours": 4
                 },
                 {
                   "id": 31,
-                  "plannedHours": 8
+                  "name": "Remove defective rivets without causing further damage to skin",
+                  "plannedHours": 4
                 }
               ]
             },
@@ -1107,11 +1138,13 @@
               "practicalTasks": [
                 {
                   "id": 32,
-                  "plannedHours": 24
+                  "name": "Perform electric welding",
+                  "plannedHours": 6
                 },
                 {
                   "id": 33,
-                  "plannedHours": 24
+                  "name": "Perform electric brazing",
+                  "plannedHours": 6
                 }
               ]
             },
@@ -1129,23 +1162,23 @@
               "practicalTasks": [
                 {
                   "id": 34,
-                  "plannedHours": 2
+                  "name": "Assist in the towing of an aircraft",
+                  "plannedHours": 1
                 },
                 {
                   "id": 35,
-                  "plannedHours": 22
+                  "name": "Perform safety procedures before refueling helicopter",
+                  "plannedHours": 3
                 },
                 {
                   "id": 36,
-                  "plannedHours": 2
+                  "name": "Assist refueling helicopter",
+                  "plannedHours": 1
                 },
                 {
                   "id": 37,
-                  "plannedHours": 14
-                },
-                {
-                  "id": 38,
-                  "plannedHours": 42
+                  "name": "Exercise use of NATO - Stanag 3117 �Aircraft Marshalling Signals�",
+                  "plannedHours": 6
                 }
               ]
             },
@@ -1157,15 +1190,18 @@
               "practicalTasks": [
                 {
                   "id": 39,
-                  "plannedHours": 22
+                  "name": "Demonstrate inspection technique using a mirror and a light source",
+                  "plannedHours": 6
                 },
                 {
                   "id": 40,
-                  "plannedHours": 40
+                  "name": "Perform wire locking in a variety of assemblies",
+                  "plannedHours": 6
                 },
                 {
                   "id": 41,
-                  "plannedHours": 8
+                  "name": "Perform main rotor blade manual tap test",
+                  "plannedHours": 4
                 }
               ]
             },
@@ -1182,16 +1218,24 @@
               "practicalHours": 20,
               "practicalTasks": [
                 {
+                  "id": 38,
+                  "name": "Check and replenish oil and hydraulic systems",
+                  "plannedHours": 6
+                },
+                {
                   "id": 42,
-                  "plannedHours": 28
+                  "name": "Perform DP5069 filling procedures",
+                  "plannedHours": 6
                 },
                 {
                   "id": 43,
-                  "plannedHours": 24
+                  "name": "Perform pre-flight check",
+                  "plannedHours": 4
                 },
                 {
                   "id": 44,
-                  "plannedHours": 14
+                  "name": "Assist daily check",
+                  "plannedHours": 4
                 }
               ]
             },
@@ -1368,7 +1412,8 @@
               "practicalTasks": [
                 {
                   "id": 45,
-                  "plannedHours": 24
+                  "name": "Locate airplane systems by zone/station number.",
+                  "plannedHours": 6
                 }
               ]
             },
@@ -1408,7 +1453,8 @@
               "practicalTasks": [
                 {
                   "id": 46,
-                  "plannedHours": 34
+                  "name": "Main components identification and operational test of Emergency Locator Transmitter system",
+                  "plannedHours": 5
                 }
               ]
             },
@@ -1427,11 +1473,13 @@
               "practicalTasks": [
                 {
                   "id": 47,
-                  "plannedHours": 20
+                  "name": "Perform functional test of primary flight controls.",
+                  "plannedHours": 5
                 },
                 {
                   "id": 48,
-                  "plannedHours": 24
+                  "name": "Perform inspection and adjust control cable tension.",
+                  "plannedHours": 6
                 }
               ]
             },
@@ -1465,11 +1513,13 @@
               "practicalTasks": [
                 {
                   "id": 49,
-                  "plannedHours": 12
+                  "name": "Check/adjust tyre pressure.",
+                  "plannedHours": 3
                 },
                 {
                   "id": 50,
-                  "plannedHours": 24
+                  "name": "Removal/installation a landing gear wheel.",
+                  "plannedHours": 5
                 }
               ]
             },
@@ -1538,7 +1588,8 @@
               "practicalTasks": [
                 {
                   "id": 51,
-                  "plannedHours": 18
+                  "name": "Check the engine mounts structure and vibration dampeners",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -1551,7 +1602,8 @@
               "practicalTasks": [
                 {
                   "id": 52,
-                  "plannedHours": 12
+                  "name": "Operational function of the heating system",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -1584,35 +1636,43 @@
               "practicalTasks": [
                 {
                   "id": 53,
-                  "plannedHours": 16
+                  "name": "Main components identification of: Cyclic control, Collective control, Yaw control",
+                  "plannedHours": 6
                 },
                 {
                   "id": 54,
-                  "plannedHours": 24
+                  "name": "Main Rotor Head: main components identification",
+                  "plannedHours": 6
                 },
                 {
                   "id": 55,
-                  "plannedHours": 24
+                  "name": "Swashplate: main components identification",
+                  "plannedHours": 6
                 },
                 {
                   "id": 56,
-                  "plannedHours": 24
+                  "name": "Hydraulic system flight controls: main components identification",
+                  "plannedHours": 6
+                },
+                {
+                  "id": 57,
+                  "name": "Remove tail rotor",
+                  "plannedHours": 3
                 },
                 {
                   "id": 58,
-                  "plannedHours": 6
+                  "name": "Refit tail rotor",
+                  "plannedHours": 3
                 },
                 {
                   "id": 59,
-                  "plannedHours": 6
+                  "name": "Remove blade tail rotor",
+                  "plannedHours": 2
                 },
                 {
                   "id": 60,
-                  "plannedHours": 6
-                },
-                {
-                  "id": 61,
-                  "plannedHours": 24
+                  "name": "Refit blade tail rotor",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -1629,32 +1689,44 @@
               "practicalHours": 24,
               "practicalTasks": [
                 {
+                  "id": 61,
+                  "name": "Main components identification of main gearbox",
+                  "plannedHours": 6
+                },
+                {
                   "id": 62,
-                  "plannedHours": 8
+                  "name": "Inspect 90� gear boxes",
+                  "plannedHours": 2
                 },
                 {
                   "id": 63,
-                  "plannedHours": 12
+                  "name": "Remove and refit Chip Detector 90� Gearbox",
+                  "plannedHours": 2
                 },
                 {
                   "id": 64,
-                  "plannedHours": 10
+                  "name": "Remove the gearbox engine shaft",
+                  "plannedHours": 3
                 },
                 {
                   "id": 65,
-                  "plannedHours": 20
+                  "name": "Refit the gearbox engine shaft",
+                  "plannedHours": 3
                 },
                 {
                   "id": 66,
-                  "plannedHours": 6
+                  "name": "Remove and refit Chip Detector Main Gearbox",
+                  "plannedHours": 2
                 },
                 {
                   "id": 67,
-                  "plannedHours": 6
+                  "name": "Remove a tail rotor drive shaft and a flexible coupling",
+                  "plannedHours": 3
                 },
                 {
                   "id": 68,
-                  "plannedHours": 8
+                  "name": "Refit a tail rotor drive shaft and a flexible couplings",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -1666,19 +1738,23 @@
               "practicalTasks": [
                 {
                   "id": 69,
-                  "plannedHours": 8
+                  "name": "External Helicopter cleaning",
+                  "plannedHours": 3
                 },
                 {
                   "id": 70,
-                  "plannedHours": 6
+                  "name": "Remove and refit a crew or passenger seat",
+                  "plannedHours": 3
                 },
                 {
                   "id": 71,
-                  "plannedHours": 4
+                  "name": "Remove doors",
+                  "plannedHours": 2
                 },
                 {
                   "id": 72,
-                  "plannedHours": 4
+                  "name": "Refit doors",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -1696,7 +1772,8 @@
               "practicalTasks": [
                 {
                   "id": 73,
-                  "plannedHours": 4
+                  "name": "Remove and refit a Pitot static Instrument",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -1708,11 +1785,13 @@
               "practicalTasks": [
                 {
                   "id": 74,
-                  "plannedHours": 4
+                  "name": "Replace a circuit protection \"breaker\"",
+                  "plannedHours": 2
                 },
                 {
                   "id": 75,
-                  "plannedHours": 10
+                  "name": "Remove and refit main battery",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -1730,7 +1809,8 @@
               "practicalTasks": [
                 {
                   "id": 76,
-                  "plannedHours": 10
+                  "name": "Main components identification Fire Protection system",
+                  "plannedHours": 5
                 }
               ]
             },
@@ -1742,7 +1822,8 @@
               "practicalTasks": [
                 {
                   "id": 77,
-                  "plannedHours": 16
+                  "name": "Main components identification low pressure Fuel System",
+                  "plannedHours": 6
                 }
               ]
             },
@@ -1753,20 +1834,19 @@
               "practicalHours": 10,
               "practicalTasks": [
                 {
-                  "id": 57,
-                  "plannedHours": 12
-                },
-                {
                   "id": 78,
-                  "plannedHours": 20
+                  "name": "Hydraulic system main components identification",
+                  "plannedHours": 6
                 },
                 {
                   "id": 79,
-                  "plannedHours": 12
+                  "name": "Remove hydraulic filter",
+                  "plannedHours": 2
                 },
                 {
                   "id": 80,
-                  "plannedHours": 12
+                  "name": "Refit hydraulic filter",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -1784,7 +1864,8 @@
               "practicalTasks": [
                 {
                   "id": 81,
-                  "plannedHours": 20
+                  "name": "Landing system main component identification and visual inspection",
+                  "plannedHours": 4
                 }
               ]
             },
@@ -1796,15 +1877,18 @@
               "practicalTasks": [
                 {
                   "id": 82,
-                  "plannedHours": 20
+                  "name": "Replace lamps / bulbs of cockpit light",
+                  "plannedHours": 2
                 },
                 {
                   "id": 83,
-                  "plannedHours": 58
+                  "name": "Replace lamps / bulbs of internal light",
+                  "plannedHours": 5
                 },
                 {
                   "id": 84,
-                  "plannedHours": 30
+                  "name": "Replace lamps / bulbs of external light",
+                  "plannedHours": 5
                 }
               ]
             },
@@ -1860,11 +1944,13 @@
               "practicalTasks": [
                 {
                   "id": 85,
-                  "plannedHours": 6
+                  "name": "Engine air intake removal procedure",
+                  "plannedHours": 3
                 },
                 {
                   "id": 86,
-                  "plannedHours": 12
+                  "name": "Engine air intake installation procedure",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -1876,19 +1962,23 @@
               "practicalTasks": [
                 {
                   "id": 87,
-                  "plannedHours": 4
+                  "name": "Compressor housing removal procedure",
+                  "plannedHours": 2
                 },
                 {
                   "id": 88,
-                  "plannedHours": 10
+                  "name": "Compressor housing installation procedure",
+                  "plannedHours": 2
                 },
                 {
                   "id": 89,
-                  "plannedHours": 22
+                  "name": "Compressor cleaning procedure",
+                  "plannedHours": 3
                 },
                 {
                   "id": 90,
-                  "plannedHours": 12
+                  "name": "Compressor preservation procedure",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -1900,7 +1990,8 @@
               "practicalTasks": [
                 {
                   "id": 91,
-                  "plannedHours": 12
+                  "name": "Combustion chamber drain valve removal/installation procedure",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -1936,23 +2027,28 @@
               "practicalTasks": [
                 {
                   "id": 92,
-                  "plannedHours": 18
+                  "name": "Lubrication Systems main components identification",
+                  "plannedHours": 3
                 },
                 {
                   "id": 93,
-                  "plannedHours": 14
+                  "name": "Oil Filter Assembly removal/installation procedure, inspection/check, cleaning",
+                  "plannedHours": 2
                 },
                 {
                   "id": 94,
-                  "plannedHours": 18
+                  "name": "Chip Detector removal/installation procedure, inspection/check, cleaning",
+                  "plannedHours": 3
                 },
                 {
                   "id": 95,
-                  "plannedHours": 4
+                  "name": "Lubricating Oil System check oil quantity level, refill to correct level, if necessary, draining and replenishing procedure",
+                  "plannedHours": 2
                 },
                 {
                   "id": 96,
-                  "plannedHours": 12
+                  "name": "Carry out Engine Lubrication System troubleshooting",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -1964,11 +2060,8 @@
               "practicalTasks": [
                 {
                   "id": 97,
-                  "plannedHours": 16
-                },
-                {
-                  "id": 98,
-                  "plannedHours": 24
+                  "name": "Engine Fuel & Control Systems main components identification",
+                  "plannedHours": 2
                 }
               ]
             },
@@ -1976,7 +2069,14 @@
               "code": "15.12",
               "name": "Air Systems",
               "theoryHours": 6,
-              "practicalHours": 3
+              "practicalHours": 3,
+              "practicalTasks": [
+                {
+                  "id": 98,
+                  "name": "Air Systems main components identification",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "15.13",
@@ -1986,15 +2086,13 @@
               "practicalTasks": [
                 {
                   "id": 99,
-                  "plannedHours": 20
+                  "name": "Igniter plug removal/installation procedure, inspection/check, cleaning",
+                  "plannedHours": 3
                 },
                 {
                   "id": 100,
-                  "plannedHours": 18
-                },
-                {
-                  "id": 101,
-                  "plannedHours": 10
+                  "name": "Starting and Ignition Systems main components identification",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -2005,12 +2103,19 @@
               "practicalHours": 9,
               "practicalTasks": [
                 {
+                  "id": 101,
+                  "name": "Tachometer generator removal/installation procedure",
+                  "plannedHours": 3
+                },
+                {
                   "id": 102,
-                  "plannedHours": 6
+                  "name": "Exhaust thermocouple harness inspection/check",
+                  "plannedHours": 3
                 },
                 {
                   "id": 103,
-                  "plannedHours": 18
+                  "name": "Oil temperature bulb removal/installation procedure, inspection/check",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -2096,11 +2201,13 @@
               "practicalTasks": [
                 {
                   "id": 104,
-                  "plannedHours": 14
+                  "name": "Engine air filter check, remove and replace",
+                  "plannedHours": 3
                 },
                 {
                   "id": 105,
-                  "plannedHours": 18
+                  "name": "Engine fuel filter check, remove and replace",
+                  "plannedHours": 4
                 }
               ]
             },
@@ -2136,11 +2243,13 @@
               "practicalTasks": [
                 {
                   "id": 106,
-                  "plannedHours": 12
+                  "name": "Perform engine oil level check (fill or drain)",
+                  "plannedHours": 3
                 },
                 {
                   "id": 107,
-                  "plannedHours": 16
+                  "name": "Engine oil filter check, remove and replace",
+                  "plannedHours": 4
                 }
               ]
             },
@@ -2164,11 +2273,13 @@
               "practicalTasks": [
                 {
                   "id": 108,
-                  "plannedHours": 20
+                  "name": "Perform engine low idle adjustment",
+                  "plannedHours": 3
                 },
                 {
                   "id": 109,
-                  "plannedHours": 32
+                  "name": "Perform engine cleaning",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -2206,7 +2317,8 @@
               "practicalTasks": [
                 {
                   "id": 110,
-                  "plannedHours": 12
+                  "name": "Main components identification of: Pitch control system",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -2230,7 +2342,8 @@
               "practicalTasks": [
                 {
                   "id": 111,
-                  "plannedHours": 6
+                  "name": "Perform inspection of propeller (including propeller blades, hub, spinner, backplate).",
+                  "plannedHours": 3
                 }
               ]
             },
@@ -2242,7 +2355,8 @@
               "practicalTasks": [
                 {
                   "id": 112,
-                  "plannedHours": 14
+                  "name": "Perfom propeller clean, preservation or depreservation",
+                  "plannedHours": 4
                 }
               ]
             }
