@@ -495,7 +495,8 @@
               "theoryHours": 35,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 2
         },
         {
           "number": 2,
@@ -535,7 +536,8 @@
               "theoryHours": 10,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 2
         },
         {
           "number": 3,
@@ -703,7 +705,8 @@
               "theoryHours": 6,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 2
         },
         {
           "number": 4,
@@ -731,7 +734,8 @@
               "theoryHours": 12,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 1
         },
         {
           "number": 5,
@@ -831,7 +835,8 @@
               "theoryHours": 8,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 2
         },
         {
           "number": 6,
@@ -919,7 +924,8 @@
               "theoryHours": 9,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 3
         },
         {
           "number": 7,
@@ -1259,7 +1265,8 @@
               "theoryHours": 10,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 4
         },
         {
           "number": 8,
@@ -1293,7 +1300,8 @@
               "theoryHours": 12,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 1
         },
         {
           "number": 9,
@@ -1357,7 +1365,8 @@
               "theoryHours": 1,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 1
         },
         {
           "number": 10,
@@ -1409,7 +1418,8 @@
               "theoryHours": 7,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 1
         },
         {
           "number": 11,
@@ -1592,7 +1602,8 @@
               "practicalHours": 0,
               "perDifferenzaOf": 12
             }
-          ]
+          ],
+          "assessmentCount": 3
         },
         {
           "number": 18,
@@ -1638,7 +1649,8 @@
               "practicalHours": 0,
               "perDifferenzaOf": 11
             }
-          ]
+          ],
+          "assessmentCount": 1
         },
         {
           "number": 12,
@@ -1942,7 +1954,8 @@
               "theoryHours": 10,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 4
         },
         {
           "number": 15,
@@ -2195,7 +2208,8 @@
               "theoryHours": 4,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 3
         },
         {
           "number": 16,
@@ -2319,7 +2333,8 @@
               "theoryHours": 4,
               "practicalHours": 0
             }
-          ]
+          ],
+          "assessmentCount": 2
         },
         {
           "number": 17,
@@ -2392,7 +2407,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "assessmentCount": 1
         }
       ]
     },
