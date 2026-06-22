@@ -3031,29 +3031,72 @@
               "code": "3.5",
               "name": "DC sources of electricity",
               "theoryHours": 10,
-              "practicalHours": 5,
-              "level": 2
+              "practicalHours": 8,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 207,
+                  "name": "Dimostrazione pratica componenti cella Ni-Cd e collegamento in serie",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 208,
+                  "name": "Misurazione efficienza batteria Ni-Cd",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 209,
+                  "name": "Dimostrazione pratica collegamento in parallelo batteria Ni-Cd",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "3.6",
               "name": "DC circuits",
               "theoryHours": 15,
-              "practicalHours": 5,
-              "level": 2
+              "practicalHours": 2,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 210,
+                  "name": "Dimostrazione pratica legge di Kirchhoff",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "3.7",
               "name": "Resistance/resistor",
               "theoryHours": 10,
               "practicalHours": 5,
-              "level": 2
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 211,
+                  "name": "Dimostrazione pratica ponte di Wheatstone",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 212,
+                  "name": "Dimostrazione pratica partitori di tensione e corrente",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "3.8",
               "name": "Power",
               "theoryHours": 5,
-              "practicalHours": 0,
-              "level": 2
+              "practicalHours": 2,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 213,
+                  "name": "Dimostrazione pratica effetto Joule e calcolo potenza dissipata",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "3.9",
@@ -3066,7 +3109,7 @@
               "code": "3.10",
               "name": "Magnetism",
               "theoryHours": 10,
-              "practicalHours": 5,
+              "practicalHours": 0,
               "level": 2
             },
             {
@@ -3080,8 +3123,15 @@
               "code": "3.12",
               "name": "DC motor/generator theory",
               "theoryHours": 5,
-              "practicalHours": 0,
-              "level": 2
+              "practicalHours": 3,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 214,
+                  "name": "Montaggio e smontaggio componenti principali starter generator",
+                  "plannedHours": 3
+                }
+              ]
             }
           ]
         },
@@ -3097,22 +3147,56 @@
               "code": "4.1",
               "name": "Semiconductors",
               "theoryHours": 40,
-              "practicalHours": 5,
-              "level": 2
+              "practicalHours": 8,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 215,
+                  "name": "Test funzionale diodi",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 216,
+                  "name": "Analisi e verifica circuiti raddrizzatori a ponte",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 217,
+                  "name": "Analisi e verifica circuiti regolatori di tensione",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 218,
+                  "name": "Analisi e verifica circuiti raddrizzatori onda intera e semionda",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "4.2",
               "name": "Printed circuit board",
               "theoryHours": 20,
-              "practicalHours": 2,
+              "practicalHours": 0,
               "level": 2
             },
             {
               "code": "4.3",
               "name": "Servomechanisms",
               "theoryHours": 30,
-              "practicalHours": 5,
-              "level": 2
+              "practicalHours": 4,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 219,
+                  "name": "Analisi funzionamento trasmettitori a induttanza",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 220,
+                  "name": "Analisi funzionamento trasmettitori a capacita",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "4.4",
@@ -3135,8 +3219,15 @@
               "code": "5.1",
               "name": "Electronic instrument systems",
               "theoryHours": 30,
-              "practicalHours": 0,
-              "level": 3
+              "practicalHours": 6,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 221,
+                  "name": "Verifica disposizione strumenti in cabina di pilotaggio",
+                  "plannedHours": 6
+                }
+              ]
             },
             {
               "code": "5.2",
@@ -3156,21 +3247,21 @@
               "code": "5.4",
               "name": "Data buses",
               "theoryHours": 20,
-              "practicalHours": 3,
+              "practicalHours": 0,
               "level": 2
             },
             {
               "code": "5.5",
               "name": "Logic circuits",
               "theoryHours": 30,
-              "practicalHours": 3,
+              "practicalHours": 0,
               "level": 2
             },
             {
               "code": "5.6",
               "name": "Basic computer structure",
               "theoryHours": 20,
-              "practicalHours": 3,
+              "practicalHours": 0,
               "level": 2
             },
             {
@@ -3179,6 +3270,19 @@
               "theoryHours": 20,
               "practicalHours": 0,
               "level": 2
+            },
+            {
+              "code": "5.12",
+              "name": "Electrostatic sensitive devices",
+              "theoryHours": 0,
+              "practicalHours": 3,
+              "practicalTasks": [
+                {
+                  "id": 222,
+                  "name": "Azioni di prevenzione scariche elettrostatiche su dispositivi elettronici sensibili",
+                  "plannedHours": 3
+                }
+              ]
             }
           ]
         },
@@ -3606,28 +3710,74 @@
               "code": "14.1",
               "name": "Turbine engine fundamentals",
               "theoryHours": 20,
-              "practicalHours": 5,
-              "level": 1
+              "practicalHours": 6,
+              "level": 1,
+              "practicalTasks": [
+                {
+                  "id": 223,
+                  "name": "Identificazione componenti principali motore turbina e riferimenti direzionali",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 224,
+                  "name": "Verifica funzionale trim BEEPER",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "14.2",
               "name": "Engine systems and components",
               "theoryHours": 30,
-              "practicalHours": 15,
-              "level": 2
+              "practicalHours": 21,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 225,
+                  "name": "Procedura rimozione/installazione Chip Detector, ispezione e pulizia",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 226,
+                  "name": "Verifica resistenza e continuita sistema termocoppia",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 227,
+                  "name": "Rimozione e reinstallazione indicatore temperatura olio motore",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 228,
+                  "name": "Rimozione e reinstallazione indicatore E.G.T.",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 229,
+                  "name": "Rimozione e reinstallazione termocoppia",
+                  "plannedHours": 5
+                }
+              ]
             },
             {
               "code": "14.3",
               "name": "Engine monitoring and ground operation",
               "theoryHours": 15,
-              "practicalHours": 5,
-              "level": 2
+              "practicalHours": 3,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 230,
+                  "name": "Rimozione e reinstallazione candele",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "14.4",
               "name": "Engine storage and preservation",
               "theoryHours": 15,
-              "practicalHours": 5
+              "practicalHours": 0
             }
           ]
         }
