@@ -3341,41 +3341,62 @@
           ]
         }
       ]
-    }
-  ],
-  "deltaCourses": [
+    },
     {
       "id": "b2_da_b1_3",
       "code": "BTC-B2-DA-B1.3",
       "name": "BTC MAML Cat. B2 per personale in possesso di B1.3 (+ estensione mil. M50/51/53/54)",
-      "category": "DELTA",
-      "sourceQualification": "B1.3",
-      "sourceQualificationDetail": "MAML Cat. B1.3 con estensione ai moduli specifici militari M50, M51, M53 e M54 (oppure BTC per Cat. B1.3 o TB1 completi di tale estensione)",
-      "targetQualification": "B2",
-      "documentRef": "M_D A535366 REG2025 0045761 31-10-2025",
-      "status": "Approvato",
-      "edition": "0.0",
-      "editionDate": "2025",
+      "category": "B2",
       "maxAttendees": 28,
-      "maxAttendeesPerInstructorPractical": 15,
-      "courseDurationWeeks": 17,
-      "totalTheoryHours": 378,
-      "totalPracticalHours": 63,
-      "totalPracticalTasks": 41,
-      "note": "Per i Moduli 4, 5, 7, 13, 14, 51 e 53, riguardo gli argomenti comuni al B1.3, sono trattate solo le differenze peculiari tra B1.3 e B2 (non l'intero modulo). Il Modulo 55 è interamente nuovo: il B1.3 non ne ha alcuna esposizione. I Moduli 50 e 54 non compaiono in questo delta: il livello di conoscenza B2 richiesto su quei moduli è già coperto dall'estensione militare B1.3 esistente.",
       "schedule": {
         "mondayThursday": [
-          { "slot": 1, "start": "09:00", "end": "10:00" },
-          { "slot": 2, "start": "10:10", "end": "11:10" },
-          { "slot": 3, "start": "11:20", "end": "12:20" },
-          { "slot": 4, "start": "12:30", "end": "13:30" },
-          { "slot": 5, "start": "14:20", "end": "15:20" },
-          { "slot": 6, "start": "15:30", "end": "16:30" }
+          {
+            "slot": 1,
+            "start": "09:00",
+            "end": "10:00"
+          },
+          {
+            "slot": 2,
+            "start": "10:10",
+            "end": "11:10"
+          },
+          {
+            "slot": 3,
+            "start": "11:20",
+            "end": "12:20"
+          },
+          {
+            "slot": 4,
+            "start": "12:30",
+            "end": "13:30"
+          },
+          {
+            "slot": 5,
+            "start": "14:20",
+            "end": "15:20"
+          },
+          {
+            "slot": 6,
+            "start": "15:30",
+            "end": "16:30"
+          }
         ],
         "friday": [
-          { "slot": 1, "start": "08:20", "end": "09:20" },
-          { "slot": 2, "start": "09:30", "end": "10:30" },
-          { "slot": 3, "start": "10:50", "end": "11:40" }
+          {
+            "slot": 1,
+            "start": "08:20",
+            "end": "09:20"
+          },
+          {
+            "slot": 2,
+            "start": "09:30",
+            "end": "10:30"
+          },
+          {
+            "slot": 3,
+            "start": "10:50",
+            "end": "11:40"
+          }
         ],
         "hoursPerWeek": 27
       },
@@ -3392,77 +3413,107 @@
               "code": "4.1.1",
               "name": "Diodes",
               "theoryHours": 20,
-              "levelB2": 2,
               "topics": [
                 "P and N type materials: effects of impurities, majority/minority carriers",
                 "PN junction: potential barrier in unbiased, forward and reverse biased conditions",
                 "Diode parameters: PIV, max forward current, temperature, frequency, leakage current, power dissipation",
                 "Diode circuits: clippers, clampers, half/full wave rectifiers, bridge rectifiers, voltage doublers/triplers",
                 "SCR (thyristor), LED, Schottky diode, photoconductive diode, varactor diode, varistor, Zener diode"
+              ],
+              "levelB2": 2,
+              "practicalTasks": [
+                {
+                  "id": 113,
+                  "name": "Carry out functional testing of diodes (ATA 24)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 114,
+                  "name": "Analyze and check the bridge rectifiers circuits (ATA 24)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 115,
+                  "name": "Analyze and check the voltage regulator circuits (ATA 24)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 116,
+                  "name": "Analyze and check the full and half wave rectifiers circuits (ATA 24)",
+                  "plannedHours": 2
+                }
               ]
             },
             {
               "code": "4.1.2.a",
               "name": "Transistors - symbols and characteristics",
               "theoryHours": 6,
-              "levelB2": 2,
               "topics": [
                 "Transistor symbols, component description and orientation",
                 "Transistor characteristics and properties"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "4.1.2.b",
               "name": "Transistors - construction and applications",
               "theoryHours": 20,
-              "levelB2": 2,
               "topics": [
                 "Construction and operation of PNP/NPN transistors, base/collector/emitter configurations",
                 "Testing of transistors; amplifier classes A, B, C",
                 "Bias, decoupling, feedback and stabilization circuits",
                 "Cascade, push-pull, oscillators, multivibrators, flip-flop circuits"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "4.1.3",
               "name": "Integrated Circuits",
               "theoryHours": 12,
-              "levelB2": 2,
               "topics": [
                 "Logic circuits and linear circuits",
                 "Operational amplifier: integrator, differentiator, voltage follower, comparator",
                 "Amplifier stage coupling: resistive, capacitive, inductive (transformer), IR, direct",
                 "Advantages/disadvantages of positive and negative feedback"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "4.2",
               "name": "Printed Circuit Boards",
               "theoryHours": 4,
-              "levelB2": 2,
               "topics": [
                 "Description and use of printed circuit boards"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "4.3",
               "name": "Servomechanisms",
               "theoryHours": 8,
-              "levelB2": 2,
               "topics": [
                 "Servomechanism terms: open/closed loop, follow up, analogue, transducer, null, damping, feedback, deadband",
                 "Synchro system components: resolvers, differential, control and torque, E/I transformers, inductance/capacitance/synchronous transmitters",
                 "Servomechanism defects, reversal of synchro leads, hunting"
+              ],
+              "levelB2": 2,
+              "practicalTasks": [
+                {
+                  "id": 117,
+                  "name": "Analyze the functioning of an inductance transmitters (ATA 24)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 118,
+                  "name": "Analyze the functioning of a capacitance transmitters (ATA 24)",
+                  "plannedHours": 2
+                }
               ]
             }
-          ],
-          "practicalTasks": [
-            { "n": 1, "ata": "24", "submodule": "4.1", "description": "Carry out functional testing of diodes", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 2, "ata": "24", "submodule": "4.1", "description": "Analyze and check the bridge rectifiers circuits", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 3, "ata": "24", "submodule": "4.1", "description": "Analyze and check the voltage regulator circuits", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 4, "ata": "24", "submodule": "4.1", "description": "Analyze and check the full and half wave rectifiers circuits", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 5, "ata": "24", "submodule": "4.3", "description": "Analyze the functioning of an inductance transmitters", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 6, "ata": "24", "submodule": "4.3", "description": "Analyze the functioning of a capacitance transmitters", "modality": "PERFORM", "duration": "2:00" }
           ]
         },
         {
@@ -3477,93 +3528,117 @@
               "code": "5.1",
               "name": "Electronic Instrument Systems",
               "theoryHours": 5,
-              "levelB2": 3,
               "topics": [
                 "Typical system arrangements and cockpit layout of electronic instrument systems"
+              ],
+              "levelB2": 3,
+              "practicalTasks": [
+                {
+                  "id": 119,
+                  "name": "Check cockpit layout of instruments (ATA 31)",
+                  "plannedHours": 2
+                }
               ]
             },
             {
               "code": "5.2",
               "name": "Numbering Systems",
               "theoryHours": 4,
-              "levelB2": 2,
               "topics": [
                 "Binary, octal and hexadecimal numbering systems and conversions"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "5.3",
               "name": "Data Conversion",
               "theoryHours": 4,
-              "levelB2": 2,
               "topics": [
                 "Analogue and digital data; A/D and D/A converters, inputs/outputs, limitations"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "5.5",
               "name": "Logic Circuits",
               "theoryHours": 8,
-              "levelB2": 2,
               "topics": [
                 "Interpretation of logic diagrams"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "5.6",
               "name": "Basic Computer Structure",
               "theoryHours": 7,
-              "levelB2": 2,
               "topics": [
                 "Computer terminology, microcomputer layout/interface and bus systems",
                 "Single/multi-address instruction words",
                 "Memory devices and data storage systems"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "5.7",
               "name": "Microprocessors",
               "theoryHours": 12,
-              "levelB2": 2,
               "topics": [
                 "Microprocessor functions and overall operation",
                 "Control/processing unit, clock, register, arithmetic logic unit"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "5.8",
               "name": "Integrated Circuits",
               "theoryHours": 12,
-              "levelB2": 2,
               "topics": [
                 "Encoders and decoders, encoder types",
                 "Medium, large and very large scale integration"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "5.9",
               "name": "Multiplexing",
               "theoryHours": 10,
-              "levelB2": 2,
               "topics": [
                 "Multiplexers and demultiplexers: operation and identification in logic diagrams"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "5.10",
               "name": "Fibre Optics",
               "theoryHours": 8,
-              "levelB2": 2,
               "topics": [
                 "Fibre optic data transmission vs electrical wire propagation",
                 "Fibre optic data bus, terminations, couplers, control/remote terminals",
                 "Applications of fibre optics in aircraft systems"
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
+            },
+            {
+              "code": "5.12",
+              "name": "Electrostatic Sensitive Devices",
+              "theoryHours": 0,
+              "topics": [],
+              "practicalTasks": [
+                {
+                  "id": 120,
+                  "name": "Perform any action to prevent electrostatic discharge to avoid damage on sensible electronic devices (ATA 20)",
+                  "plannedHours": 2
+                }
               ]
             }
-          ],
-          "practicalTasks": [
-            { "n": 7, "ata": "31", "submodule": "5.1", "description": "Check cockpit layout of instruments", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 8, "ata": "20", "submodule": "5.12", "description": "Perform any action to prevent electrostatic discharge to avoid damage on sensible electronic devices", "modality": "PERFORM", "duration": "2:00" }
           ]
         },
         {
@@ -3578,14 +3653,18 @@
               "code": "7.4",
               "name": "Avionic General Test Equipment",
               "theoryHours": 5,
-              "levelB2": 3,
               "topics": [
                 "Operation, function and use of avionic general test equipment"
+              ],
+              "levelB2": 3,
+              "practicalTasks": [
+                {
+                  "id": 121,
+                  "name": "Static Pitot tester practical demonstration (ATA 20)",
+                  "plannedHours": 3
+                }
               ]
             }
-          ],
-          "practicalTasks": [
-            { "n": 9, "ata": "20", "submodule": "7.4", "description": "Static Pitot tester practical demonstration", "modality": "PERFORM", "duration": "3:00" }
           ]
         },
         {
@@ -3600,200 +3679,300 @@
               "code": "13.1",
               "name": "Theory of Flight",
               "theoryHours": 6,
-              "levelB2": 1,
               "topics": [
                 "Roll/pitch/yaw control surfaces: ailerons, spoilers, elevators, stabilators, rudder limiters",
                 "High lift and drag devices: slots, slats, flaps, spoilers, speed brakes",
                 "Trim tabs, servo tabs, control surface bias",
                 "High speed flight: subsonic, transonic, supersonic, Mach number, critical Mach number"
-              ]
+              ],
+              "levelB2": 1,
+              "practicalTasks": []
             },
             {
               "code": "13.2",
               "name": "Structures - General Concept",
               "theoryHours": 6,
-              "levelB2": 2,
               "topics": [
                 "Fundamentals of structural systems",
                 "Zonal and station identification systems",
                 "Electrical bonding, lightning strike protection"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "13.3",
               "name": "Autoflight (System 22)",
               "theoryHours": 27,
-              "levelB2": 3,
               "topics": [
                 "Fundamentals of automatic flight control, command signal processing",
                 "Roll/pitch/yaw channels, yaw dampers, Stability Augmentation System (helicopters)",
                 "Automatic trim control, autopilot/nav aids interface, autothrottle",
                 "Automatic Landing Systems: categories, modes, monitors and failure conditions"
+              ],
+              "levelB2": 3,
+              "practicalTasks": [
+                {
+                  "id": 122,
+                  "name": "Remove and re-install Helipilot API (actuator position indicator) panel (ATA 22)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 123,
+                  "name": "Remove and re-install Helipilot mode selector and command panels (ATA 22)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 124,
+                  "name": "Remove and re-install Helipilot vertical gyro (ATA 22)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 125,
+                  "name": "Remove and re-install Helipilot air speed sensor (ATA 22)",
+                  "plannedHours": 1
+                }
               ]
             },
             {
               "code": "13.4.a",
               "name": "Communication/Navigation - fundamentals",
               "theoryHours": 17,
-              "levelB2": 3,
               "topics": [
                 "Fundamentals of radio wave propagation, antennas, transmission lines, communication receiver/transmitter"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             },
             {
               "code": "13.4.b",
               "name": "Communication/Navigation - systems",
               "theoryHours": 27,
-              "levelB2": 2,
               "topics": [
                 "VHF/HF communication, audio, ELT, CVR, VOR, TACAN, ADF, ILS, Flight Director, DME",
                 "Doppler navigation, area navigation/RNAV, FMS, GPS/GNSS/GLS/TLS, INS",
                 "ATC transponder/secondary surveillance radar, TCAS, weather radar, radio altimeter, data-link"
+              ],
+              "levelB2": 2,
+              "practicalTasks": [
+                {
+                  "id": 126,
+                  "name": "Remove and re-install a HF (High Frequency) communication system R/T unit (ATA 23)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 127,
+                  "name": "Remove and re-install a VHF (Very High Frequency) communication system R/T unit (ATA 23)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 128,
+                  "name": "Remove and re-install an ADF (Automatic Direction Finding) Receiver unit (ATA 23)",
+                  "plannedHours": 1
+                }
               ]
             },
             {
               "code": "13.6",
               "name": "Equipment and Furnishings (System 25)",
               "theoryHours": 10,
-              "levelB2": 3,
               "topics": [
                 "Electronic emergency equipment requirements"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             },
             {
               "code": "13.7",
               "name": "Flight Controls (System 27)",
               "theoryHours": 6,
-              "levelB2": 2,
               "topics": [
                 "Primary controls: aileron, elevator, rudder, spoiler; trim control, active load control",
                 "Manual/hydraulic/pneumatic operation; artificial feel, yaw damper, Mach trim, rudder limiter, gust locks, stall protection"
-              ]
+              ],
+              "levelB2": 2,
+              "practicalTasks": []
             },
             {
               "code": "13.8",
               "name": "Instruments (System 31)",
               "theoryHours": 45,
-              "levelB2": 3,
               "topics": [
                 "Pitot-static systems, altimeters, vertical speed/airspeed indicators, machmeters",
                 "Altitude reporting/alerting, air data computers, instrument pneumatic systems",
                 "Temperature/fuel quantity indicating systems, gyroscopic principles, artificial horizons",
                 "GPWS, compass systems, flight data recording, EFIS, glass cockpit",
                 "Master warning systems, stall warning/AOA indicating, vibration measurement"
+              ],
+              "levelB2": 3,
+              "practicalTasks": [
+                {
+                  "id": 129,
+                  "name": "Remove and re-install Altimeter instruments (ATA 31)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 130,
+                  "name": "Remove and re-install Vertical speed indicator (ATA 31)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 131,
+                  "name": "Remove and re-install Airspeed indicator (ATA 31)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 132,
+                  "name": "Remove and re-install Transmission Oil Temperature indicator (ATA 31)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 133,
+                  "name": "Remove and re-install thermo resistance bulb (ATA 31)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 134,
+                  "name": "Remove and re-install Fuel quantity indicator (ATA 31)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 135,
+                  "name": "Remove and re-install H.S.I. (Horizontal Situation Indicator) (ATA 31)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 136,
+                  "name": "Remove and re-install A.D.I. (Attitude Directional Indicator) (ATA 31)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 137,
+                  "name": "Remove and re-install Directional Gyros (ATA 31)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 138,
+                  "name": "Remove and re-install Flux valve (ATA 31)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 139,
+                  "name": "Remove and re-install warning panel (ATA 31)",
+                  "plannedHours": 1
+                }
               ]
             },
             {
               "code": "13.10",
               "name": "On Board Maintenance Systems (System 45)",
               "theoryHours": 10,
-              "levelB2": 3,
               "topics": [
                 "Central maintenance computers, data loading system, electronic library system, printing",
                 "Structure monitoring (damage tolerance monitoring)"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             },
             {
               "code": "13.11",
               "name": "Air Conditioning and Cabin Pressurisation",
               "theoryHours": 9,
-              "levelB2": 3,
               "topics": [
                 "Air supply APU",
                 "Air cycle and vapour cycle machines, flow/temperature/humidity control",
                 "Pressurisation systems, control/safety valves, cabin pressure controllers",
                 "Canopy seal and anti-g system"
+              ],
+              "levelB2": 3,
+              "practicalTasks": [
+                {
+                  "id": 140,
+                  "name": "Main components identification heating and ventilation system (ATA 21)",
+                  "plannedHours": 3
+                }
               ]
             },
             {
               "code": "13.13",
               "name": "Fuel Systems (System 28)",
               "theoryHours": 2,
-              "levelB2": 3,
               "topics": [
                 "Refuelling and defuelling including AAR",
                 "Longitudinal balance fuel systems, indications and warnings"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             },
             {
               "code": "13.15",
               "name": "Ice and Rain Protection (System 30)",
               "theoryHours": 1,
-              "levelB2": 3,
               "topics": [
                 "De-icing systems: pneumatic"
+              ],
+              "levelB2": 3,
+              "practicalTasks": [
+                {
+                  "id": 141,
+                  "name": "Remove and re-install wipers motor (ATA 30)",
+                  "plannedHours": 2
+                }
               ]
             },
             {
               "code": "13.16",
               "name": "Landing Gear (System 32)",
               "theoryHours": 2,
-              "levelB2": 3,
               "topics": [
                 "Antiskid and autobraking"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             },
             {
               "code": "13.17",
               "name": "Oxygen (System 35)",
               "theoryHours": 10,
-              "levelB2": 3,
               "topics": [
                 "System layout cockpit/cabin, sources, storage, charging, distribution",
                 "Supply regulation, indications and warnings"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             },
             {
               "code": "13.20",
               "name": "Integrated Modular Avionics (System 42)",
               "theoryHours": 7,
-              "levelB2": 3,
               "topics": [
                 "IMA module functions: bleed management, air pressure/ventilation control, electrical load management, fuel/braking/steering/landing gear control, etc.",
                 "Core system, network components"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             },
             {
               "code": "13.21",
               "name": "Cabin Systems (System 44)",
               "theoryHours": 18,
-              "levelB2": 3,
               "topics": [
                 "Cabin Intercommunication Data System, Cabin Network Service",
                 "Cabin Core System, External Communication System, Cabin Monitoring System"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             },
             {
               "code": "13.22",
               "name": "Information Systems (System 46)",
               "theoryHours": 7,
-              "levelB2": 3,
               "topics": [
                 "Aircraft General/Flight Deck/Maintenance/Passenger Cabin Information System"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             }
-          ],
-          "practicalTasks": [
-            { "n": 10, "ata": "22", "submodule": "13.3", "description": "Remove and re-install Helipilot API (actuator position indicator) panel", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 11, "ata": "22", "submodule": "13.3", "description": "Remove and re-install Helipilot mode selector and command panels", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 12, "ata": "22", "submodule": "13.3", "description": "Remove and re-install Helipilot vertical gyro", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 13, "ata": "22", "submodule": "13.3", "description": "Remove and re-install Helipilot air speed sensor", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 14, "ata": "23", "submodule": "13.4", "description": "Remove and re-install a HF (High Frequency) communication system R/T unit", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 15, "ata": "23", "submodule": "13.4", "description": "Remove and re-install a VHF (Very High Frequency) communication system R/T unit", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 16, "ata": "23", "submodule": "13.4", "description": "Remove and re-install an ADF (Automatic Direction Finding) Receiver unit", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 17, "ata": "31", "submodule": "13.8", "description": "Remove and re-install Altimeter instruments", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 18, "ata": "31", "submodule": "13.8", "description": "Remove and re-install Vertical speed indicator", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 19, "ata": "31", "submodule": "13.8", "description": "Remove and re-install Airspeed indicator", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 20, "ata": "31", "submodule": "13.8", "description": "Remove and re-install Transmission Oil Temperature indicator", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 21, "ata": "31", "submodule": "13.8", "description": "Remove and re-install thermo resistance bulb", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 22, "ata": "31", "submodule": "13.8", "description": "Remove and re-install Fuel quantity indicator", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 23, "ata": "31", "submodule": "13.8", "description": "Remove and re-install H.S.I. (Horizontal Situation Indicator)", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 24, "ata": "31", "submodule": "13.8", "description": "Remove and re-install A.D.I. (Attitude Directional Indicator)", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 25, "ata": "31", "submodule": "13.8", "description": "Remove and re-install Directional Gyros", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 26, "ata": "31", "submodule": "13.8", "description": "Remove and re-install Flux valve", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 27, "ata": "31", "submodule": "13.8", "description": "Remove and re-install warning panel", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 28, "ata": "21", "submodule": "13.11", "description": "Main components identification heating and ventilation system", "modality": "PERFORM", "duration": "3:00" },
-            { "n": 29, "ata": "30", "submodule": "13.15", "description": "Remove and re-install wipers motor", "modality": "PERFORM", "duration": "2:00" }
           ]
         },
         {
@@ -3808,21 +3987,65 @@
               "code": "14.2",
               "name": "Engine Indicating Systems",
               "theoryHours": 4,
-              "levelB2": 2,
               "topics": [
                 "Manifold pressure",
                 "Propeller speed"
+              ],
+              "levelB2": 2,
+              "practicalTasks": [
+                {
+                  "id": 143,
+                  "name": "Chip Detector removal/installation procedure, inspection/check, cleaning (ATA 79)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 144,
+                  "name": "Resistance and continuity checks of thermocouple system (ATA 77)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 145,
+                  "name": "Remove and re-install Engine Oil Temperature indicator (ATA 79)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 146,
+                  "name": "Remove and re-install E.G.T. (Exhaust Gas Turbine) indicator (ATA 77)",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 147,
+                  "name": "Remove and re-install thermocouple (ATA 77)",
+                  "plannedHours": 2
+                }
+              ]
+            },
+            {
+              "code": "14.1",
+              "name": "Constructional arrangement",
+              "theoryHours": 0,
+              "topics": [],
+              "practicalTasks": [
+                {
+                  "id": 142,
+                  "name": "Functional check of BEEPER trim (ATA 76)",
+                  "plannedHours": 2
+                }
+              ]
+            },
+            {
+              "code": "14.3",
+              "name": "Starting/Ignition Systems",
+              "theoryHours": 0,
+              "topics": [],
+              "practicalTasks": [
+                {
+                  "id": 148,
+                  "name": "Remove and re-install spark plugs (ATA 74)",
+                  "plannedHours": 2
+                }
               ]
             }
-          ],
-          "practicalTasks": [
-            { "n": 30, "ata": "76", "submodule": "14.1", "description": "Functional check of BEEPER trim", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 31, "ata": "79", "submodule": "14.2", "description": "Chip Detector removal/installation procedure, inspection/check, cleaning", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 32, "ata": "77", "submodule": "14.2", "description": "Resistance and continuity checks of thermocouple system", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 33, "ata": "79", "submodule": "14.2", "description": "Remove and re-install Engine Oil Temperature indicator", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 34, "ata": "77", "submodule": "14.2", "description": "Remove and re-install E.G.T. (Exhaust Gas Turbine) indicator", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 35, "ata": "77", "submodule": "14.2", "description": "Remove and re-install thermocouple", "modality": "PERFORM", "duration": "2:00" },
-            { "n": 36, "ata": "74", "submodule": "14.3", "description": "Remove and re-install spark plugs", "modality": "PERFORM", "duration": "2:00" }
           ]
         },
         {
@@ -3837,13 +4060,13 @@
               "code": "51.1",
               "name": "Weapons Stores System (System 94)",
               "theoryHours": 1,
-              "levelB2": 3,
               "topics": [
                 "Weapon control, designating and acquiring a target"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             }
-          ],
-          "practicalTasks": []
+          ]
         },
         {
           "number": 53,
@@ -3857,23 +4080,24 @@
               "code": "53.1",
               "name": "Surveillance (System 93)",
               "theoryHours": 1,
-              "levelB2": 3,
               "topics": [
                 "Data processing, display, recording, identification",
                 "Infra-red and laser sensors, surveillance radar, magnetic sensors, sonar (active/passive)"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             },
             {
               "code": "53.3",
               "name": "Electronic Warfare (System 99)",
               "theoryHours": 1,
-              "levelB2": 3,
               "topics": [
                 "Active/passive electromagnetic, ELINT, infrared and laser systems, electromagnetic countermeasures"
-              ]
+              ],
+              "levelB2": 3,
+              "practicalTasks": []
             }
-          ],
-          "practicalTasks": []
+          ]
         },
         {
           "number": 55,
@@ -3887,32 +4111,44 @@
               "code": "55.1",
               "name": "Military Communication Systems",
               "theoryHours": 16,
-              "levelB2": 3,
               "topics": [
                 "Tactical Data Links: Link 11, Link 16, Link 22",
                 "Tactical Communication Systems"
+              ],
+              "levelB2": 3,
+              "practicalTasks": [
+                {
+                  "id": 149,
+                  "name": "Eseguire una prova di collegamento tra Tactical Communication Systems",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 150,
+                  "name": "Rimozione pannello di comando impianto VHF/AM",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 151,
+                  "name": "Istallazione pannello di comando impianto VHF/AM",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 152,
+                  "name": "Rimozione ricetrasmettitore e amplificatore di potenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 153,
+                  "name": "Istallazione ricetrasmettitore e amplificatore di potenza",
+                  "plannedHours": 1
+                }
               ]
             }
-          ],
-          "practicalTasks": [
-            { "n": 37, "ata": "//", "submodule": "55.1", "description": "Eseguire una prova di collegamento tra Tactical Communication Systems", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 38, "ata": "//", "submodule": "55.1", "description": "Rimozione pannello di comando impianto VHF/AM", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 39, "ata": "//", "submodule": "55.1", "description": "Istallazione pannello di comando impianto VHF/AM", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 40, "ata": "//", "submodule": "55.1", "description": "Rimozione ricetrasmettitore e amplificatore di potenza", "modality": "PERFORM", "duration": "1:00" },
-            { "n": 41, "ata": "//", "submodule": "55.1", "description": "Istallazione ricetrasmettitore e amplificatore di potenza", "modality": "PERFORM", "duration": "1:00" }
           ]
         }
       ]
     }
   ],
-  "deltaCombinations": {
-    "note": "AVES documenta ufficialmente solo la combinazione B1.3(+estensione mil M50/51/53/54) -> B2 (vedi deltaCourses['b2_da_b1_3']). Le altre coppie qualifica_partenza -> qualifica_target tra le categorie EASA Part-66/AMC elencate non sono quantificabili per sottrazione aritmetica delle ore tra programmi: ogni delta reale nasce da una Training Needs Analysis (TNA) dedicata che stabilisce quali argomenti sono effettivamente nuovi e quali sono 'differenze peculiari' rispetto alla qualifica di partenza - non un calcolo.",
-    "categories": ["Laurea", "B1.1", "B1.2", "B1.3", "B1.4", "B2"],
-    "documented": [
-      { "from": "B1.3+estensione_mil(M50,M51,M53,M54)", "to": "B2", "deltaCourseId": "b2_da_b1_3" }
-    ],
-    "undocumented": "Tutte le altre coppie ordinate from/to tra le categorie elencate (es. B1.1->B2, B1.2->B1.4, B2->B1.3, Laurea->B1.x, ecc.): nessun programma ufficiale AVES le copre, richiedono una TNA dedicata prima di poter essere integrate come deltaCourses."
-  },
   "instructorCurrency": {
     "teachingHoursPerYear": 6,
     "professionalUpdateHoursPer2Years": 35
