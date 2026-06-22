@@ -702,6 +702,684 @@
       ]
     },
     {
+      "id": "maml",
+      "code": "BTCMAML",
+      "name": "BTC MAML Cat. B - Manutentore di Aeromobili Militari",
+      "category": "B1",
+      "maxAttendees": 28,
+      "schedule": {
+        "mondayThursday": [
+          {
+            "slot": 1,
+            "start": "09:00",
+            "end": "10:00"
+          },
+          {
+            "slot": 2,
+            "start": "10:10",
+            "end": "11:10"
+          },
+          {
+            "slot": 3,
+            "start": "11:20",
+            "end": "12:20"
+          },
+          {
+            "slot": 4,
+            "start": "12:30",
+            "end": "13:30"
+          },
+          {
+            "slot": 5,
+            "start": "14:20",
+            "end": "15:20"
+          },
+          {
+            "slot": 6,
+            "start": "15:30",
+            "end": "16:30"
+          }
+        ],
+        "friday": [
+          {
+            "slot": 1,
+            "start": "08:20",
+            "end": "09:20"
+          },
+          {
+            "slot": 2,
+            "start": "09:30",
+            "end": "10:30"
+          },
+          {
+            "slot": 3,
+            "start": "10:50",
+            "end": "11:40"
+          }
+        ],
+        "hoursPerWeek": 27
+      },
+      "modules": [
+        {
+          "number": 7,
+          "name": "Maintenance Practices",
+          "theoryHours": 11,
+          "practicalHours": 0,
+          "examQuestions": 4,
+          "examMinutes": 5,
+          "submodules": [
+            {
+              "code": "7.5",
+              "name": "Engineering Drawings, Diagrams and Standards, Specification S1000D",
+              "theoryHours": 10,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "7.21",
+              "name": "Armament Safety",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "name": "Human Factors",
+          "theoryHours": 22,
+          "practicalHours": 0,
+          "examQuestions": 21,
+          "examMinutes": 45,
+          "submodules": [
+            {
+              "code": "9.1",
+              "name": "General",
+              "theoryHours": 3,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "9.2",
+              "name": "Human Performance and Limitations",
+              "theoryHours": 3,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "9.3",
+              "name": "Social Psychology",
+              "theoryHours": 4,
+              "practicalHours": 0,
+              "level": 1
+            },
+            {
+              "code": "9.4",
+              "name": "Factors Affecting Performance",
+              "theoryHours": 3,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "9.5",
+              "name": "Physical Environment",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 1
+            },
+            {
+              "code": "9.6",
+              "name": "Tasks",
+              "theoryHours": 2,
+              "practicalHours": 0,
+              "level": 1
+            },
+            {
+              "code": "9.7",
+              "name": "Communication",
+              "theoryHours": 2,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "9.8",
+              "name": "Human Error",
+              "theoryHours": 3,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "9.9",
+              "name": "Hazards in the Workplace",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "name": "Aviation Legislation",
+          "theoryHours": 28,
+          "practicalHours": 0,
+          "examQuestions": 41,
+          "examMinutes": 70,
+          "submodules": [
+            {
+              "code": "10.1",
+              "name": "Regulatory Framework",
+              "theoryHours": 3,
+              "practicalHours": 0,
+              "level": 1
+            },
+            {
+              "code": "10.2",
+              "name": "Certifying Staff - Maintenance",
+              "theoryHours": 2,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "10.3",
+              "name": "Approved Maintenance Organisations",
+              "theoryHours": 3,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "10.4",
+              "name": "Air operations",
+              "theoryHours": 3,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "10.5",
+              "name": "Certification of aircraft, parts and appliances",
+              "theoryHours": 6,
+              "practicalHours": 0,
+              "level": 1
+            },
+            {
+              "code": "10.6",
+              "name": "Continuing airworthiness",
+              "theoryHours": 4,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "10.7",
+              "name": "Applicable Requirements",
+              "theoryHours": 7,
+              "practicalHours": 0,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "label": "11A",
+          "name": "Turbine Aeroplane Aerodynamics, Structures and Systems",
+          "theoryHours": 7,
+          "practicalHours": 0,
+          "examQuestions": 4,
+          "examMinutes": 5,
+          "submodules": [
+            {
+              "code": "11A.1",
+              "name": "Theory of Flight",
+              "theoryHours": 2,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "11A.3",
+              "name": "Airframe Structures - Aeroplanes",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "11A.4",
+              "name": "Air Conditioning and Cabin Pressurisation",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "11A.10",
+              "name": "Fuel Systems",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 3
+            },
+            {
+              "code": "11A.13",
+              "name": "Landing Gear",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 1
+            },
+            {
+              "code": "11A.14",
+              "name": "Lights",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 3
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "name": "Helicopter Aerodynamics, Structures and Systems",
+          "theoryHours": 89,
+          "practicalHours": 0,
+          "examQuestions": 32,
+          "examMinutes": 40,
+          "submodules": [
+            {
+              "code": "12.1",
+              "name": "Theory of Flight - Rotary Wing Aerodynamics",
+              "theoryHours": 20,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "12.2",
+              "name": "Flight Control Systems",
+              "theoryHours": 16,
+              "practicalHours": 0,
+              "level": 3
+            },
+            {
+              "code": "12.3",
+              "name": "Blade Tracking and Vibration Analysis",
+              "theoryHours": 24,
+              "practicalHours": 0,
+              "level": 3
+            },
+            {
+              "code": "12.4",
+              "name": "Transmission",
+              "theoryHours": 25,
+              "practicalHours": 0,
+              "level": 3
+            },
+            {
+              "code": "12.7",
+              "name": "Instruments/Avionic Systems",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "12.9",
+              "name": "Equipment and Furnishings",
+              "theoryHours": 2,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "12.14",
+              "name": "Landing Gear",
+              "theoryHours": 1,
+              "practicalHours": 0,
+              "level": 3
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "name": "Aircraft Aerodynamics, Structures and Systems",
+          "theoryHours": 2,
+          "practicalHours": 0,
+          "examQuestions": 4,
+          "examMinutes": 5,
+          "submodules": [
+            {
+              "code": "13.4",
+              "name": "Communication/Navigation (TACAN, GLS, TLS)",
+              "theoryHours": 2,
+              "practicalHours": 0,
+              "level": 2
+            }
+          ]
+        },
+        {
+          "number": 50,
+          "name": "Principles of Armament",
+          "theoryHours": 15,
+          "practicalHours": 5,
+          "examQuestions": 12,
+          "examMinutes": 15,
+          "submodules": [
+            {
+              "code": "50.1",
+              "name": "Essential principles of Armament",
+              "theoryHours": 15,
+              "practicalHours": 5,
+              "topics": [
+                "Propellants and explosives",
+                "Pyrotechnics including Flares",
+                "Stores loading/unloading (to include chaff and flare) including hang-up and misfire",
+                "Ammunitions transportation",
+                "Air-to-ground missile",
+                "Air-to-air missile",
+                "Air-to-sea missile",
+                "Aerial torpedo",
+                "Bombs (freefall and guided)",
+                "Missile guidance methods",
+                "Missile warheads and detonation mechanism",
+                "Guided weapon aerodynamics and flight controls",
+                "Storage, de-stocking and ammunitions assembly"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 291,
+                  "name": "Assemblaggio razzi",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 292,
+                  "name": "Disasseblaggio razzi",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 293,
+                  "name": "Caricamento magazzino Flares/Chaff",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 294,
+                  "name": "Scaricamento magazzino Flares/Chaff",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 295,
+                  "name": "Stray voltage test",
+                  "plannedHours": 1
+                }
+              ],
+              "level": 1
+            }
+          ]
+        },
+        {
+          "number": 51,
+          "name": "Weapons Systems",
+          "theoryHours": 20,
+          "practicalHours": 10,
+          "examQuestions": 32,
+          "examMinutes": 40,
+          "submodules": [
+            {
+              "code": "51.1",
+              "name": "Weapons stores system (System 94)",
+              "theoryHours": 20,
+              "practicalHours": 10,
+              "topics": [
+                "Weapon and stores release, fire and jettison stores",
+                "Weapon suspension system",
+                "Interconnecting equipment to transport and release/fire weapons",
+                "Gunnery",
+                "Weapon control, designating and acquiring a target"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 296,
+                  "name": "Installazione supporto universale per sistema d'arma",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 297,
+                  "name": "Installazione \"kit installazione\" sistema d'arma",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 298,
+                  "name": "Rimozione \"kit installazione\" sistema d'arma",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 299,
+                  "name": "Rimozione supporto universale per sistema d'arma",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 300,
+                  "name": "Allineamento congegno di puntamento e sistema d'arma",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 301,
+                  "name": "Messa in fase dell'assieme arma",
+                  "plannedHours": 1
+                }
+              ],
+              "level": 3
+            }
+          ]
+        },
+        {
+          "number": 53,
+          "name": "Surveillance and Electronic Warfare",
+          "theoryHours": 25,
+          "practicalHours": 10,
+          "examQuestions": 48,
+          "examMinutes": 60,
+          "submodules": [
+            {
+              "code": "53.1",
+              "name": "Surveillance (System 93)",
+              "theoryHours": 10,
+              "practicalHours": 4,
+              "topics": [
+                "Data processing",
+                "Data display",
+                "Recording",
+                "Identification",
+                "Infra-red and laser sensors",
+                "Surveillance radar",
+                "Magnetic sensors",
+                "Sonar sensors (active and passive)"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 302,
+                  "name": "Rimuovere e installare il pannello di comando del \"WEATHER RADAR\"",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 303,
+                  "name": "Eseguire una prova funzionale del \"WEATHER RADAR\"",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 304,
+                  "name": "Rimuovere e installare sistema IFF e criptocomputer",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 305,
+                  "name": "Eseguire una prova funzionale del sistema IFF installato a bordo degli aeromobili",
+                  "plannedHours": 1
+                }
+              ],
+              "level": 3
+            },
+            {
+              "code": "53.2",
+              "name": "Image recording (System 97)",
+              "theoryHours": 5,
+              "practicalHours": 2,
+              "topics": [
+                "Optical systems",
+                "Specificities of aerial photography",
+                "Cameras"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 306,
+                  "name": "Rimuovere e installare il pannello del Sistema di videoregistrazione (VCTR)",
+                  "plannedHours": 2
+                }
+              ],
+              "level": 2
+            },
+            {
+              "code": "53.3",
+              "name": "Electronic warfare (System 99)",
+              "theoryHours": 10,
+              "practicalHours": 4,
+              "topics": [
+                "Active electromagnetic",
+                "Passive electromagnetic",
+                "ELINT",
+                "Infrared and Laser systems",
+                "Electromagnetic countermeasures"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 307,
+                  "name": "Rimuovere e installare lanciatori chaff e flare del sistema di autoprotezione",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 308,
+                  "name": "Eseguire un FL-AGE test su un aeromobile dotato di sistema di autoprotezione",
+                  "plannedHours": 2
+                }
+              ],
+              "level": 3
+            }
+          ]
+        },
+        {
+          "number": 54,
+          "name": "Crew Safety",
+          "theoryHours": 40,
+          "practicalHours": 15,
+          "examQuestions": 20,
+          "examMinutes": 25,
+          "submodules": [
+            {
+              "code": "54.1",
+              "name": "Crew escape and safety (System 95)",
+              "theoryHours": 40,
+              "practicalHours": 15,
+              "topics": [
+                "Ejection seats",
+                "Escape hatches/canopy, Miniature Detonating Cord (MDC)",
+                "Global survival kits",
+                "Impact protection"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 309,
+                  "name": "Rimuovere porte piloti tramite lo sgancio di emergenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 310,
+                  "name": "Rimontare porte piloti dotate di sgancio di emergenza",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 311,
+                  "name": "Effettuare frenatura alla maniglia di sgancio per una porta dotata di sgancio di emergenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 312,
+                  "name": "Rimuovere i trasparenti delle porte di carico scorrevole tramite lo sgancio di emergenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 313,
+                  "name": "Rimontare i trasparenti delle porte di carico scorrevole dotate di sgancio di emergenza",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 314,
+                  "name": "Identificazione alloggiamenti del cordone esplosivo",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 315,
+                  "name": "Identificazione della miccia detonante",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 316,
+                  "name": "Identificazione della guaina di trasferimento",
+                  "plannedHours": 1.5
+                },
+                {
+                  "id": 317,
+                  "name": "Identificazione della connessione a sei vie del Sistema esplosivo di uscita di emergenza",
+                  "plannedHours": 1.5
+                },
+                {
+                  "id": 318,
+                  "name": "Prova funzionale dei galleggianti di emergenza",
+                  "plannedHours": 3
+                }
+              ],
+              "level": 3
+            }
+          ]
+        },
+        {
+          "number": 55,
+          "name": "Military Communication Systems",
+          "theoryHours": 16,
+          "practicalHours": 5,
+          "examQuestions": 16,
+          "examMinutes": 20,
+          "submodules": [
+            {
+              "code": "55.1",
+              "name": "Military Communication Systems",
+              "theoryHours": 16,
+              "practicalHours": 5,
+              "topics": [
+                "Tactical Data Links: Link 11, Link 16, Link 22",
+                "Tactical Communication Systems"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 319,
+                  "name": "Eseguire una prova di collegamento tra \"Tactical Communication Systems\"",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 320,
+                  "name": "Rimozione pannello di comando impianto VHF/AM",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 321,
+                  "name": "Istallazione pannello di comando impianto VHF/AM",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 322,
+                  "name": "Rimozione ricetrasmettitore e amplificatore di potenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 323,
+                  "name": "Istallazione ricetrasmettitore e amplificatore di potenza",
+                  "plannedHours": 1
+                }
+              ],
+              "level": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "b1",
       "code": "TB1",
       "name": "TB1 - Manutentore Tecnico Meccanico",
