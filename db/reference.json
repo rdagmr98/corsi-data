@@ -3362,67 +3362,255 @@
           "submodules": [
             {
               "code": "7.1",
-              "name": "Safety precautions - aircraft and shop",
-              "theoryHours": 15,
-              "practicalHours": 5,
-              "level": 3
+              "name": "Safety Precautions-Aircraft and Workshop",
+              "theoryHours": 12,
+              "practicalHours": 3,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 231,
+                  "name": "Dimostrazione precauzioni di sicurezza nel lavoro su aeromobile",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "7.2",
-              "name": "Workshop practices",
-              "theoryHours": 20,
-              "practicalHours": 15,
-              "level": 3
+              "name": "Workshop Practices",
+              "theoryHours": 13,
+              "practicalHours": 6,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 232,
+                  "name": "Dimostrazione controllo e cura di utensili e attrezzature",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 233,
+                  "name": "Verifica e utilizzo di utensili ordinari",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "7.3",
               "name": "Tools",
-              "theoryHours": 15,
-              "practicalHours": 10,
-              "level": 3
+              "theoryHours": 13,
+              "practicalHours": 12,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 234,
+                  "name": "Utilizzo pratico del kit di inserimento/estrazione pin per connettori elettrici",
+                  "plannedHours": 4
+                },
+                {
+                  "id": 235,
+                  "name": "Utilizzo del multimetro digitale",
+                  "plannedHours": 4
+                },
+                {
+                  "id": 236,
+                  "name": "Utilizzo di strumenti di misura per volt, amperaggio e resistenza in contesti pratici",
+                  "plannedHours": 4
+                }
+              ]
             },
             {
               "code": "7.4",
-              "name": "Aviation fasteners",
-              "theoryHours": 15,
-              "practicalHours": 10,
-              "level": 2
+              "name": "Avionic General Test Equipment",
+              "theoryHours": 13,
+              "practicalHours": 3,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 237,
+                  "name": "Dimostrazione pratica del tester statico Pitot",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "7.5",
-              "name": "Electrical wiring interconnect system",
-              "theoryHours": 35,
-              "practicalHours": 15,
-              "level": 3
+              "name": "Engineering Drawings, Diagrams and Standards",
+              "theoryHours": 8,
+              "practicalHours": 7,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 238,
+                  "name": "Identificazione part number da catalogo illustrato delle parti (IPC)",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 239,
+                  "name": "Analisi di un circuito elettrico dell'aeromobile con schema elettrico di riferimento",
+                  "plannedHours": 4
+                }
+              ]
             },
             {
               "code": "7.6",
-              "name": "Riveting",
-              "theoryHours": 10,
-              "practicalHours": 5
+              "name": "Fits and Clearances",
+              "theoryHours": 5,
+              "practicalHours": 2,
+              "level": 1,
+              "practicalTasks": [
+                {
+                  "id": 240,
+                  "name": "Dimostrazione del corretto utilizzo dei trapani",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "7.7",
-              "name": "Pipes and hoses",
-              "theoryHours": 15,
-              "practicalHours": 5
+              "name": "Electrical Wiring Interconnection System (EWIS)",
+              "theoryHours": 13,
+              "practicalHours": 17,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 241,
+                  "name": "Esecuzione di tecniche base di ricerca guasti con strumenti di misura",
+                  "plannedHours": 4
+                },
+                {
+                  "id": 242,
+                  "name": "Inserimento/estrazione di pin elettrici in diversi tipi di connettori",
+                  "plannedHours": 4
+                },
+                {
+                  "id": 243,
+                  "name": "Riparazione o sostituzione di un connettore elettrico",
+                  "plannedHours": 6
+                },
+                {
+                  "id": 244,
+                  "name": "Interpretazione di schemi elettrici e circuiti tipici",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "7.8",
-              "name": "Maintenance documentation",
-              "theoryHours": 20,
-              "practicalHours": 5,
-              "level": 2
+              "name": "Riveting",
+              "theoryHours": 0,
+              "practicalHours": 0
             },
             {
               "code": "7.9",
-              "name": "Ground support equipment",
-              "theoryHours": 15,
+              "name": "Pipes and Hoses",
+              "theoryHours": 0,
               "practicalHours": 0
             },
             {
               "code": "7.10",
-              "name": "Electrostatic sensitive devices",
+              "name": "Springs",
+              "theoryHours": 0,
+              "practicalHours": 0
+            },
+            {
+              "code": "7.11",
+              "name": "Bearings",
+              "theoryHours": 0,
+              "practicalHours": 0
+            },
+            {
+              "code": "7.12",
+              "name": "Transmissions",
+              "theoryHours": 0,
+              "practicalHours": 0
+            },
+            {
+              "code": "7.13",
+              "name": "Control Cables",
+              "theoryHours": 0,
+              "practicalHours": 0
+            },
+            {
+              "code": "7.14",
+              "name": "Material Handling",
+              "theoryHours": 0,
+              "practicalHours": 0
+            },
+            {
+              "code": "7.15",
+              "name": "Welding, Brazing, Soldering and Bonding",
+              "theoryHours": 7,
+              "practicalHours": 3,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 245,
+                  "name": "Esecuzione di saldature elettriche e ispezione dei giunti saldati",
+                  "plannedHours": 3
+                }
+              ]
+            },
+            {
+              "code": "7.16",
+              "name": "Aircraft Weight and Balance",
+              "theoryHours": 7,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "7.17",
+              "name": "Aircraft Handling and Storage",
+              "theoryHours": 12,
+              "practicalHours": 11,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 246,
+                  "name": "Esecuzione delle procedure di sicurezza prima del rifornimento dell'aeromobile",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 247,
+                  "name": "Assistenza al rifornimento dell'aeromobile",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 248,
+                  "name": "Esercitazione sull'uso dei segnali di marshalling NATO-Stanag 3117",
+                  "plannedHours": 6
+                }
+              ]
+            },
+            {
+              "code": "7.18",
+              "name": "Disassembly, Inspection, Repair and Assembly Techniques",
+              "theoryHours": 38,
+              "practicalHours": 0,
+              "level": 3
+            },
+            {
+              "code": "7.19",
+              "name": "Abnormal Events",
+              "theoryHours": 7,
+              "practicalHours": 0,
+              "level": 2
+            },
+            {
+              "code": "7.20",
+              "name": "Maintenance Procedures",
+              "theoryHours": 12,
+              "practicalHours": 6,
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 249,
+                  "name": "Procedure di compilazione modulo DP5069",
+                  "plannedHours": 6
+                }
+              ]
+            },
+            {
+              "code": "7.21",
+              "name": "Armament Safety",
               "theoryHours": 10,
               "practicalHours": 0,
               "level": 2
