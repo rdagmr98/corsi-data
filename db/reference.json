@@ -72,7 +72,7 @@
               "name": "Essential principles of Armament",
               "theoryHours": 15,
               "practicalHours": 5,
-              "levelB1": 2,
+              "levelB1": 1,
               "topics": [
                 "Propellants and explosives",
                 "Pyrotechnics including Flares",
@@ -87,6 +87,33 @@
                 "Missile warheads and detonation mechanism",
                 "Guided weapon aerodynamics and flight controls",
                 "Storage, de-stocking and ammunitions assembly"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 154,
+                  "name": "Assemblaggio razzi",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 155,
+                  "name": "Disasseblaggio razzi",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 156,
+                  "name": "Caricamento magazzino Flares/Chaff",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 157,
+                  "name": "Scaricamento magazzino Flares/Chaff",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 158,
+                  "name": "Stray voltage test",
+                  "plannedHours": 1
+                }
               ]
             }
           ]
@@ -111,6 +138,38 @@
                 "Interconnecting equipment to transport and release/fire weapons",
                 "Gunner",
                 "Weapon control, designating and acquiring a target"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 159,
+                  "name": "Installazione supporto universale per sistema d'arma",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 160,
+                  "name": "Installazione \"kit installazione\" sistema d'arma",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 161,
+                  "name": "Rimozione \"kit installazione\" sistema d'arma",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 162,
+                  "name": "Rimozione supporto universale per sistema d'arma",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 163,
+                  "name": "Allineamento congegno di puntamento e sistema d'arma",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 164,
+                  "name": "Messa in fase dell'assieme arma",
+                  "plannedHours": 1
+                }
               ]
             }
           ]
@@ -138,6 +197,18 @@
                 "Surveillance radar",
                 "Magnetic sensors",
                 "Sonar sensors (active and passive)"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 165,
+                  "name": "Rimuovere e installare il pannello di comando del \"WEATHER RADAR\"",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 166,
+                  "name": "Rimuovere e installare sistema IFF e criptocomputer",
+                  "plannedHours": 2
+                }
               ]
             },
             {
@@ -150,6 +221,13 @@
                 "Optical systems",
                 "Specificities of aerial photography",
                 "Cameras"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 167,
+                  "name": "Rimuovere e installare il pannello del Sistema di videoregistrazione (VCTR)",
+                  "plannedHours": 2
+                }
               ]
             },
             {
@@ -164,6 +242,13 @@
                 "ELINT",
                 "Infrared and Laser systems",
                 "Electromagnetic countermeasures"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 168,
+                  "name": "Rimuovere e installare lanciatori chaff e flare del sistema di autoprotezione",
+                  "plannedHours": 4
+                }
               ]
             }
           ]
@@ -187,6 +272,58 @@
                 "Escape hatches/canopy, Miniature Detonating Cord (MDC)",
                 "Global survival kits",
                 "Impact protection"
+              ],
+              "practicalTasks": [
+                {
+                  "id": 169,
+                  "name": "Rimuovere porte piloti tramite lo sgancio di emergenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 170,
+                  "name": "Rimontare porte piloti dotate di sgancio di emergenza",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 171,
+                  "name": "Effettuare frenatura alla maniglia di sgancio per una porta dotata di sgancio di emergenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 172,
+                  "name": "Rimuovere i trasparenti delle porte di carico scorrevole tramite lo sgancio di emergenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 173,
+                  "name": "Rimontare i trasparenti delle porte di carico scorrevole dotate di sgancio di emergenza",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 174,
+                  "name": "Identificazione alloggiamenti del cordone esplosivo",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 175,
+                  "name": "Identificazione della miccia detonante",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 176,
+                  "name": "Identificazione della guaina di trasferimento",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 177,
+                  "name": "Identificazione della connessione a sei vie del Sistema esplosivo di uscita",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 178,
+                  "name": "Prova funzionale dei galleggianti di emergenza",
+                  "plannedHours": 3
+                }
               ]
             }
           ]
