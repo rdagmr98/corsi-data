@@ -2630,19 +2630,22 @@
               "code": "1.1",
               "name": "Arithmetic",
               "theoryHours": 20,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "1.2",
               "name": "Algebra",
               "theoryHours": 25,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "1.3",
               "name": "Geometry",
               "theoryHours": 15,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "1.4",
@@ -2664,31 +2667,36 @@
               "code": "2.1",
               "name": "Matter",
               "theoryHours": 10,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 1
             },
             {
               "code": "2.2",
               "name": "Mechanics",
               "theoryHours": 20,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "2.3",
               "name": "Thermodynamics",
               "theoryHours": 15,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "2.4",
               "name": "Optics",
               "theoryHours": 10,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "2.5",
               "name": "Wave motion and sound",
               "theoryHours": 25,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             }
           ]
         },
@@ -2704,73 +2712,85 @@
               "code": "3.1",
               "name": "Electron theory",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 1
             },
             {
               "code": "3.2",
               "name": "Static electricity and conduction",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "3.3",
               "name": "Electrical terminology",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "3.4",
               "name": "Generation of electricity",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 1
             },
             {
               "code": "3.5",
               "name": "DC sources of electricity",
               "theoryHours": 10,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 2
             },
             {
               "code": "3.6",
               "name": "DC circuits",
               "theoryHours": 15,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 2
             },
             {
               "code": "3.7",
               "name": "Resistance/resistor",
               "theoryHours": 10,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 2
             },
             {
               "code": "3.8",
               "name": "Power",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "3.9",
               "name": "Capacitance/capacitor",
               "theoryHours": 10,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "3.10",
               "name": "Magnetism",
               "theoryHours": 10,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 2
             },
             {
               "code": "3.11",
               "name": "Inductance/inductor",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "3.12",
               "name": "DC motor/generator theory",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             }
           ]
         },
@@ -2786,25 +2806,29 @@
               "code": "4.1",
               "name": "Semiconductors",
               "theoryHours": 40,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 2
             },
             {
               "code": "4.2",
               "name": "Printed circuit board",
               "theoryHours": 20,
-              "practicalHours": 2
+              "practicalHours": 2,
+              "levelB2": 2
             },
             {
               "code": "4.3",
               "name": "Servomechanisms",
               "theoryHours": 30,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 2
             },
             {
               "code": "4.4",
               "name": "Filters",
               "theoryHours": 30,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 1
             }
           ]
         },
@@ -2820,43 +2844,50 @@
               "code": "5.1",
               "name": "Electronic instrument systems",
               "theoryHours": 30,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 3
             },
             {
               "code": "5.2",
               "name": "Numbering systems",
               "theoryHours": 15,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "5.3",
               "name": "Data conversion",
               "theoryHours": 15,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "5.4",
               "name": "Data buses",
               "theoryHours": 20,
-              "practicalHours": 3
+              "practicalHours": 3,
+              "levelB2": 2
             },
             {
               "code": "5.5",
               "name": "Logic circuits",
               "theoryHours": 30,
-              "practicalHours": 3
+              "practicalHours": 3,
+              "levelB2": 2
             },
             {
               "code": "5.6",
               "name": "Basic computer structure",
               "theoryHours": 20,
-              "practicalHours": 3
+              "practicalHours": 3,
+              "levelB2": 2
             },
             {
               "code": "5.7",
               "name": "Microprocessors",
               "theoryHours": 20,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             }
           ]
         },
@@ -2872,49 +2903,57 @@
               "code": "6.1",
               "name": "Aircraft materials - ferrous",
               "theoryHours": 15,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 1
             },
             {
               "code": "6.2",
               "name": "Aircraft materials - non-ferrous",
               "theoryHours": 15,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 1
             },
             {
               "code": "6.3",
               "name": "Aircraft materials - composite and non-metallic",
               "theoryHours": 20,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "6.4",
               "name": "Corrosion",
               "theoryHours": 20,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "6.5",
               "name": "Fasteners",
               "theoryHours": 25,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "6.6",
               "name": "Pipes and unions",
               "theoryHours": 15,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "6.7",
               "name": "Springs",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 1
             },
             {
               "code": "6.8",
               "name": "Bearings",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             }
           ]
         },
@@ -2930,31 +2969,36 @@
               "code": "7.1",
               "name": "Safety precautions - aircraft and shop",
               "theoryHours": 15,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 3
             },
             {
               "code": "7.2",
               "name": "Workshop practices",
               "theoryHours": 20,
-              "practicalHours": 15
+              "practicalHours": 15,
+              "levelB2": 3
             },
             {
               "code": "7.3",
               "name": "Tools",
               "theoryHours": 15,
-              "practicalHours": 10
+              "practicalHours": 10,
+              "levelB2": 3
             },
             {
               "code": "7.4",
               "name": "Aviation fasteners",
               "theoryHours": 15,
-              "practicalHours": 10
+              "practicalHours": 10,
+              "levelB2": 2
             },
             {
               "code": "7.5",
               "name": "Electrical wiring interconnect system",
               "theoryHours": 35,
-              "practicalHours": 15
+              "practicalHours": 15,
+              "levelB2": 3
             },
             {
               "code": "7.6",
@@ -2972,7 +3016,8 @@
               "code": "7.8",
               "name": "Maintenance documentation",
               "theoryHours": 20,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 2
             },
             {
               "code": "7.9",
@@ -2984,7 +3029,8 @@
               "code": "7.10",
               "name": "Electrostatic sensitive devices",
               "theoryHours": 10,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             }
           ]
         },
@@ -3000,25 +3046,29 @@
               "code": "8.1",
               "name": "Atmosphere",
               "theoryHours": 10,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "8.2",
               "name": "Aerodynamics",
               "theoryHours": 20,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "8.3",
               "name": "Theory of flight - aeroplane",
               "theoryHours": 10,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "8.4",
               "name": "Theory of flight - helicopter",
               "theoryHours": 10,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             }
           ]
         },
@@ -3034,25 +3084,29 @@
               "code": "9.1",
               "name": "General",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "9.2",
               "name": "Human performance and limitations",
               "theoryHours": 7,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "9.3",
               "name": "Social psychology",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 1
             },
             {
               "code": "9.4",
               "name": "Factors affecting performance",
               "theoryHours": 5,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             }
           ]
         },
@@ -3068,19 +3122,22 @@
               "code": "10.1",
               "name": "Regulatory framework",
               "theoryHours": 10,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 1
             },
             {
               "code": "10.2",
               "name": "Certifying staff and certification",
               "theoryHours": 10,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             },
             {
               "code": "10.3",
               "name": "Approved maintenance organisations",
               "theoryHours": 8,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 2
             }
           ]
         },
@@ -3096,103 +3153,120 @@
               "code": "13.1",
               "name": "Theory of flight",
               "theoryHours": 20,
-              "practicalHours": 10
+              "practicalHours": 10,
+              "levelB2": 1
             },
             {
               "code": "13.2",
               "name": "Airframe structures",
               "theoryHours": 11,
-              "practicalHours": 15
+              "practicalHours": 15,
+              "levelB2": 2
             },
             {
               "code": "13.3",
               "name": "Air conditioning and pressurisation",
               "theoryHours": 30,
-              "practicalHours": 10
+              "practicalHours": 10,
+              "levelB2": 3
             },
             {
               "code": "13.4",
               "name": "Avionics",
               "theoryHours": 50,
-              "practicalHours": 20
+              "practicalHours": 20,
+              "levelB2": 3
             },
             {
               "code": "13.5",
               "name": "Electrical power",
               "theoryHours": 25,
-              "practicalHours": 15
+              "practicalHours": 15,
+              "levelB2": 3
             },
             {
               "code": "13.6",
               "name": "Equipment and furnishings",
               "theoryHours": 10,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 3
             },
             {
               "code": "13.7",
               "name": "Fire protection",
               "theoryHours": 22,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 3
             },
             {
               "code": "13.8",
               "name": "Flight controls",
               "theoryHours": 60,
-              "practicalHours": 10
+              "practicalHours": 10,
+              "levelB2": 3
             },
             {
               "code": "13.9",
               "name": "Fuel systems",
               "theoryHours": 10,
-              "practicalHours": 10
+              "practicalHours": 10,
+              "levelB2": 3
             },
             {
               "code": "13.10",
               "name": "Hydraulic power",
               "theoryHours": 20,
-              "practicalHours": 10
+              "practicalHours": 10,
+              "levelB2": 3
             },
             {
               "code": "13.11",
               "name": "Ice and rain protection",
               "theoryHours": 42,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 3
             },
             {
               "code": "13.12",
               "name": "Landing gear",
               "theoryHours": 17,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 3
             },
             {
               "code": "13.13",
               "name": "Lights",
               "theoryHours": 20,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 3
             },
             {
               "code": "13.14",
               "name": "Navigation",
               "theoryHours": 20,
-              "practicalHours": 20
+              "practicalHours": 20,
+              "levelB2": 3
             },
             {
               "code": "13.15",
               "name": "Oxygen systems",
               "theoryHours": 12,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 3
             },
             {
               "code": "13.16",
               "name": "Pneumatic/vacuum systems",
               "theoryHours": 18,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 3
             },
             {
               "code": "13.17",
               "name": "Communication/Recording systems",
               "theoryHours": 10,
-              "practicalHours": 19
+              "practicalHours": 19,
+              "levelB2": 3
             },
             {
               "code": "13.18",
@@ -3210,19 +3284,22 @@
               "code": "13.20",
               "name": "Onboard maintenance systems",
               "theoryHours": 18,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 3
             },
             {
               "code": "13.21",
               "name": "Cabin systems",
               "theoryHours": 18,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 3
             },
             {
               "code": "13.22",
               "name": "Information systems",
               "theoryHours": 18,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "levelB2": 3
             }
           ]
         },
@@ -3238,19 +3315,22 @@
               "code": "14.1",
               "name": "Turbine engine fundamentals",
               "theoryHours": 20,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 1
             },
             {
               "code": "14.2",
               "name": "Engine systems and components",
               "theoryHours": 30,
-              "practicalHours": 15
+              "practicalHours": 15,
+              "levelB2": 2
             },
             {
               "code": "14.3",
               "name": "Engine monitoring and ground operation",
               "theoryHours": 15,
-              "practicalHours": 5
+              "practicalHours": 5,
+              "levelB2": 2
             },
             {
               "code": "14.4",
