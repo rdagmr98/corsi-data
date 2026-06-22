@@ -417,7 +417,34 @@
                 "Guided weapon aerodynamics and flight controls",
                 "Storage, de-stocking and ammunitions assembly"
               ],
-              "level": 1
+              "level": 1,
+              "practicalTasks": [
+                {
+                  "id": 179,
+                  "name": "Assemblaggio razzi",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 180,
+                  "name": "Disassemblaggio razzi",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 181,
+                  "name": "Caricamento magazzino Flares/Chaff",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 182,
+                  "name": "Scaricamento magazzino Flares/Chaff",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 183,
+                  "name": "Stray voltage test",
+                  "plannedHours": 1
+                }
+              ]
             }
           ]
         },
@@ -441,7 +468,39 @@
                 "Gunner",
                 "Weapon control, designating and acquiring a target"
               ],
-              "level": 3
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 184,
+                  "name": "Installazione supporto universale per sistema d'arma",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 185,
+                  "name": "Installazione \"kit installazione\" sistema d'arma",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 186,
+                  "name": "Rimozione \"kit installazione\" sistema d'arma",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 187,
+                  "name": "Rimozione supporto universale per sistema d'arma",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 188,
+                  "name": "Allineamento congegno di puntamento e sistema d'arma",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 189,
+                  "name": "Messa in fase dell'assieme arma",
+                  "plannedHours": 1
+                }
+              ]
             }
           ]
         },
@@ -468,7 +527,19 @@
                 "Magnetic sensors",
                 "Sonar sensors (active and passive)"
               ],
-              "level": 3
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 190,
+                  "name": "Eseguire una prova funzionale del \"WEATHER RADAR\"",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 191,
+                  "name": "Eseguire una prova funzionale del sistema IFF installato a bordo degli aeromobili",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "53.2",
@@ -480,7 +551,14 @@
                 "Specificities of aerial photography",
                 "Cameras"
               ],
-              "level": 2
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 192,
+                  "name": "Rimuovere e installare il pannello del Sistema di videoregistrazione (VCTR)",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "53.3",
@@ -494,7 +572,14 @@
                 "Infrared and Laser systems",
                 "Electromagnetic countermeasures"
               ],
-              "level": 3
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 193,
+                  "name": "Eseguire un FL-AGE test su un aeromobile dotato di sistema di autoprotezione",
+                  "plannedHours": 4
+                }
+              ]
             }
           ]
         },
@@ -517,7 +602,49 @@
                 "Global survival kits",
                 "Impact protection"
               ],
-              "level": 2
+              "level": 2,
+              "practicalTasks": [
+                {
+                  "id": 194,
+                  "name": "Rimuovere porte piloti tramite lo sgancio di emergenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 195,
+                  "name": "Rimontare porte piloti dotate di sgancio di emergenza",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 196,
+                  "name": "Rimuovere i trasparenti delle porte di carico scorrevole tramite lo sgancio di emergenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 197,
+                  "name": "Rimontare i trasparenti delle porte di carico scorrevole dotate di sgancio di emergenza",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 198,
+                  "name": "Identificazione alloggiamenti del cordone esplosivo",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 199,
+                  "name": "Identificazione della miccia detonante",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 200,
+                  "name": "Identificazione della guaina di trasferimento",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 201,
+                  "name": "Identificazione della connessione a sei vie del Sistema esplosivo di uscita di emergenza",
+                  "plannedHours": 1
+                }
+              ]
             }
           ]
         },
@@ -541,7 +668,34 @@
                 "Data link systems",
                 "Communications management"
               ],
-              "level": 3
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 202,
+                  "name": "Eseguire una prova di collegamento tra \"Tactical Communication Systems\"",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 203,
+                  "name": "Rimozione pannello di comando impianto VHF/AM",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 204,
+                  "name": "Istallazione pannello di comando impianto VHF/AM",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 205,
+                  "name": "Rimozione ricetrasmettitore e amplificatore di potenza",
+                  "plannedHours": 1
+                },
+                {
+                  "id": 206,
+                  "name": "Istallazione ricetrasmettitore e amplificatore di potenza",
+                  "plannedHours": 1
+                }
+              ]
             }
           ]
         }
