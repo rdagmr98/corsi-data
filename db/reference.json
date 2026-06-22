@@ -3728,158 +3728,384 @@
           "number": 13,
           "name": "Aircraft Aerodynamics, Structures and Systems",
           "theoryHours": 460,
-          "practicalHours": 174,
+          "practicalHours": 179,
           "examQuestions": 0,
           "examMinutes": 0,
           "submodules": [
             {
               "code": "13.1",
-              "name": "Theory of flight",
+              "name": "Theory of Flight",
               "theoryHours": 20,
-              "practicalHours": 10,
+              "practicalHours": 0,
               "level": 1
             },
             {
               "code": "13.2",
-              "name": "Airframe structures",
+              "name": "Structures - General Concept",
               "theoryHours": 11,
-              "practicalHours": 15,
+              "practicalHours": 0,
               "level": 2
             },
             {
               "code": "13.3",
-              "name": "Air conditioning and pressurisation",
+              "name": "Autoflight (System 22)",
               "theoryHours": 30,
-              "practicalHours": 10,
-              "level": 3
+              "practicalHours": 8,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 250,
+                  "name": "Rimozione e reinstallazione pannello Helipilot API (indicatore posizione attuatore)",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 251,
+                  "name": "Rimozione e reinstallazione selettore modalita e pannelli comando Helipilot",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 252,
+                  "name": "Rimozione e reinstallazione giroscopio verticale Helipilot",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 253,
+                  "name": "Rimozione e reinstallazione sensore velocita aria Helipilot",
+                  "plannedHours": 2
+                }
+              ]
             },
             {
               "code": "13.4",
-              "name": "Avionics",
+              "name": "Communication/Navigation (System 23/34)",
               "theoryHours": 50,
-              "practicalHours": 20,
-              "level": 3
+              "practicalHours": 10,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 254,
+                  "name": "Rimozione e reinstallazione unita ricetrasmittente sistema comunicazione HF (alta frequenza)",
+                  "plannedHours": 4
+                },
+                {
+                  "id": 255,
+                  "name": "Rimozione e reinstallazione unita ricetrasmittente sistema comunicazione VHF (altissima frequenza)",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 256,
+                  "name": "Rimozione e reinstallazione unita ricevitore ADF (radiogoniometro automatico)",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "13.5",
-              "name": "Electrical power",
+              "name": "Electrical Power (System 24)",
               "theoryHours": 25,
-              "practicalHours": 15,
-              "level": 3
+              "practicalHours": 38,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 257,
+                  "name": "Sostituzione di un interruttore di protezione circuito (breaker)",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 258,
+                  "name": "Installazione batterie",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 259,
+                  "name": "Verifica batterie",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 260,
+                  "name": "Regolazione tensione in corrente continua (DC)",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 261,
+                  "name": "Rimozione e reinstallazione centralina di controllo DC",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 262,
+                  "name": "Regolazione tensione in corrente alternata (AC)",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 263,
+                  "name": "Collegamento alimentazione esterna/a terra",
+                  "plannedHours": 2
+                },
+                {
+                  "id": 264,
+                  "name": "Rimozione e reinstallazione starter generator",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 265,
+                  "name": "Rimozione e reinstallazione inverter",
+                  "plannedHours": 5
+                }
+              ]
             },
             {
               "code": "13.6",
-              "name": "Equipment and furnishings",
+              "name": "Equipment and Furnishings (System 25)",
               "theoryHours": 10,
-              "practicalHours": 5,
+              "practicalHours": 0,
               "level": 3
             },
             {
               "code": "13.7",
-              "name": "Fire protection",
+              "name": "Flight Controls (System 27)",
               "theoryHours": 22,
-              "practicalHours": 5,
+              "practicalHours": 0,
               "level": 3
             },
             {
               "code": "13.8",
-              "name": "Flight controls",
+              "name": "Instruments (System 31)",
               "theoryHours": 60,
-              "practicalHours": 10,
-              "level": 3
+              "practicalHours": 55,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 266,
+                  "name": "Rimozione e reinstallazione strumenti altimetro",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 267,
+                  "name": "Rimozione e reinstallazione indicatore di velocita verticale",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 268,
+                  "name": "Rimozione e reinstallazione indicatore di velocita anemometrica",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 269,
+                  "name": "Rimozione e reinstallazione indicatore temperatura olio trasmissione",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 270,
+                  "name": "Rimozione e reinstallazione bulbo termoresistivo",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 271,
+                  "name": "Rimozione e reinstallazione indicatore quantita carburante",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 272,
+                  "name": "Rimozione e reinstallazione H.S.I. (indicatore di situazione orizzontale)",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 273,
+                  "name": "Rimozione e reinstallazione A.D.I. (indicatore direzionale di assetto)",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 274,
+                  "name": "Rimozione e reinstallazione giroscopi direzionali",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 275,
+                  "name": "Rimozione e reinstallazione flux valve",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 276,
+                  "name": "Rimozione e reinstallazione pannello avvisi",
+                  "plannedHours": 5
+                }
+              ]
             },
             {
               "code": "13.9",
-              "name": "Fuel systems",
+              "name": "Lights (System 33)",
               "theoryHours": 10,
-              "practicalHours": 10,
-              "level": 3
+              "practicalHours": 25,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 277,
+                  "name": "Sostituzione lampade luci cockpit",
+                  "plannedHours": 3
+                },
+                {
+                  "id": 278,
+                  "name": "Sostituzione lampade luci interne",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 279,
+                  "name": "Sostituzione lampade luci esterne",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 280,
+                  "name": "Rimozione e reinstallazione faro di atterraggio",
+                  "plannedHours": 6
+                },
+                {
+                  "id": 281,
+                  "name": "Rimozione e reinstallazione faro di ricerca",
+                  "plannedHours": 6
+                }
+              ]
             },
             {
               "code": "13.10",
-              "name": "Hydraulic power",
+              "name": "On Board Maintenance Systems (System 45)",
               "theoryHours": 20,
-              "practicalHours": 10,
+              "practicalHours": 0,
               "level": 3
             },
             {
               "code": "13.11",
-              "name": "Ice and rain protection",
+              "name": "Air Conditioning and Cabin Pressurisation (System 21)",
               "theoryHours": 42,
-              "practicalHours": 5,
-              "level": 3
+              "practicalHours": 3,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 282,
+                  "name": "Identificazione componenti principali sistema riscaldamento e ventilazione",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "13.12",
-              "name": "Landing gear",
+              "name": "Fire Protection (System 26)",
               "theoryHours": 17,
-              "practicalHours": 5,
-              "level": 3
+              "practicalHours": 8,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 283,
+                  "name": "Identificazione componenti principali sistema antincendio",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 284,
+                  "name": "Verifica sensore rilevazione incendio",
+                  "plannedHours": 3
+                }
+              ]
             },
             {
               "code": "13.13",
-              "name": "Lights",
+              "name": "Fuel Systems (System 28)",
               "theoryHours": 20,
-              "practicalHours": 5,
-              "level": 3
+              "practicalHours": 10,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 285,
+                  "name": "Identificazione componenti principali sistema carburante bassa pressione",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 286,
+                  "name": "Rimozione e reinstallazione pannello selezione quantita carburante",
+                  "plannedHours": 5
+                }
+              ]
             },
             {
               "code": "13.14",
-              "name": "Navigation",
+              "name": "Hydraulic Power (System 29)",
               "theoryHours": 20,
-              "practicalHours": 20,
-              "level": 3
+              "practicalHours": 11,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 287,
+                  "name": "Identificazione componenti principali sistema idraulico",
+                  "plannedHours": 5
+                },
+                {
+                  "id": 288,
+                  "name": "Rimozione e reinstallazione trasmettitore pressione idraulica",
+                  "plannedHours": 6
+                }
+              ]
             },
             {
               "code": "13.15",
-              "name": "Oxygen systems",
+              "name": "Ice and Rain Protection (System 30)",
               "theoryHours": 12,
-              "practicalHours": 5,
-              "level": 3
+              "practicalHours": 11,
+              "level": 3,
+              "practicalTasks": [
+                {
+                  "id": 289,
+                  "name": "Rimozione e reinstallazione motore tergicristalli",
+                  "plannedHours": 6
+                },
+                {
+                  "id": 290,
+                  "name": "Rimozione e reinstallazione pannello controllo tergicristalli",
+                  "plannedHours": 5
+                }
+              ]
             },
             {
               "code": "13.16",
-              "name": "Pneumatic/vacuum systems",
+              "name": "Landing Gear (System 32)",
               "theoryHours": 18,
-              "practicalHours": 5,
+              "practicalHours": 0,
               "level": 3
             },
             {
               "code": "13.17",
-              "name": "Communication/Recording systems",
+              "name": "Oxygen (System 35)",
               "theoryHours": 10,
-              "practicalHours": 19,
+              "practicalHours": 0,
               "level": 3
             },
             {
               "code": "13.18",
-              "name": "Emergency equipment",
+              "name": "Pneumatic/Vacuum (System 36)",
               "theoryHours": 9,
-              "practicalHours": 0
+              "practicalHours": 0,
+              "level": 3
             },
             {
               "code": "13.19",
-              "name": "Oxygen systems",
+              "name": "Water/Waste (System 38)",
               "theoryHours": 0,
               "practicalHours": 0
             },
             {
               "code": "13.20",
-              "name": "Onboard maintenance systems",
+              "name": "Integrated Modular Avionics (System 42)",
               "theoryHours": 18,
               "practicalHours": 0,
               "level": 3
             },
             {
               "code": "13.21",
-              "name": "Cabin systems",
+              "name": "Cabin Systems (System 44)",
               "theoryHours": 18,
               "practicalHours": 0,
               "level": 3
             },
             {
               "code": "13.22",
-              "name": "Information systems",
+              "name": "Information Systems (System 46)",
               "theoryHours": 18,
               "practicalHours": 0,
               "level": 3
