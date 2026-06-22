@@ -265,7 +265,7 @@
               "name": "Essential principles of Armament",
               "theoryHours": 15,
               "practicalHours": 5,
-              "levelB2": 2,
+              "levelB2": 1,
               "topics": [
                 "Propellants and explosives",
                 "Pyrotechnics including Flares",
@@ -321,7 +321,7 @@
               "name": "Surveillance (System 93)",
               "theoryHours": 10,
               "practicalHours": 4,
-              "levelB2": 2,
+              "levelB2": 3,
               "topics": [
                 "Data processing",
                 "Data display",
@@ -336,7 +336,7 @@
             {
               "code": "53.2",
               "name": "Image recording (System 97)",
-              "theoryHours": 6,
+              "theoryHours": 5,
               "practicalHours": 2,
               "levelB2": 2,
               "topics": [
@@ -348,9 +348,9 @@
             {
               "code": "53.3",
               "name": "Electronic warfare (System 99)",
-              "theoryHours": 9,
+              "theoryHours": 10,
               "practicalHours": 4,
-              "levelB2": 2,
+              "levelB2": 3,
               "topics": [
                 "Active electromagnetic",
                 "Passive electromagnetic",
@@ -374,7 +374,7 @@
               "name": "Crew escape and safety (System 95)",
               "theoryHours": 14,
               "practicalHours": 10,
-              "levelB2": 3,
+              "levelB2": 2,
               "topics": [
                 "Ejection seats",
                 "Escape hatches/canopy, Miniature Detonating Cord (MDC)",
@@ -397,7 +397,7 @@
               "name": "Military Communication Systems",
               "theoryHours": 16,
               "practicalHours": 5,
-              "levelB2": 2,
+              "levelB2": 3,
               "topics": [
                 "Military VHF/UHF radio",
                 "Secure communications",
