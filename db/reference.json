@@ -1377,6 +1377,525 @@
             }
           ]
         }
+      ],
+      "vfiCombinations": [
+        {
+          "id": "v1",
+          "inputLicense": "B1.1+B1.2+B2",
+          "outputLicense": "B1+B2 MIL",
+          "weeks": 12,
+          "moduleHours": [
+            {
+              "number": 7,
+              "theoryHours": 11,
+              "practicalHours": 0
+            },
+            {
+              "number": 9,
+              "theoryHours": 22,
+              "practicalHours": 0
+            },
+            {
+              "number": 10,
+              "theoryHours": 28,
+              "practicalHours": 0
+            },
+            {
+              "number": 11,
+              "theoryHours": 7,
+              "practicalHours": 0
+            },
+            {
+              "number": 12,
+              "theoryHours": 89,
+              "practicalHours": 0
+            },
+            {
+              "number": 13,
+              "theoryHours": 2,
+              "practicalHours": 0
+            },
+            {
+              "number": 50,
+              "theoryHours": 15,
+              "practicalHours": 5
+            },
+            {
+              "number": 51,
+              "theoryHours": 20,
+              "practicalHours": 10
+            },
+            {
+              "number": 53,
+              "theoryHours": 25,
+              "practicalHours": 10
+            },
+            {
+              "number": 54,
+              "theoryHours": 40,
+              "practicalHours": 15
+            },
+            {
+              "number": 55,
+              "theoryHours": 16,
+              "practicalHours": 5
+            }
+          ]
+        },
+        {
+          "id": "v2",
+          "inputLicense": "B1.1+B2",
+          "outputLicense": "B1.1+B1.3+B2 MIL",
+          "weeks": 12,
+          "moduleHours": [
+            {
+              "number": 7,
+              "theoryHours": 11,
+              "practicalHours": 0
+            },
+            {
+              "number": 9,
+              "theoryHours": 22,
+              "practicalHours": 0
+            },
+            {
+              "number": 10,
+              "theoryHours": 28,
+              "practicalHours": 0
+            },
+            {
+              "number": 11,
+              "theoryHours": 7,
+              "practicalHours": 0
+            },
+            {
+              "number": 12,
+              "theoryHours": 89,
+              "practicalHours": 0
+            },
+            {
+              "number": 13,
+              "theoryHours": 2,
+              "practicalHours": 0
+            },
+            {
+              "number": 50,
+              "theoryHours": 15,
+              "practicalHours": 5
+            },
+            {
+              "number": 51,
+              "theoryHours": 20,
+              "practicalHours": 10
+            },
+            {
+              "number": 53,
+              "theoryHours": 25,
+              "practicalHours": 10
+            },
+            {
+              "number": 54,
+              "theoryHours": 40,
+              "practicalHours": 15
+            },
+            {
+              "number": 55,
+              "theoryHours": 16,
+              "practicalHours": 5
+            }
+          ]
+        },
+        {
+          "id": "v3",
+          "inputLicense": "B1.1+B1.2",
+          "outputLicense": "B1 MIL",
+          "weeks": 11,
+          "moduleHours": [
+            {
+              "number": 7,
+              "theoryHours": 11,
+              "practicalHours": 0
+            },
+            {
+              "number": 9,
+              "theoryHours": 22,
+              "practicalHours": 0
+            },
+            {
+              "number": 10,
+              "theoryHours": 28,
+              "practicalHours": 0
+            },
+            {
+              "number": 11,
+              "theoryHours": 7,
+              "practicalHours": 0
+            },
+            {
+              "number": 12,
+              "theoryHours": 89,
+              "practicalHours": 0
+            },
+            {
+              "number": 50,
+              "theoryHours": 15,
+              "practicalHours": 5
+            },
+            {
+              "number": 51,
+              "theoryHours": 20,
+              "practicalHours": 10
+            },
+            {
+              "number": 53,
+              "theoryHours": 25,
+              "practicalHours": 10
+            },
+            {
+              "number": 54,
+              "theoryHours": 40,
+              "practicalHours": 15
+            }
+          ]
+        },
+        {
+          "id": "v4",
+          "inputLicense": "B1.1",
+          "outputLicense": "B1.1+B1.3 MIL",
+          "weeks": 11,
+          "moduleHours": [
+            {
+              "number": 7,
+              "theoryHours": 11,
+              "practicalHours": 0
+            },
+            {
+              "number": 9,
+              "theoryHours": 22,
+              "practicalHours": 0
+            },
+            {
+              "number": 10,
+              "theoryHours": 28,
+              "practicalHours": 0
+            },
+            {
+              "number": 11,
+              "theoryHours": 7,
+              "practicalHours": 0
+            },
+            {
+              "number": 12,
+              "theoryHours": 89,
+              "practicalHours": 0
+            },
+            {
+              "number": 50,
+              "theoryHours": 15,
+              "practicalHours": 5
+            },
+            {
+              "number": 51,
+              "theoryHours": 20,
+              "practicalHours": 10
+            },
+            {
+              "number": 53,
+              "theoryHours": 25,
+              "practicalHours": 10
+            },
+            {
+              "number": 54,
+              "theoryHours": 40,
+              "practicalHours": 15
+            }
+          ]
+        },
+        {
+          "id": "v5",
+          "inputLicense": "B1+B2",
+          "outputLicense": "B1+B2 MIL",
+          "weeks": 9,
+          "moduleHours": [
+            {
+              "number": 7,
+              "theoryHours": 11,
+              "practicalHours": 0
+            },
+            {
+              "number": 9,
+              "theoryHours": 22,
+              "practicalHours": 0
+            },
+            {
+              "number": 10,
+              "theoryHours": 28,
+              "practicalHours": 0
+            },
+            {
+              "number": 11,
+              "theoryHours": 7,
+              "practicalHours": 0
+            },
+            {
+              "number": 12,
+              "theoryHours": 1,
+              "practicalHours": 0
+            },
+            {
+              "number": 13,
+              "theoryHours": 2,
+              "practicalHours": 0
+            },
+            {
+              "number": 50,
+              "theoryHours": 15,
+              "practicalHours": 5
+            },
+            {
+              "number": 51,
+              "theoryHours": 20,
+              "practicalHours": 10
+            },
+            {
+              "number": 53,
+              "theoryHours": 25,
+              "practicalHours": 10
+            },
+            {
+              "number": 54,
+              "theoryHours": 40,
+              "practicalHours": 15
+            },
+            {
+              "number": 55,
+              "theoryHours": 16,
+              "practicalHours": 5
+            }
+          ]
+        },
+        {
+          "id": "v6",
+          "inputLicense": "B1.1+B1.2+B1.3+B2",
+          "outputLicense": "B1+B2 MIL",
+          "weeks": 9,
+          "moduleHours": [
+            {
+              "number": 7,
+              "theoryHours": 11,
+              "practicalHours": 0
+            },
+            {
+              "number": 9,
+              "theoryHours": 22,
+              "practicalHours": 0
+            },
+            {
+              "number": 10,
+              "theoryHours": 28,
+              "practicalHours": 0
+            },
+            {
+              "number": 11,
+              "theoryHours": 7,
+              "practicalHours": 0
+            },
+            {
+              "number": 12,
+              "theoryHours": 1,
+              "practicalHours": 0
+            },
+            {
+              "number": 13,
+              "theoryHours": 2,
+              "practicalHours": 0
+            },
+            {
+              "number": 50,
+              "theoryHours": 15,
+              "practicalHours": 5
+            },
+            {
+              "number": 51,
+              "theoryHours": 20,
+              "practicalHours": 10
+            },
+            {
+              "number": 53,
+              "theoryHours": 25,
+              "practicalHours": 10
+            },
+            {
+              "number": 54,
+              "theoryHours": 40,
+              "practicalHours": 15
+            },
+            {
+              "number": 55,
+              "theoryHours": 16,
+              "practicalHours": 5
+            }
+          ]
+        },
+        {
+          "id": "v7",
+          "inputLicense": "B2",
+          "outputLicense": "B2 MIL",
+          "weeks": 9,
+          "moduleHours": [
+            {
+              "number": 7,
+              "theoryHours": 11,
+              "practicalHours": 0
+            },
+            {
+              "number": 9,
+              "theoryHours": 22,
+              "practicalHours": 0
+            },
+            {
+              "number": 10,
+              "theoryHours": 28,
+              "practicalHours": 0
+            },
+            {
+              "number": 13,
+              "theoryHours": 5,
+              "practicalHours": 0
+            },
+            {
+              "number": 50,
+              "theoryHours": 15,
+              "practicalHours": 5
+            },
+            {
+              "number": 51,
+              "theoryHours": 20,
+              "practicalHours": 10
+            },
+            {
+              "number": 53,
+              "theoryHours": 25,
+              "practicalHours": 10
+            },
+            {
+              "number": 54,
+              "theoryHours": 40,
+              "practicalHours": 15
+            },
+            {
+              "number": 55,
+              "theoryHours": 16,
+              "practicalHours": 5
+            }
+          ]
+        },
+        {
+          "id": "v8",
+          "inputLicense": "B1.1+B1.2+B1.3",
+          "outputLicense": "B1 MIL",
+          "weeks": 8,
+          "moduleHours": [
+            {
+              "number": 7,
+              "theoryHours": 11,
+              "practicalHours": 0
+            },
+            {
+              "number": 9,
+              "theoryHours": 22,
+              "practicalHours": 0
+            },
+            {
+              "number": 10,
+              "theoryHours": 28,
+              "practicalHours": 0
+            },
+            {
+              "number": 11,
+              "theoryHours": 7,
+              "practicalHours": 0
+            },
+            {
+              "number": 12,
+              "theoryHours": 1,
+              "practicalHours": 0
+            },
+            {
+              "number": 50,
+              "theoryHours": 15,
+              "practicalHours": 5
+            },
+            {
+              "number": 51,
+              "theoryHours": 20,
+              "practicalHours": 10
+            },
+            {
+              "number": 53,
+              "theoryHours": 25,
+              "practicalHours": 10
+            },
+            {
+              "number": 54,
+              "theoryHours": 40,
+              "practicalHours": 15
+            }
+          ]
+        },
+        {
+          "id": "v9",
+          "inputLicense": "B1",
+          "outputLicense": "B1 MIL",
+          "weeks": 8,
+          "moduleHours": [
+            {
+              "number": 7,
+              "theoryHours": 11,
+              "practicalHours": 0
+            },
+            {
+              "number": 9,
+              "theoryHours": 22,
+              "practicalHours": 0
+            },
+            {
+              "number": 10,
+              "theoryHours": 28,
+              "practicalHours": 0
+            },
+            {
+              "number": 11,
+              "theoryHours": 7,
+              "practicalHours": 0
+            },
+            {
+              "number": 12,
+              "theoryHours": 1,
+              "practicalHours": 0
+            },
+            {
+              "number": 50,
+              "theoryHours": 15,
+              "practicalHours": 5
+            },
+            {
+              "number": 51,
+              "theoryHours": 20,
+              "practicalHours": 10
+            },
+            {
+              "number": 53,
+              "theoryHours": 25,
+              "practicalHours": 10
+            },
+            {
+              "number": 54,
+              "theoryHours": 40,
+              "practicalHours": 15
+            }
+          ]
+        }
       ]
     },
     {
