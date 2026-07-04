@@ -91,27 +91,32 @@
                 {
                   "id": 154,
                   "name": "Assemblaggio razzi",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 1
                 },
                 {
                   "id": 155,
                   "name": "Disasseblaggio razzi",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 2
                 },
                 {
                   "id": 156,
                   "name": "Caricamento magazzino Flares/Chaff",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 3
                 },
                 {
                   "id": 157,
                   "name": "Scaricamento magazzino Flares/Chaff",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 4
                 },
                 {
                   "id": 158,
                   "name": "Stray voltage test",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 5
                 }
               ],
               "level": 1
@@ -142,32 +147,38 @@
                 {
                   "id": 159,
                   "name": "Installazione supporto universale per sistema d'arma",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 6
                 },
                 {
                   "id": 160,
                   "name": "Installazione \"kit installazione\" sistema d'arma",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 7
                 },
                 {
                   "id": 161,
                   "name": "Rimozione \"kit installazione\" sistema d'arma",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 8
                 },
                 {
                   "id": 162,
                   "name": "Rimozione supporto universale per sistema d'arma",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 9
                 },
                 {
                   "id": 163,
                   "name": "Allineamento congegno di puntamento e sistema d'arma",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 10
                 },
                 {
                   "id": 164,
                   "name": "Messa in fase dell'assieme arma",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 11
                 }
               ],
               "level": 3
@@ -201,12 +212,14 @@
                 {
                   "id": 165,
                   "name": "Rimuovere e installare il pannello di comando del \"WEATHER RADAR\"",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 12
                 },
                 {
                   "id": 166,
                   "name": "Rimuovere e installare sistema IFF e criptocomputer",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 13
                 }
               ],
               "level": 2
@@ -225,7 +238,8 @@
                 {
                   "id": 167,
                   "name": "Rimuovere e installare il pannello del Sistema di videoregistrazione (VCTR)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 14
                 }
               ],
               "level": 2
@@ -246,7 +260,8 @@
                 {
                   "id": 168,
                   "name": "Rimuovere e installare lanciatori chaff e flare del sistema di autoprotezione",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 15
                 }
               ],
               "level": 2
@@ -276,52 +291,62 @@
                 {
                   "id": 169,
                   "name": "Rimuovere porte piloti tramite lo sgancio di emergenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 16
                 },
                 {
                   "id": 170,
                   "name": "Rimontare porte piloti dotate di sgancio di emergenza",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 17
                 },
                 {
                   "id": 171,
                   "name": "Effettuare frenatura alla maniglia di sgancio per una porta dotata di sgancio di emergenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 18
                 },
                 {
                   "id": 172,
                   "name": "Rimuovere i trasparenti delle porte di carico scorrevole tramite lo sgancio di emergenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 19
                 },
                 {
                   "id": 173,
                   "name": "Rimontare i trasparenti delle porte di carico scorrevole dotate di sgancio di emergenza",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 20
                 },
                 {
                   "id": 174,
                   "name": "Identificazione alloggiamenti del cordone esplosivo",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 21
                 },
                 {
                   "id": 175,
                   "name": "Identificazione della miccia detonante",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 22
                 },
                 {
                   "id": 176,
                   "name": "Identificazione della guaina di trasferimento",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 23
                 },
                 {
                   "id": 177,
                   "name": "Identificazione della connessione a sei vie del Sistema esplosivo di uscita",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 24
                 },
                 {
                   "id": 178,
                   "name": "Prova funzionale dei galleggianti di emergenza",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 25
                 }
               ],
               "level": 3
@@ -422,27 +447,32 @@
                 {
                   "id": 179,
                   "name": "Assemblaggio razzi",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 1
                 },
                 {
                   "id": 180,
                   "name": "Disassemblaggio razzi",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 2
                 },
                 {
                   "id": 181,
                   "name": "Caricamento magazzino Flares/Chaff",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 3
                 },
                 {
                   "id": 182,
                   "name": "Scaricamento magazzino Flares/Chaff",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 4
                 },
                 {
                   "id": 183,
                   "name": "Stray voltage test",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 5
                 }
               ]
             }
@@ -473,32 +503,38 @@
                 {
                   "id": 184,
                   "name": "Installazione supporto universale per sistema d'arma",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 6
                 },
                 {
                   "id": 185,
                   "name": "Installazione \"kit installazione\" sistema d'arma",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 7
                 },
                 {
                   "id": 186,
                   "name": "Rimozione \"kit installazione\" sistema d'arma",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 8
                 },
                 {
                   "id": 187,
                   "name": "Rimozione supporto universale per sistema d'arma",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 9
                 },
                 {
                   "id": 188,
                   "name": "Allineamento congegno di puntamento e sistema d'arma",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 10
                 },
                 {
                   "id": 189,
                   "name": "Messa in fase dell'assieme arma",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 11
                 }
               ]
             }
@@ -532,12 +568,14 @@
                 {
                   "id": 190,
                   "name": "Eseguire una prova funzionale del \"WEATHER RADAR\"",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 12
                 },
                 {
                   "id": 191,
                   "name": "Eseguire una prova funzionale del sistema IFF installato a bordo degli aeromobili",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 13
                 }
               ]
             },
@@ -556,7 +594,8 @@
                 {
                   "id": 192,
                   "name": "Rimuovere e installare il pannello del Sistema di videoregistrazione (VCTR)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 14
                 }
               ]
             },
@@ -577,7 +616,8 @@
                 {
                   "id": 193,
                   "name": "Eseguire un FL-AGE test su un aeromobile dotato di sistema di autoprotezione",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 15
                 }
               ]
             }
@@ -607,42 +647,50 @@
                 {
                   "id": 194,
                   "name": "Rimuovere porte piloti tramite lo sgancio di emergenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 16
                 },
                 {
                   "id": 195,
                   "name": "Rimontare porte piloti dotate di sgancio di emergenza",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 17
                 },
                 {
                   "id": 196,
                   "name": "Rimuovere i trasparenti delle porte di carico scorrevole tramite lo sgancio di emergenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 18
                 },
                 {
                   "id": 197,
                   "name": "Rimontare i trasparenti delle porte di carico scorrevole dotate di sgancio di emergenza",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 19
                 },
                 {
                   "id": 198,
                   "name": "Identificazione alloggiamenti del cordone esplosivo",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 20
                 },
                 {
                   "id": 199,
                   "name": "Identificazione della miccia detonante",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 21
                 },
                 {
                   "id": 200,
                   "name": "Identificazione della guaina di trasferimento",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 22
                 },
                 {
                   "id": 201,
                   "name": "Identificazione della connessione a sei vie del Sistema esplosivo di uscita di emergenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 23
                 }
               ]
             }
@@ -673,27 +721,32 @@
                 {
                   "id": 202,
                   "name": "Eseguire una prova di collegamento tra \"Tactical Communication Systems\"",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 24
                 },
                 {
                   "id": 203,
                   "name": "Rimozione pannello di comando impianto VHF/AM",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 25
                 },
                 {
                   "id": 204,
                   "name": "Istallazione pannello di comando impianto VHF/AM",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 26
                 },
                 {
                   "id": 205,
                   "name": "Rimozione ricetrasmettitore e amplificatore di potenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 27
                 },
                 {
                   "id": 206,
                   "name": "Istallazione ricetrasmettitore e amplificatore di potenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 28
                 }
               ]
             }
@@ -1077,27 +1130,32 @@
                 {
                   "id": 291,
                   "name": "Assemblaggio razzi",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 1
                 },
                 {
                   "id": 292,
                   "name": "Disasseblaggio razzi",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 2
                 },
                 {
                   "id": 293,
                   "name": "Caricamento magazzino Flares/Chaff",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 3
                 },
                 {
                   "id": 294,
                   "name": "Scaricamento magazzino Flares/Chaff",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 4
                 },
                 {
                   "id": 295,
                   "name": "Stray voltage test",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 5
                 }
               ],
               "level": 1
@@ -1128,32 +1186,38 @@
                 {
                   "id": 296,
                   "name": "Installazione supporto universale per sistema d'arma",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 6
                 },
                 {
                   "id": 297,
                   "name": "Installazione \"kit installazione\" sistema d'arma",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 7
                 },
                 {
                   "id": 298,
                   "name": "Rimozione \"kit installazione\" sistema d'arma",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 8
                 },
                 {
                   "id": 299,
                   "name": "Rimozione supporto universale per sistema d'arma",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 9
                 },
                 {
                   "id": 300,
                   "name": "Allineamento congegno di puntamento e sistema d'arma",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 10
                 },
                 {
                   "id": 301,
                   "name": "Messa in fase dell'assieme arma",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 11
                 }
               ],
               "level": 3
@@ -1187,22 +1251,26 @@
                 {
                   "id": 302,
                   "name": "Rimuovere e installare il pannello di comando del \"WEATHER RADAR\"",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 12
                 },
                 {
                   "id": 303,
                   "name": "Eseguire una prova funzionale del \"WEATHER RADAR\"",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 13
                 },
                 {
                   "id": 304,
                   "name": "Rimuovere e installare sistema IFF e criptocomputer",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 14
                 },
                 {
                   "id": 305,
                   "name": "Eseguire una prova funzionale del sistema IFF installato a bordo degli aeromobili",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 15
                 }
               ],
               "level": 3
@@ -1221,7 +1289,8 @@
                 {
                   "id": 306,
                   "name": "Rimuovere e installare il pannello del Sistema di videoregistrazione (VCTR)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 16
                 }
               ],
               "level": 2
@@ -1242,12 +1311,14 @@
                 {
                   "id": 307,
                   "name": "Rimuovere e installare lanciatori chaff e flare del sistema di autoprotezione",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 17
                 },
                 {
                   "id": 308,
                   "name": "Eseguire un FL-AGE test su un aeromobile dotato di sistema di autoprotezione",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 18
                 }
               ],
               "level": 3
@@ -1277,52 +1348,62 @@
                 {
                   "id": 309,
                   "name": "Rimuovere porte piloti tramite lo sgancio di emergenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 19
                 },
                 {
                   "id": 310,
                   "name": "Rimontare porte piloti dotate di sgancio di emergenza",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 20
                 },
                 {
                   "id": 311,
                   "name": "Effettuare frenatura alla maniglia di sgancio per una porta dotata di sgancio di emergenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 21
                 },
                 {
                   "id": 312,
                   "name": "Rimuovere i trasparenti delle porte di carico scorrevole tramite lo sgancio di emergenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 22
                 },
                 {
                   "id": 313,
                   "name": "Rimontare i trasparenti delle porte di carico scorrevole dotate di sgancio di emergenza",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 23
                 },
                 {
                   "id": 314,
                   "name": "Identificazione alloggiamenti del cordone esplosivo",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 24
                 },
                 {
                   "id": 315,
                   "name": "Identificazione della miccia detonante",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 25
                 },
                 {
                   "id": 316,
                   "name": "Identificazione della guaina di trasferimento",
-                  "plannedHours": 1.5
+                  "plannedHours": 1.5,
+                  "programTaskId": 26
                 },
                 {
                   "id": 317,
                   "name": "Identificazione della connessione a sei vie del Sistema esplosivo di uscita di emergenza",
-                  "plannedHours": 1.5
+                  "plannedHours": 1.5,
+                  "programTaskId": 27
                 },
                 {
                   "id": 318,
                   "name": "Prova funzionale dei galleggianti di emergenza",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 28
                 }
               ],
               "level": 3
@@ -1350,27 +1431,32 @@
                 {
                   "id": 319,
                   "name": "Eseguire una prova di collegamento tra \"Tactical Communication Systems\"",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 29
                 },
                 {
                   "id": 320,
                   "name": "Rimozione pannello di comando impianto VHF/AM",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 30
                 },
                 {
                   "id": 321,
                   "name": "Istallazione pannello di comando impianto VHF/AM",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 31
                 },
                 {
                   "id": 322,
                   "name": "Rimozione ricetrasmettitore e amplificatore di potenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 32
                 },
                 {
                   "id": 323,
                   "name": "Istallazione ricetrasmettitore e amplificatore di potenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 33
                 }
               ],
               "level": 3
@@ -2080,17 +2166,20 @@
                 {
                   "id": 1,
                   "name": "Practical demonstration of various component of Ni-Cd battery cells and their series connection",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 1
                 },
                 {
                   "id": 2,
                   "name": "Measurement of Ni-Cd battery efficiency",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 2
                 },
                 {
                   "id": 3,
                   "name": "Practical demonstration of Ni-Cd battery parallel connection",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 3
                 }
               ],
               "level": 2
@@ -2104,7 +2193,8 @@
                 {
                   "id": 4,
                   "name": "Kirchhoff's law: practical demonstration",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 4
                 }
               ],
               "level": 2
@@ -2118,12 +2208,14 @@
                 {
                   "id": 5,
                   "name": "Wheatstone's bridge: practical demonstration",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 5
                 },
                 {
                   "id": 6,
                   "name": "Working principles practical demonstration of voltage and current dividers",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 6
                 }
               ],
               "level": 2
@@ -2137,7 +2229,8 @@
                 {
                   "id": 7,
                   "name": "Working principles practical demonstration of dissipation for Joule effect in an electric circuit and compute of dissipate power",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 7
                 }
               ],
               "level": 2
@@ -2172,7 +2265,8 @@
                 {
                   "id": 8,
                   "name": "Assembly and disassembly main component of a starter generator",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 8
                 }
               ],
               "level": 2
@@ -2486,7 +2580,8 @@
                 {
                   "id": 9,
                   "name": "Demonstrate safety precautions when working with aircraft",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 9
                 }
               ],
               "level": 3
@@ -2500,7 +2595,8 @@
                 {
                   "id": 10,
                   "name": "Demonstrate how to control and care tools and equipment",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 10
                 }
               ],
               "level": 3
@@ -2514,42 +2610,50 @@
                 {
                   "id": 11,
                   "name": "Demonstrate correct use of measuring equipment e.g. micrometers, Vernier�s and height gauges",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 11
                 },
                 {
                   "id": 12,
                   "name": "Practical use of the electrical connector pin insertion / removal kit",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 12
                 },
                 {
                   "id": 13,
                   "name": "Use of the digital multimeter",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 13
                 },
                 {
                   "id": 14,
                   "name": "Use test meters to measure volts, amps and resistance in practical task circumstances",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 14
                 },
                 {
                   "id": 15,
                   "name": "Demonstrate correct use of tools for wire locking (wire twisting pliers)",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 15
                 },
                 {
                   "id": 16,
                   "name": "Use tools and equipment for \"cutting\" commonly used materials (Ferrous and non-ferrous)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 16
                 },
                 {
                   "id": 17,
                   "name": "Demonstrate correct use of measuring equipment: comparator tool & caliber",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 17
                 },
                 {
                   "id": 18,
                   "name": "Demonstrate the use of lubrication equipment",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 18
                 }
               ],
               "level": 3
@@ -2563,7 +2667,8 @@
                 {
                   "id": 19,
                   "name": "Static Pitot tester practical demonstration",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 19
                 }
               ],
               "level": 2
@@ -2577,22 +2682,26 @@
                 {
                   "id": 20,
                   "name": "Analyze an aircraft electrical circuit in conjunction with an electrical wiring diagram",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 20
                 },
                 {
                   "id": 21,
                   "name": "Identification of the component to be checked in conjunction with an electrical wiring diagram",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 21
                 },
                 {
                   "id": 22,
                   "name": "Check the continuity in conjunction with an electrical wiring diagram",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 22
                 },
                 {
                   "id": 23,
                   "name": "Identify part numbers from an Illustrated Part Catalogue",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 23
                 }
               ],
               "level": 2
@@ -2606,7 +2715,8 @@
                 {
                   "id": 24,
                   "name": "Demonstrate correct use of drills",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 24
                 }
               ],
               "level": 2
@@ -2620,17 +2730,20 @@
                 {
                   "id": 26,
                   "name": "Carry out basic fault finding techniques using a range of test meters",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 26
                 },
                 {
                   "id": 27,
                   "name": "Insert / extract electrical inserts (pins) in a variety of electrical connectors",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 27
                 },
                 {
                   "id": 28,
                   "name": "Interpret typical electrical wiring diagrams and schematics circuits",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 28
                 }
               ],
               "level": 3
@@ -2644,22 +2757,26 @@
                 {
                   "id": 25,
                   "name": "Demonstrate correct use of the riveting pliers",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 25
                 },
                 {
                   "id": 29,
                   "name": "Use hand or power tools to drill rivet holes",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 29
                 },
                 {
                   "id": 30,
                   "name": "Identify faulty rivet settings",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 30
                 },
                 {
                   "id": 31,
                   "name": "Remove defective rivets without causing further damage to skin",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 31
                 }
               ],
               "level": 2
@@ -2715,12 +2832,14 @@
                 {
                   "id": 32,
                   "name": "Perform electric welding",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 32
                 },
                 {
                   "id": 33,
                   "name": "Perform electric brazing",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 33
                 }
               ],
               "level": 2
@@ -2741,22 +2860,26 @@
                 {
                   "id": 34,
                   "name": "Assist in the towing of an aircraft",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 34
                 },
                 {
                   "id": 35,
                   "name": "Perform safety procedures before refueling helicopter",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 35
                 },
                 {
                   "id": 36,
                   "name": "Assist refueling helicopter",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 36
                 },
                 {
                   "id": 37,
                   "name": "Exercise use of NATO - Stanag 3117 �Aircraft Marshalling Signals�",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 37
                 }
               ],
               "level": 2
@@ -2770,17 +2893,20 @@
                 {
                   "id": 39,
                   "name": "Demonstrate inspection technique using a mirror and a light source",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 39
                 },
                 {
                   "id": 40,
                   "name": "Perform wire locking in a variety of assemblies",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 40
                 },
                 {
                   "id": 41,
                   "name": "Perform main rotor blade manual tap test",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 41
                 }
               ],
               "level": 3
@@ -2801,22 +2927,26 @@
                 {
                   "id": 38,
                   "name": "Check and replenish oil and hydraulic systems",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 38
                 },
                 {
                   "id": 42,
                   "name": "Perform DP5069 filling procedures",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 42
                 },
                 {
                   "id": 43,
                   "name": "Perform pre-flight check",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 43
                 },
                 {
                   "id": 44,
                   "name": "Assist daily check",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 44
                 }
               ],
               "level": 2
@@ -3019,7 +3149,8 @@
                 {
                   "id": 45,
                   "name": "Locate airplane systems by zone/station number.",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 45
                 }
               ]
             },
@@ -3059,7 +3190,8 @@
                 {
                   "id": 46,
                   "name": "Main components identification and operational test of Emergency Locator Transmitter system",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 46
                 }
               ],
               "perDifferenzaOf": 12
@@ -3080,12 +3212,14 @@
                 {
                   "id": 47,
                   "name": "Perform functional test of primary flight controls.",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 47
                 },
                 {
                   "id": 48,
                   "name": "Perform inspection and adjust control cable tension.",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 48
                 }
               ]
             },
@@ -3119,12 +3253,14 @@
                 {
                   "id": 49,
                   "name": "Check/adjust tyre pressure.",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 49
                 },
                 {
                   "id": 50,
                   "name": "Removal/installation a landing gear wheel.",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 50
                 }
               ],
               "perDifferenzaOf": 12
@@ -3197,7 +3333,8 @@
                 {
                   "id": 51,
                   "name": "Check the engine mounts structure and vibration dampeners",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 51
                 }
               ],
               "perDifferenzaOf": 11
@@ -3211,7 +3348,8 @@
                 {
                   "id": 52,
                   "name": "Operational function of the heating system",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 52
                 }
               ],
               "perDifferenzaOf": 11
@@ -3250,42 +3388,50 @@
                 {
                   "id": 53,
                   "name": "Main components identification of: Cyclic control, Collective control, Yaw control",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 53
                 },
                 {
                   "id": 54,
                   "name": "Main Rotor Head: main components identification",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 54
                 },
                 {
                   "id": 55,
                   "name": "Swashplate: main components identification",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 55
                 },
                 {
                   "id": 56,
                   "name": "Hydraulic system flight controls: main components identification",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 56
                 },
                 {
                   "id": 57,
                   "name": "Remove tail rotor",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 57
                 },
                 {
                   "id": 58,
                   "name": "Refit tail rotor",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 58
                 },
                 {
                   "id": 59,
                   "name": "Remove blade tail rotor",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 59
                 },
                 {
                   "id": 60,
                   "name": "Refit blade tail rotor",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 60
                 }
               ],
               "level": 3
@@ -3306,42 +3452,50 @@
                 {
                   "id": 61,
                   "name": "Main components identification of main gearbox",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 61
                 },
                 {
                   "id": 62,
                   "name": "Inspect 90� gear boxes",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 62
                 },
                 {
                   "id": 63,
                   "name": "Remove and refit Chip Detector 90� Gearbox",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 63
                 },
                 {
                   "id": 64,
                   "name": "Remove the gearbox engine shaft",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 64
                 },
                 {
                   "id": 65,
                   "name": "Refit the gearbox engine shaft",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 65
                 },
                 {
                   "id": 66,
                   "name": "Remove and refit Chip Detector Main Gearbox",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 66
                 },
                 {
                   "id": 67,
                   "name": "Remove a tail rotor drive shaft and a flexible coupling",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 67
                 },
                 {
                   "id": 68,
                   "name": "Refit a tail rotor drive shaft and a flexible couplings",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 68
                 }
               ],
               "level": 3
@@ -3355,22 +3509,26 @@
                 {
                   "id": 69,
                   "name": "External Helicopter cleaning",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 69
                 },
                 {
                   "id": 70,
                   "name": "Remove and refit a crew or passenger seat",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 70
                 },
                 {
                   "id": 71,
                   "name": "Remove doors",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 71
                 },
                 {
                   "id": 72,
                   "name": "Refit doors",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 72
                 }
               ],
               "level": 2
@@ -3391,7 +3549,8 @@
                 {
                   "id": 73,
                   "name": "Remove and refit a Pitot static Instrument",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 73
                 }
               ],
               "level": 2
@@ -3405,12 +3564,14 @@
                 {
                   "id": 74,
                   "name": "Replace a circuit protection \"breaker\"",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 74
                 },
                 {
                   "id": 75,
                   "name": "Remove and refit main battery",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 75
                 }
               ],
               "level": 3
@@ -3431,7 +3592,8 @@
                 {
                   "id": 76,
                   "name": "Main components identification Fire Protection system",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 76
                 }
               ],
               "level": 3
@@ -3445,7 +3607,8 @@
                 {
                   "id": 77,
                   "name": "Main components identification low pressure Fuel System",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 77
                 }
               ],
               "level": 3
@@ -3459,17 +3622,20 @@
                 {
                   "id": 78,
                   "name": "Hydraulic system main components identification",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 78
                 },
                 {
                   "id": 79,
                   "name": "Remove hydraulic filter",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 79
                 },
                 {
                   "id": 80,
                   "name": "Refit hydraulic filter",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 80
                 }
               ],
               "level": 3
@@ -3490,7 +3656,8 @@
                 {
                   "id": 81,
                   "name": "Landing system main component identification and visual inspection",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 81
                 }
               ],
               "level": 3
@@ -3504,17 +3671,20 @@
                 {
                   "id": 82,
                   "name": "Replace lamps / bulbs of cockpit light",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 82
                 },
                 {
                   "id": 83,
                   "name": "Replace lamps / bulbs of internal light",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 83
                 },
                 {
                   "id": 84,
                   "name": "Replace lamps / bulbs of external light",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 84
                 }
               ],
               "level": 3
@@ -3581,12 +3751,14 @@
                 {
                   "id": 85,
                   "name": "Engine air intake removal procedure",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 85
                 },
                 {
                   "id": 86,
                   "name": "Engine air intake installation procedure",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 86
                 }
               ],
               "level": 2
@@ -3600,22 +3772,26 @@
                 {
                   "id": 87,
                   "name": "Compressor housing removal procedure",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 87
                 },
                 {
                   "id": 88,
                   "name": "Compressor housing installation procedure",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 88
                 },
                 {
                   "id": 89,
                   "name": "Compressor cleaning procedure",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 89
                 },
                 {
                   "id": 90,
                   "name": "Compressor preservation procedure",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 90
                 }
               ],
               "level": 2
@@ -3629,7 +3805,8 @@
                 {
                   "id": 91,
                   "name": "Combustion chamber drain valve removal/installation procedure",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 91
                 }
               ],
               "level": 2
@@ -3671,27 +3848,32 @@
                 {
                   "id": 92,
                   "name": "Lubrication Systems main components identification",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 92
                 },
                 {
                   "id": 93,
                   "name": "Oil Filter Assembly removal/installation procedure, inspection/check, cleaning",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 93
                 },
                 {
                   "id": 94,
                   "name": "Chip Detector removal/installation procedure, inspection/check, cleaning",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 94
                 },
                 {
                   "id": 95,
                   "name": "Lubricating Oil System check oil quantity level, refill to correct level, if necessary, draining and replenishing procedure",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 95
                 },
                 {
                   "id": 96,
                   "name": "Carry out Engine Lubrication System troubleshooting",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 96
                 }
               ],
               "level": 2
@@ -3705,7 +3887,8 @@
                 {
                   "id": 97,
                   "name": "Engine Fuel & Control Systems main components identification",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 97
                 }
               ],
               "level": 2
@@ -3719,7 +3902,8 @@
                 {
                   "id": 98,
                   "name": "Air Systems main components identification",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 98
                 }
               ],
               "level": 2
@@ -3733,12 +3917,14 @@
                 {
                   "id": 99,
                   "name": "Igniter plug removal/installation procedure, inspection/check, cleaning",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 99
                 },
                 {
                   "id": 100,
                   "name": "Starting and Ignition Systems main components identification",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 100
                 }
               ],
               "level": 2
@@ -3752,17 +3938,20 @@
                 {
                   "id": 101,
                   "name": "Tachometer generator removal/installation procedure",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 101
                 },
                 {
                   "id": 102,
                   "name": "Exhaust thermocouple harness inspection/check",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 102
                 },
                 {
                   "id": 103,
                   "name": "Oil temperature bulb removal/installation procedure, inspection/check",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 103
                 }
               ],
               "level": 2
@@ -3864,12 +4053,14 @@
                 {
                   "id": 104,
                   "name": "Engine air filter check, remove and replace",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 104
                 },
                 {
                   "id": 105,
                   "name": "Engine fuel filter check, remove and replace",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 105
                 }
               ],
               "level": 2
@@ -3911,12 +4102,14 @@
                 {
                   "id": 106,
                   "name": "Perform engine oil level check (fill or drain)",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 106
                 },
                 {
                   "id": 107,
                   "name": "Engine oil filter check, remove and replace",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 107
                 }
               ],
               "level": 2
@@ -3944,12 +4137,14 @@
                 {
                   "id": 108,
                   "name": "Perform engine low idle adjustment",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 108
                 },
                 {
                   "id": 109,
                   "name": "Perform engine cleaning",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 109
                 }
               ],
               "level": 3
@@ -3995,7 +4190,8 @@
                 {
                   "id": 110,
                   "name": "Main components identification of: Pitch control system",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 110
                 }
               ],
               "level": 2
@@ -4023,7 +4219,8 @@
                 {
                   "id": 111,
                   "name": "Perform inspection of propeller (including propeller blades, hub, spinner, backplate).",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 111
                 }
               ],
               "level": 3
@@ -4037,7 +4234,8 @@
                 {
                   "id": 112,
                   "name": "Perfom propeller clean, preservation or depreservation",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 112
                 }
               ],
               "level": 2
@@ -4234,17 +4432,20 @@
                 {
                   "id": 207,
                   "name": "Dimostrazione pratica componenti cella Ni-Cd e collegamento in serie",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 1
                 },
                 {
                   "id": 208,
                   "name": "Misurazione efficienza batteria Ni-Cd",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 2
                 },
                 {
                   "id": 209,
                   "name": "Dimostrazione pratica collegamento in parallelo batteria Ni-Cd",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 3
                 }
               ]
             },
@@ -4258,7 +4459,8 @@
                 {
                   "id": 210,
                   "name": "Dimostrazione pratica legge di Kirchhoff",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 4
                 }
               ]
             },
@@ -4272,12 +4474,14 @@
                 {
                   "id": 211,
                   "name": "Dimostrazione pratica ponte di Wheatstone",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 5
                 },
                 {
                   "id": 212,
                   "name": "Dimostrazione pratica partitori di tensione e corrente",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 6
                 }
               ]
             },
@@ -4291,7 +4495,8 @@
                 {
                   "id": 213,
                   "name": "Dimostrazione pratica effetto Joule e calcolo potenza dissipata",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 7
                 }
               ]
             },
@@ -4326,7 +4531,8 @@
                 {
                   "id": 214,
                   "name": "Montaggio e smontaggio componenti principali starter generator",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 8
                 }
               ]
             }
@@ -4350,22 +4556,26 @@
                 {
                   "id": 215,
                   "name": "Test funzionale diodi",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 9
                 },
                 {
                   "id": 216,
                   "name": "Analisi e verifica circuiti raddrizzatori a ponte",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 10
                 },
                 {
                   "id": 217,
                   "name": "Analisi e verifica circuiti regolatori di tensione",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 11
                 },
                 {
                   "id": 218,
                   "name": "Analisi e verifica circuiti raddrizzatori onda intera e semionda",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 12
                 }
               ]
             },
@@ -4386,12 +4596,14 @@
                 {
                   "id": 219,
                   "name": "Analisi funzionamento trasmettitori a induttanza",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 13
                 },
                 {
                   "id": 220,
                   "name": "Analisi funzionamento trasmettitori a capacita",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 14
                 }
               ]
             },
@@ -4422,7 +4634,8 @@
                 {
                   "id": 221,
                   "name": "Verifica disposizione strumenti in cabina di pilotaggio",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 15
                 }
               ]
             },
@@ -4477,7 +4690,8 @@
                 {
                   "id": 222,
                   "name": "Azioni di prevenzione scariche elettrostatiche su dispositivi elettronici sensibili",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 16
                 }
               ]
             }
@@ -4567,7 +4781,8 @@
                 {
                   "id": 231,
                   "name": "Dimostrazione precauzioni di sicurezza nel lavoro su aeromobile",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 25
                 }
               ]
             },
@@ -4581,12 +4796,14 @@
                 {
                   "id": 232,
                   "name": "Dimostrazione controllo e cura di utensili e attrezzature",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 26
                 },
                 {
                   "id": 233,
                   "name": "Verifica e utilizzo di utensili ordinari",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 27
                 }
               ]
             },
@@ -4600,17 +4817,20 @@
                 {
                   "id": 234,
                   "name": "Utilizzo pratico del kit di inserimento/estrazione pin per connettori elettrici",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 28
                 },
                 {
                   "id": 235,
                   "name": "Utilizzo del multimetro digitale",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 29
                 },
                 {
                   "id": 236,
                   "name": "Utilizzo di strumenti di misura per volt, amperaggio e resistenza in contesti pratici",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 30
                 }
               ]
             },
@@ -4624,7 +4844,8 @@
                 {
                   "id": 237,
                   "name": "Dimostrazione pratica del tester statico Pitot",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 31
                 }
               ]
             },
@@ -4638,12 +4859,14 @@
                 {
                   "id": 238,
                   "name": "Identificazione part number da catalogo illustrato delle parti (IPC)",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 32
                 },
                 {
                   "id": 239,
                   "name": "Analisi di un circuito elettrico dell'aeromobile con schema elettrico di riferimento",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 33
                 }
               ]
             },
@@ -4657,7 +4880,8 @@
                 {
                   "id": 240,
                   "name": "Dimostrazione del corretto utilizzo dei trapani",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 34
                 }
               ]
             },
@@ -4671,22 +4895,26 @@
                 {
                   "id": 241,
                   "name": "Esecuzione di tecniche base di ricerca guasti con strumenti di misura",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 35
                 },
                 {
                   "id": 242,
                   "name": "Inserimento/estrazione di pin elettrici in diversi tipi di connettori",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 36
                 },
                 {
                   "id": 243,
                   "name": "Riparazione o sostituzione di un connettore elettrico",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 37
                 },
                 {
                   "id": 244,
                   "name": "Interpretazione di schemi elettrici e circuiti tipici",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 38
                 }
               ]
             },
@@ -4742,7 +4970,8 @@
                 {
                   "id": 245,
                   "name": "Esecuzione di saldature elettriche e ispezione dei giunti saldati",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 39
                 }
               ]
             },
@@ -4763,17 +4992,20 @@
                 {
                   "id": 246,
                   "name": "Esecuzione delle procedure di sicurezza prima del rifornimento dell'aeromobile",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 40
                 },
                 {
                   "id": 247,
                   "name": "Assistenza al rifornimento dell'aeromobile",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 41
                 },
                 {
                   "id": 248,
                   "name": "Esercitazione sull'uso dei segnali di marshalling NATO-Stanag 3117",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 42
                 }
               ]
             },
@@ -4801,7 +5033,8 @@
                 {
                   "id": 249,
                   "name": "Procedure di compilazione modulo DP5069",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 43
                 }
               ]
             },
@@ -4953,22 +5186,26 @@
                 {
                   "id": 250,
                   "name": "Rimozione e reinstallazione pannello Helipilot API (indicatore posizione attuatore)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 44
                 },
                 {
                   "id": 251,
                   "name": "Rimozione e reinstallazione selettore modalita e pannelli comando Helipilot",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 45
                 },
                 {
                   "id": 252,
                   "name": "Rimozione e reinstallazione giroscopio verticale Helipilot",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 46
                 },
                 {
                   "id": 253,
                   "name": "Rimozione e reinstallazione sensore velocita aria Helipilot",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 47
                 }
               ]
             },
@@ -4982,17 +5219,20 @@
                 {
                   "id": 254,
                   "name": "Rimozione e reinstallazione unita ricetrasmittente sistema comunicazione HF (alta frequenza)",
-                  "plannedHours": 4
+                  "plannedHours": 4,
+                  "programTaskId": 48
                 },
                 {
                   "id": 255,
                   "name": "Rimozione e reinstallazione unita ricetrasmittente sistema comunicazione VHF (altissima frequenza)",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 49
                 },
                 {
                   "id": 256,
                   "name": "Rimozione e reinstallazione unita ricevitore ADF (radiogoniometro automatico)",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 50
                 }
               ]
             },
@@ -5006,47 +5246,56 @@
                 {
                   "id": 257,
                   "name": "Sostituzione di un interruttore di protezione circuito (breaker)",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 51
                 },
                 {
                   "id": 258,
                   "name": "Installazione batterie",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 52
                 },
                 {
                   "id": 259,
                   "name": "Verifica batterie",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 53
                 },
                 {
                   "id": 260,
                   "name": "Regolazione tensione in corrente continua (DC)",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 54
                 },
                 {
                   "id": 261,
                   "name": "Rimozione e reinstallazione centralina di controllo DC",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 55
                 },
                 {
                   "id": 262,
                   "name": "Regolazione tensione in corrente alternata (AC)",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 56
                 },
                 {
                   "id": 263,
                   "name": "Collegamento alimentazione esterna/a terra",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 57
                 },
                 {
                   "id": 264,
                   "name": "Rimozione e reinstallazione starter generator",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 58
                 },
                 {
                   "id": 265,
                   "name": "Rimozione e reinstallazione inverter",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 59
                 }
               ]
             },
@@ -5074,57 +5323,68 @@
                 {
                   "id": 266,
                   "name": "Rimozione e reinstallazione strumenti altimetro",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 60
                 },
                 {
                   "id": 267,
                   "name": "Rimozione e reinstallazione indicatore di velocita verticale",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 61
                 },
                 {
                   "id": 268,
                   "name": "Rimozione e reinstallazione indicatore di velocita anemometrica",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 62
                 },
                 {
                   "id": 269,
                   "name": "Rimozione e reinstallazione indicatore temperatura olio trasmissione",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 63
                 },
                 {
                   "id": 270,
                   "name": "Rimozione e reinstallazione bulbo termoresistivo",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 64
                 },
                 {
                   "id": 271,
                   "name": "Rimozione e reinstallazione indicatore quantita carburante",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 65
                 },
                 {
                   "id": 272,
                   "name": "Rimozione e reinstallazione H.S.I. (indicatore di situazione orizzontale)",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 66
                 },
                 {
                   "id": 273,
                   "name": "Rimozione e reinstallazione A.D.I. (indicatore direzionale di assetto)",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 67
                 },
                 {
                   "id": 274,
                   "name": "Rimozione e reinstallazione giroscopi direzionali",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 68
                 },
                 {
                   "id": 275,
                   "name": "Rimozione e reinstallazione flux valve",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 69
                 },
                 {
                   "id": 276,
                   "name": "Rimozione e reinstallazione pannello avvisi",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 70
                 }
               ]
             },
@@ -5138,27 +5398,32 @@
                 {
                   "id": 277,
                   "name": "Sostituzione lampade luci cockpit",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 71
                 },
                 {
                   "id": 278,
                   "name": "Sostituzione lampade luci interne",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 72
                 },
                 {
                   "id": 279,
                   "name": "Sostituzione lampade luci esterne",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 73
                 },
                 {
                   "id": 280,
                   "name": "Rimozione e reinstallazione faro di atterraggio",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 74
                 },
                 {
                   "id": 281,
                   "name": "Rimozione e reinstallazione faro di ricerca",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 75
                 }
               ]
             },
@@ -5179,7 +5444,8 @@
                 {
                   "id": 282,
                   "name": "Identificazione componenti principali sistema riscaldamento e ventilazione",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 76
                 }
               ]
             },
@@ -5193,12 +5459,14 @@
                 {
                   "id": 283,
                   "name": "Identificazione componenti principali sistema antincendio",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 77
                 },
                 {
                   "id": 284,
                   "name": "Verifica sensore rilevazione incendio",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 78
                 }
               ]
             },
@@ -5212,12 +5480,14 @@
                 {
                   "id": 285,
                   "name": "Identificazione componenti principali sistema carburante bassa pressione",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 79
                 },
                 {
                   "id": 286,
                   "name": "Rimozione e reinstallazione pannello selezione quantita carburante",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 80
                 }
               ]
             },
@@ -5231,12 +5501,14 @@
                 {
                   "id": 287,
                   "name": "Identificazione componenti principali sistema idraulico",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 81
                 },
                 {
                   "id": 288,
                   "name": "Rimozione e reinstallazione trasmettitore pressione idraulica",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 82
                 }
               ]
             },
@@ -5250,12 +5522,14 @@
                 {
                   "id": 289,
                   "name": "Rimozione e reinstallazione motore tergicristalli",
-                  "plannedHours": 6
+                  "plannedHours": 6,
+                  "programTaskId": 83
                 },
                 {
                   "id": 290,
                   "name": "Rimozione e reinstallazione pannello controllo tergicristalli",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 84
                 }
               ]
             },
@@ -5327,12 +5601,14 @@
                 {
                   "id": 223,
                   "name": "Identificazione componenti principali motore turbina e riferimenti direzionali",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 17
                 },
                 {
                   "id": 224,
                   "name": "Verifica funzionale trim BEEPER",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 18
                 }
               ]
             },
@@ -5346,27 +5622,32 @@
                 {
                   "id": 225,
                   "name": "Procedura rimozione/installazione Chip Detector, ispezione e pulizia",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 19
                 },
                 {
                   "id": 226,
                   "name": "Verifica resistenza e continuita sistema termocoppia",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 20
                 },
                 {
                   "id": 227,
                   "name": "Rimozione e reinstallazione indicatore temperatura olio motore",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 21
                 },
                 {
                   "id": 228,
                   "name": "Rimozione e reinstallazione indicatore E.G.T.",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 22
                 },
                 {
                   "id": 229,
                   "name": "Rimozione e reinstallazione termocoppia",
-                  "plannedHours": 5
+                  "plannedHours": 5,
+                  "programTaskId": 23
                 }
               ]
             },
@@ -5380,7 +5661,8 @@
                 {
                   "id": 230,
                   "name": "Rimozione e reinstallazione candele",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 24
                 }
               ]
             },
@@ -5476,22 +5758,26 @@
                 {
                   "id": 113,
                   "name": "Carry out functional testing of diodes (ATA 24)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 1
                 },
                 {
                   "id": 114,
                   "name": "Analyze and check the bridge rectifiers circuits (ATA 24)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 2
                 },
                 {
                   "id": 115,
                   "name": "Analyze and check the voltage regulator circuits (ATA 24)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 3
                 },
                 {
                   "id": 116,
                   "name": "Analyze and check the full and half wave rectifiers circuits (ATA 24)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 4
                 }
               ],
               "level": 2
@@ -5556,12 +5842,14 @@
                 {
                   "id": 117,
                   "name": "Analyze the functioning of an inductance transmitters (ATA 24)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 5
                 },
                 {
                   "id": 118,
                   "name": "Analyze the functioning of a capacitance transmitters (ATA 24)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 6
                 }
               ],
               "level": 2
@@ -5587,7 +5875,8 @@
                 {
                   "id": 119,
                   "name": "Check cockpit layout of instruments (ATA 31)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 7
                 }
               ],
               "level": 3
@@ -5687,7 +5976,8 @@
                 {
                   "id": 120,
                   "name": "Perform any action to prevent electrostatic discharge to avoid damage on sensible electronic devices (ATA 20)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 8
                 }
               ]
             }
@@ -5712,7 +6002,8 @@
                 {
                   "id": 121,
                   "name": "Static Pitot tester practical demonstration (ATA 20)",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 9
                 }
               ],
               "level": 3
@@ -5766,22 +6057,26 @@
                 {
                   "id": 122,
                   "name": "Remove and re-install Helipilot API (actuator position indicator) panel (ATA 22)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 10
                 },
                 {
                   "id": 123,
                   "name": "Remove and re-install Helipilot mode selector and command panels (ATA 22)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 11
                 },
                 {
                   "id": 124,
                   "name": "Remove and re-install Helipilot vertical gyro (ATA 22)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 12
                 },
                 {
                   "id": 125,
                   "name": "Remove and re-install Helipilot air speed sensor (ATA 22)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 13
                 }
               ],
               "level": 3
@@ -5809,17 +6104,20 @@
                 {
                   "id": 126,
                   "name": "Remove and re-install a HF (High Frequency) communication system R/T unit (ATA 23)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 14
                 },
                 {
                   "id": 127,
                   "name": "Remove and re-install a VHF (Very High Frequency) communication system R/T unit (ATA 23)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 15
                 },
                 {
                   "id": 128,
                   "name": "Remove and re-install an ADF (Automatic Direction Finding) Receiver unit (ATA 23)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 16
                 }
               ],
               "level": 2
@@ -5860,57 +6158,68 @@
                 {
                   "id": 129,
                   "name": "Remove and re-install Altimeter instruments (ATA 31)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 17
                 },
                 {
                   "id": 130,
                   "name": "Remove and re-install Vertical speed indicator (ATA 31)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 18
                 },
                 {
                   "id": 131,
                   "name": "Remove and re-install Airspeed indicator (ATA 31)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 19
                 },
                 {
                   "id": 132,
                   "name": "Remove and re-install Transmission Oil Temperature indicator (ATA 31)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 20
                 },
                 {
                   "id": 133,
                   "name": "Remove and re-install thermo resistance bulb (ATA 31)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 21
                 },
                 {
                   "id": 134,
                   "name": "Remove and re-install Fuel quantity indicator (ATA 31)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 22
                 },
                 {
                   "id": 135,
                   "name": "Remove and re-install H.S.I. (Horizontal Situation Indicator) (ATA 31)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 23
                 },
                 {
                   "id": 136,
                   "name": "Remove and re-install A.D.I. (Attitude Directional Indicator) (ATA 31)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 24
                 },
                 {
                   "id": 137,
                   "name": "Remove and re-install Directional Gyros (ATA 31)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 25
                 },
                 {
                   "id": 138,
                   "name": "Remove and re-install Flux valve (ATA 31)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 26
                 },
                 {
                   "id": 139,
                   "name": "Remove and re-install warning panel (ATA 31)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 27
                 }
               ],
               "level": 3
@@ -5940,7 +6249,8 @@
                 {
                   "id": 140,
                   "name": "Main components identification heating and ventilation system (ATA 21)",
-                  "plannedHours": 3
+                  "plannedHours": 3,
+                  "programTaskId": 28
                 }
               ],
               "level": 3
@@ -5967,7 +6277,8 @@
                 {
                   "id": 141,
                   "name": "Remove and re-install wipers motor (ATA 30)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 29
                 }
               ],
               "level": 3
@@ -6047,27 +6358,32 @@
                 {
                   "id": 143,
                   "name": "Chip Detector removal/installation procedure, inspection/check, cleaning (ATA 79)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 31
                 },
                 {
                   "id": 144,
                   "name": "Resistance and continuity checks of thermocouple system (ATA 77)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 32
                 },
                 {
                   "id": 145,
                   "name": "Remove and re-install Engine Oil Temperature indicator (ATA 79)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 33
                 },
                 {
                   "id": 146,
                   "name": "Remove and re-install E.G.T. (Exhaust Gas Turbine) indicator (ATA 77)",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 34
                 },
                 {
                   "id": 147,
                   "name": "Remove and re-install thermocouple (ATA 77)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 35
                 }
               ],
               "level": 2
@@ -6081,7 +6397,8 @@
                 {
                   "id": 142,
                   "name": "Functional check of BEEPER trim (ATA 76)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 30
                 }
               ]
             },
@@ -6094,7 +6411,8 @@
                 {
                   "id": 148,
                   "name": "Remove and re-install spark plugs (ATA 74)",
-                  "plannedHours": 2
+                  "plannedHours": 2,
+                  "programTaskId": 36
                 }
               ]
             }
@@ -6171,27 +6489,32 @@
                 {
                   "id": 149,
                   "name": "Eseguire una prova di collegamento tra Tactical Communication Systems",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 37
                 },
                 {
                   "id": 150,
                   "name": "Rimozione pannello di comando impianto VHF/AM",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 38
                 },
                 {
                   "id": 151,
                   "name": "Istallazione pannello di comando impianto VHF/AM",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 39
                 },
                 {
                   "id": 152,
                   "name": "Rimozione ricetrasmettitore e amplificatore di potenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 40
                 },
                 {
                   "id": 153,
                   "name": "Istallazione ricetrasmettitore e amplificatore di potenza",
-                  "plannedHours": 1
+                  "plannedHours": 1,
+                  "programTaskId": 41
                 }
               ],
               "level": 3
